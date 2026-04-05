@@ -18,7 +18,6 @@ BANKS = [
     {"name": "بنك الإمارات دبي الوطني", "id": "enbd",  "script": "enbd/enbd.py",   "json": "data/enbd.json"},
     {"name": "البنك العربي الوطني", "id": "arabi", "script": "arabi/arabi.py", "json": "data/arabi.json"},
     {"name": "البنك السعودي الأول",             "id": "sab",   "script": "sab/sab.py",     "json": "data/sab.json"},
-    {"name": "D360",                  "id": "d360",  "script": "d360/d360.py",   "json": "data/d360.json"},
     {"name": "STC Bank",              "id": "stc",   "script": "stc/stc.py",     "json": "data/stc.json"},
 ]
 
@@ -37,7 +36,6 @@ BANK_COLORS = {
     "enbd":  {"main": "#E31837", "light": "#FF6B6B", "bg": "rgba(227,24,55,0.1)",  "border": "rgba(227,24,55,0.3)"},
     "arabi": {"main": "#8B1A1A", "light": "#CC3333", "bg": "rgba(139,26,26,0.1)",  "border": "rgba(139,26,26,0.3)"},
     "sab":   {"main": "#6D1F7E", "light": "#A855C8", "bg": "rgba(109,31,126,0.1)", "border": "rgba(109,31,126,0.3)"},
-    "d360":  {"main": "#0D47A1", "light": "#42A5F5", "bg": "rgba(13,71,161,0.1)",  "border": "rgba(13,71,161,0.3)"},
     "stc":   {"main": "#6A1B9A", "light": "#CE93D8", "bg": "rgba(106,27,154,0.1)", "border": "rgba(106,27,154,0.3)"},
 }
 
