@@ -18,7 +18,6 @@
     --enbd: #E31837; --enbd-l: #FF6B6B; --enbd-bg: rgba(227,24,55,0.1); --enbd-br: rgba(227,24,55,0.3);
     --arabi: #8B1A1A; --arabi-l: #CC3333; --arabi-bg: rgba(139,26,26,0.1); --arabi-br: rgba(139,26,26,0.3);
     --sab: #6D1F7E; --sab-l: #A855C8; --sab-bg: rgba(109,31,126,0.1); --sab-br: rgba(109,31,126,0.3);
-    --d360: #0D47A1; --d360-l: #42A5F5; --d360-bg: rgba(13,71,161,0.1); --d360-br: rgba(13,71,161,0.3);
     --stc: #6A1B9A; --stc-l: #CE93D8; --stc-bg: rgba(106,27,154,0.1); --stc-br: rgba(106,27,154,0.3);
   --bg:#F4F6F9;--sf:#FFFFFF;--cd:#FFFFFF;--br:rgba(0,0,0,.08);
   --tx:#1A1A2E;--mt:#6B7280;--hn:#E8ECF0;
@@ -133,11 +132,11 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
 <div class="tb">
   <div style="display:flex;align-items:center;gap:.75rem">
     <div class="bi">🏦</div>
-    <div><div class="bn">عروض البنوك</div><div class="bs">آخر تحديث: 2026-04-05 21:25</div></div>
+    <div><div class="bn">عروض البنوك</div><div class="bs">آخر تحديث: 2026-04-05 21:52</div></div>
   </div>
   <div class="tm">
-    <span class="pl pl-c">893 عرض</span>
-    <span class="pl pl-er">12/13 بنك</span>
+    <span class="pl pl-c">892 عرض</span>
+    <span class="pl pl-ok">12/12 بنك</span>
   </div>
 </div>
 
@@ -149,10 +148,9 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
 <div class="si"><span class="sd dot-ok"></span>بنك الرياض — 50 عرض</div>
 <div class="si"><span class="sd dot-ok"></span>بنك الجزيرة — 128 عرض</div>
 <div class="si"><span class="sd dot-ok"></span>البنك الأهلي السعودي — 95 عرض</div>
-<div class="si"><span class="sd dot-ok"></span>بنك الإمارات دبي الوطني — 37 عرض</div>
+<div class="si"><span class="sd dot-ok"></span>بنك الإمارات دبي الوطني — 36 عرض</div>
 <div class="si"><span class="sd dot-ok"></span>البنك العربي الوطني — 17 عرض</div>
 <div class="si"><span class="sd dot-ok"></span>البنك السعودي الأول — 373 عرض</div>
-<div class="si"><span class="sd dot-err"></span>D360 — تعذّر التحديث</div>
 <div class="si"><span class="sd dot-ok"></span>STC Bank — 21 عرض</div>
 </div>
 
@@ -161,7 +159,7 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <span class="si-icon">🔍</span>
     <input type="text" id="q" placeholder="ابحث عن متجر..." oninput="fil()">
   </div>
-  <div class="fg"><button class='fb active' onclick="setBank('all',this)">الكل <span class='bc'>(893)</span></button>
+  <div class="fg"><button class='fb active' onclick="setBank('all',this)">الكل <span class='bc'>(892)</span></button>
 <button class='fb f-rajhi' onclick="setBank('rajhi',this)">مصرف الراجحي <span class='bc'>(106)</span></button>
 <button class='fb f-inma' onclick="setBank('inma',this)">مصرف الإنماء <span class='bc'>(4)</span></button>
 <button class='fb f-bsf' onclick="setBank('bsf',this)">البنك السعودي الفرنسي <span class='bc'>(18)</span></button>
@@ -170,7 +168,7 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
 <button class='fb f-riyadh' onclick="setBank('riyadh',this)">بنك الرياض <span class='bc'>(50)</span></button>
 <button class='fb f-jazira' onclick="setBank('jazira',this)">بنك الجزيرة <span class='bc'>(128)</span></button>
 <button class='fb f-ahli' onclick="setBank('ahli',this)">البنك الأهلي السعودي <span class='bc'>(95)</span></button>
-<button class='fb f-enbd' onclick="setBank('enbd',this)">بنك الإمارات دبي الوطني <span class='bc'>(37)</span></button>
+<button class='fb f-enbd' onclick="setBank('enbd',this)">بنك الإمارات دبي الوطني <span class='bc'>(36)</span></button>
 <button class='fb f-arabi' onclick="setBank('arabi',this)">البنك العربي الوطني <span class='bc'>(17)</span></button>
 <button class='fb f-sab' onclick="setBank('sab',this)">البنك السعودي الأول <span class='bc'>(373)</span></button>
 <button class='fb f-stc' onclick="setBank('stc',this)">STC Bank <span class='bc'>(21)</span></button>
@@ -178,7 +176,7 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
 </div>
 
 <div class="gw">
-  <div class="rc" id="rc">893 عرض</div>
+  <div class="rc" id="rc">892 عرض</div>
   <div class="grid" id="grid"><a class="card" href="https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Food-and-Beverage/Black-Tap" target="_blank" data-bank="rajhi" data-cat="المأكولات والمشروبات">
   <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2025/BLACKTAP.jpg?h=180&iar=0&w=360&hash=0007B34354997C88D226DE4D7B147215" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
@@ -3737,14 +3735,6 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="sn">SHEIN</div>
     <div class="card-meta"><span class="bb ahli">البنك الأهلي السعودي</span><span class="disc-tag">20%</span></div>
     <div class="ft"><span class="ed">ينتهي 30 يونيو 2026</span><span class="vl">عرض ←</span></div>
-  </div>
-</a>
-<a class="card" href="https://www.emiratesnbd.com.sa/ar/deals/furniture/alshamasi-furniture" target="_blank" data-bank="enbd" data-cat="أثاث">
-  <div class="ci"><img src="https://cdn.emiratesnbd.com/plugins/cardprivileges/images/inner_images/alshammasi_furniture_logo.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
-  <div class="cb">
-    <div class="sn">Alshammasi Furniture</div>
-    <div class="card-meta"><span class="bb enbd">بنك الإمارات دبي الوطني</span><span class="disc-tag">25%</span></div>
-    <div class="ft"><span class="ed">ينتهي 11/08/2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.emiratesnbd.com.sa/ar/deals/dining/flower-yard-offer" target="_blank" data-bank="enbd" data-cat="مطاعم">
