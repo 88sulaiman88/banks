@@ -37,55 +37,51 @@ jobs:
         run: mkdir -p data
 
       - name: Run الراجحي
-        run: python Rajhi/rajhi.py
+        run: cd Rajhi && python rajhi.py
         continue-on-error: true
 
       - name: Run الإنماء
-        run: python inma/Alinma.py
+        run: cd inma && python Alinma.py
         continue-on-error: true
 
       - name: Run BSF
-        run: python BSF/bsf.py
+        run: cd BSF && python bsf.py
         continue-on-error: true
 
       - name: Run البلاد
-        run: python bilad/bilad.py
+        run: cd bilad && python bilad.py
         continue-on-error: true
 
       - name: Run SAIB
-        run: python SAIB/saib.py
+        run: cd SAIB && python saib.py
         continue-on-error: true
 
       - name: Run بنك الرياض
-        run: python Riyadh/riyadh.py
+        run: cd Riyadh && python riyadh.py
         continue-on-error: true
 
       - name: Run الجزيرة
-        run: python Jazeera/jazira.py
+        run: cd Jazeera && python jazira.py
         continue-on-error: true
 
       - name: Run الأهلي
-        run: python Ahli/ahli.py
+        run: cd Ahli && python ahli.py
         continue-on-error: true
 
       - name: Run ENBD
-        run: python ENBD/enbd.py
+        run: cd ENBD && python enbd.py
         continue-on-error: true
 
       - name: Run ANB
-        run: python Arabi/arabi.py
+        run: cd Arabi && python arabi.py
         continue-on-error: true
 
       - name: Run SAB
-        run: python sab/sab.py
-        continue-on-error: true
-
-      - name: Run D360
-        run: python D360/d360.py
+        run: cd sab && python sab.py
         continue-on-error: true
 
       - name: Run STC
-        run: python STC/stc.py
+        run: cd STC && python stc.py
         continue-on-error: true
 
       - name: Build index.html
