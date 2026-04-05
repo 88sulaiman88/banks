@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>عروض البنوك</title>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;900&display=swap" rel="stylesheet">
+<style>
+:root {
+    --rajhi: #C8860A; --rajhi-l: #F0B040; --rajhi-bg: rgba(200,134,10,0.1); --rajhi-br: rgba(200,134,10,0.3);
+    --inma: #1B6FB5; --inma-l: #4AA0E8; --inma-bg: rgba(27,111,181,0.1); --inma-br: rgba(27,111,181,0.3);
+    --bsf: #C9A84C; --bsf-l: #F0D080; --bsf-bg: rgba(201,168,76,0.1); --bsf-br: rgba(201,168,76,0.3);
+    --bilad: #C41E3A; --bilad-l: #E74C3C; --bilad-bg: rgba(196,30,58,0.1); --bilad-br: rgba(196,30,58,0.3);
+    --saib: #1A5276; --saib-l: #2E86C1; --saib-bg: rgba(26,82,118,0.1); --saib-br: rgba(26,82,118,0.3);
+    --riyadh: #006838; --riyadh-l: #2ECC71; --riyadh-bg: rgba(0,104,56,0.1); --riyadh-br: rgba(0,104,56,0.3);
+    --jazira: #2D8C4E; --jazira-l: #4CAF72; --jazira-bg: rgba(45,140,78,0.1); --jazira-br: rgba(45,140,78,0.3);
+    --ahli: #006C35; --ahli-l: #00A550; --ahli-bg: rgba(0,108,53,0.1); --ahli-br: rgba(0,108,53,0.3);
+    --enbd: #E31837; --enbd-l: #FF6B6B; --enbd-bg: rgba(227,24,55,0.1); --enbd-br: rgba(227,24,55,0.3);
+    --arabi: #8B1A1A; --arabi-l: #CC3333; --arabi-bg: rgba(139,26,26,0.1); --arabi-br: rgba(139,26,26,0.3);
+    --sab: #6D1F7E; --sab-l: #A855C8; --sab-bg: rgba(109,31,126,0.1); --sab-br: rgba(109,31,126,0.3);
+    --d360: #0D47A1; --d360-l: #42A5F5; --d360-bg: rgba(13,71,161,0.1); --d360-br: rgba(13,71,161,0.3);
+    --stc: #6A1B9A; --stc-l: #CE93D8; --stc-bg: rgba(106,27,154,0.1); --stc-br: rgba(106,27,154,0.3);
+  --bg:#F4F6F9;--sf:#FFFFFF;--cd:#FFFFFF;--br:rgba(0,0,0,.08);
+  --tx:#1A1A2E;--mt:#6B7280;--hn:#E8ECF0;
+  --gn:#16A34A;--gn-bg:rgba(22,163,74,.08);
+  --rd:#DC2626;--rd-bg:rgba(220,38,38,.06);--rd-br:rgba(220,38,38,.2);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-height:100vh}
+
+.tb{background:var(--sf);border-bottom:1px solid var(--br);padding:1.25rem 2rem;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem;position:sticky;top:0;z-index:100}
+.bi{width:36px;height:36px;background:linear-gradient(135deg,var(--rajhi),var(--inma));border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px}
+.bn{font-size:1.1rem;font-weight:700}
+.bs{font-size:.75rem;color:var(--mt)}
+.tm{display:flex;gap:.5rem;flex-wrap:wrap;align-items:center}
+.pl{font-size:.75rem;font-weight:600;padding:.25rem .75rem;border-radius:20px;white-space:nowrap}
+.pl-c{background:rgba(255,255,255,.08);color:var(--tx);border:1px solid var(--br)}
+.pl-ok{background:var(--gn-bg);color:var(--gn);border:1px solid rgba(61,190,110,.25)}
+.pl-er{background:var(--rd-bg);color:var(--rd);border:1px solid var(--rd-br)}
+
+.stb{display:none}
+.si{display:none}
+.sd{display:none}
+
+.ct{max-width:1400px;margin:1.5rem auto 0;padding:0 2rem;display:flex;flex-direction:column;gap:.75rem}
+.cl{font-size:.75rem;color:var(--mt)}
+.fg{display:flex;gap:.4rem;flex-wrap:wrap}
+.sp{width:1px;height:24px;background:var(--br);flex-shrink:0}
+.fb{font-family:'Cairo',sans-serif;font-size:.78rem;font-weight:500;padding:.3rem .85rem;border-radius:20px;border:1px solid var(--br);background:transparent;color:var(--mt);cursor:pointer;transition:all .18s;white-space:nowrap}
+.bc{font-size:.7rem;opacity:.7;font-weight:400}
+.search-bar{position:relative;width:100%;margin-bottom:.5rem}
+.search-bar input{font-family:'Cairo',sans-serif;font-size:.95rem;background:var(--sf);border:1.5px solid var(--br);color:var(--tx);padding:.6rem 1rem .6rem 2.5rem;border-radius:12px;outline:none;width:100%;transition:border-color .2s;box-shadow:0 1px 4px rgba(0,0,0,.06)}
+.search-bar input:focus{border-color:#4A90D9}
+.search-bar input::placeholder{color:var(--mt)}
+.si-icon{position:absolute;left:.8rem;top:50%;transform:translateY(-50%);color:var(--mt);font-size:1rem;pointer-events:none}
+
+.hero{background:var(--sf);border-bottom:1px solid var(--br);padding:2.5rem 2rem}
+.hero-inner{max-width:700px;margin:0 auto;text-align:center}
+.search-big{position:relative;margin-bottom:.75rem}
+.search-big input{font-family:'Cairo',sans-serif;width:100%;font-size:1.1rem;padding:.9rem 1.25rem .9rem 3rem;border-radius:14px;border:2px solid var(--br);background:var(--bg);color:var(--tx);outline:none;transition:border-color .2s,box-shadow .2s}
+.search-big input:focus{border-color:rgba(0,0,0,.25);box-shadow:0 4px 20px rgba(0,0,0,.08)}
+.search-big input::placeholder{color:var(--mt)}
+.search-big-icon{position:absolute;right:1rem;top:50%;transform:translateY(-50%);font-size:1.2rem;pointer-events:none}
+.rc-hero{font-size:.85rem;color:var(--mt)}
+.fb:hover{background:var(--hn);color:var(--tx)}
+.fb.active{color:var(--tx);border-color:rgba(255,255,255,.3);background:var(--hn)}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sw{margin-right:auto;position:relative}
+.sw input{font-family:'Cairo',sans-serif;font-size:.82rem;background:var(--sf);border:1px solid var(--br);color:var(--tx);padding:.35rem .85rem .35rem 2rem;border-radius:20px;outline:none;width:200px}
+.sw input::placeholder{color:var(--mt)}
+.si-icon{position:absolute;left:.65rem;top:50%;transform:translateY(-50%);color:var(--mt);font-size:.85rem;pointer-events:none}
+
+.gw{max-width:1400px;margin:1.25rem auto 0;padding:0 2rem 3rem}
+.rc{font-size:.78rem;color:var(--mt);margin-bottom:1rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:1rem}
+
+.card{background:var(--cd);border:1px solid var(--br);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;transition:transform .2s,border-color .2s,box-shadow .2s;text-decoration:none;color:inherit}
+.card:hover{transform:translateY(-4px);border-color:rgba(0,0,0,.15);box-shadow:0 12px 40px rgba(0,0,0,.1)}
+.ci{position:relative;height:130px;background:var(--sf);display:flex;align-items:center;justify-content:center;overflow:hidden;border-bottom:1px solid var(--br)}
+.ci img{width:100%;height:100%;object-fit:cover;transition:transform .3s;position:absolute}
+.card:hover .ci img{transform:scale(1.04)}
+.cf{font-size:2rem;opacity:.15}
+.bb{font-size:.68rem;font-weight:700;padding:.15rem .5rem;border-radius:20px;display:inline-block;background:#F0F2F5;color:#4B5563;border:1px solid #D1D5DB}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cb{padding:.85rem 1rem;flex:1;display:flex;flex-direction:column;gap:5px}
+.sn{font-size:.92rem;font-weight:700;color:var(--tx);line-height:1.3}
+.cn{font-size:.73rem;color:var(--mt)}
+.card-meta{display:flex;align-items:center;gap:.4rem;flex-wrap:wrap;margin-top:2px}
+.disc-tag{font-size:.68rem;font-weight:700;padding:.15rem .5rem;border-radius:20px;background:var(--gn-bg);color:var(--gn);border:1px solid rgba(22,163,74,.25)}
+.ft{display:flex;justify-content:space-between;align-items:center;margin-top:auto;padding-top:.6rem;border-top:1px solid var(--br)}
+.ed{font-size:.7rem;color:var(--mt)}
+.vl{font-size:.7rem;color:var(--mt);opacity:.6}
+
+.empty{grid-column:1/-1;text-align:center;padding:4rem 2rem;color:var(--mt)}
+
+@media(max-width:700px){
+  .tb,.ct,.gw{padding-right:1rem;padding-left:1rem}
+  .stb{padding:.6rem 1rem}
+  .grid{grid-template-columns:repeat(auto-fill,minmax(160px,1fr))}
+  .sw input{width:140px}
+}
+</style>
+</head>
+<body>
+
+<div class="tb">
+  <div style="display:flex;align-items:center;gap:.75rem">
+    <div class="bi">🏦</div>
+    <div><div class="bn">عروض البنوك</div><div class="bs">آخر تحديث: 2026-04-05 20:37</div></div>
+  </div>
+  <div class="tm">
+    <span class="pl pl-c">0 عرض</span>
+    <span class="pl pl-er">0/13 بنك</span>
+  </div>
+</div>
+
+<div class="stb"><div class="si"><span class="sd dot-err"></span>مصرف الراجحي — تعذّر التحديث</div>
+<div class="si"><span class="sd dot-err"></span>مصرف الإنماء — تعذّر التحديث</div>
+<div class="si"><span class="sd dot-err"></span>البنك السعودي الفرنسي — تعذّر التحديث</div>
+<div class="si"><span class="sd dot-err"></span>بنك البلاد — تعذّر التحديث</div>
+<div class="si"><span class="sd dot-err"></span>البنك السعودي للاستثمار — تعذّر التحديث</div>
+<div class="si"><span class="sd dot-err"></span>بنك الرياض — تعذّر التحديث</div>
+<div class="si"><span class="sd dot-err"></span>بنك الجزيرة — تعذّر التحديث</div>
+<div class="si"><span class="sd dot-err"></span>البنك الأهلي السعودي — تعذّر التحديث</div>
+<div class="si"><span class="sd dot-err"></span>بنك الإمارات دبي الوطني — تعذّر التحديث</div>
+<div class="si"><span class="sd dot-err"></span>البنك العربي الوطني — تعذّر التحديث</div>
+<div class="si"><span class="sd dot-err"></span>البنك السعودي الأول — تعذّر التحديث</div>
+<div class="si"><span class="sd dot-err"></span>D360 — تعذّر التحديث</div>
+<div class="si"><span class="sd dot-err"></span>STC Bank — تعذّر التحديث</div>
+</div>
+
+<div class="ct">
+  <div class="search-bar">
+    <span class="si-icon">🔍</span>
+    <input type="text" id="q" placeholder="ابحث عن متجر..." oninput="fil()">
+  </div>
+  <div class="fg"><button class='fb active' onclick="setBank('all',this)">الكل <span class='bc'>(0)</span></button>
+</div>
+</div>
+
+<div class="gw">
+  <div class="rc" id="rc">0 عرض</div>
+  <div class="grid" id="grid"></div>
+</div>
+
+<script>
+let aB='all';
+function setBank(b,btn){aB=b;document.querySelectorAll('.ct .fb').forEach(x=>x.classList.remove('active'));btn.classList.add('active');fil();}
+function fuzzyMatch(text,query){
+  if(!query)return true;
+  text=text.toLowerCase();query=query.toLowerCase();
+  if(text.includes(query))return true;
+  let qi=0;
+  for(let i=0;i<text.length&&qi<query.length;i++){if(text[i]===query[qi])qi++;}
+  return qi===query.length;
+}
+function fil(){
+  const q=document.getElementById('q').value.trim();
+  let n=0;
+  document.querySelectorAll('.card').forEach(c=>{
+    const sn=c.querySelector('.sn')?.textContent||'';
+    const cn=c.querySelector('.cn')?.textContent||'';
+    const ok=(aB==='all'||c.dataset.bank===aB)&&(!q||fuzzyMatch(sn,q)||fuzzyMatch(cn,q));
+    c.style.display=ok?'':'none';
+    if(ok)n++;
+  });
+  document.getElementById('rc').textContent=n+' عرض';
+  const hero=document.getElementById('rc-hero');
+  if(hero)hero.textContent=n+' عرض متاح';
+}
+</script>
+</body>
+</html>
