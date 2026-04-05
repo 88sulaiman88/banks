@@ -80,6 +80,10 @@ jobs:
         run: cd sab && python sab.py
         continue-on-error: true
 
+      - name: Run D360
+        run: cd D360 && python d360.py
+        continue-on-error: true
+
       - name: Run STC
         run: cd STC && python stc.py
         continue-on-error: true
