@@ -2,8 +2,8 @@ name: تحديث عروض البنوك
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # كل يوم 2 صباحاً UTC (5 صباحاً بتوقيت الرياض)
-  workflow_dispatch:       # تشغيل يدوي من GitHub
+    - cron: '0 2 * * *'
+  workflow_dispatch:
 
 jobs:
   update:
@@ -37,7 +37,7 @@ jobs:
         run: mkdir -p data
 
       - name: Run الراجحي
-        run: python rajhi/rajhi.py
+        run: python Rajhi/rajhi.py
         continue-on-error: true
 
       - name: Run الإنماء
@@ -45,7 +45,7 @@ jobs:
         continue-on-error: true
 
       - name: Run BSF
-        run: python bsf/bsf.py
+        run: python BSF/bsf.py
         continue-on-error: true
 
       - name: Run البلاد
@@ -53,11 +53,11 @@ jobs:
         continue-on-error: true
 
       - name: Run SAIB
-        run: python saib/saib.py
+        run: python SAIB/saib.py
         continue-on-error: true
 
       - name: Run بنك الرياض
-        run: python riyadh/riyadh.py
+        run: python Riyadh/riyadh.py
         continue-on-error: true
 
       - name: Run الجزيرة
@@ -65,15 +65,15 @@ jobs:
         continue-on-error: true
 
       - name: Run الأهلي
-        run: python ahli/ahli.py
+        run: python Ahli/ahli.py
         continue-on-error: true
 
       - name: Run ENBD
-        run: python enbd/enbd.py
+        run: python ENBD/enbd.py
         continue-on-error: true
 
       - name: Run ANB
-        run: python arabi/arabi.py
+        run: python Arabi/arabi.py
         continue-on-error: true
 
       - name: Run SAB
@@ -81,11 +81,11 @@ jobs:
         continue-on-error: true
 
       - name: Run D360
-        run: python d360/d360.py
+        run: python D360/d360.py
         continue-on-error: true
 
       - name: Run STC
-        run: python stc/stc.py
+        run: python STC/stc.py
         continue-on-error: true
 
       - name: Build index.html
