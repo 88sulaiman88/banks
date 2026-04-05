@@ -1,0 +1,100 @@
+name: تحديث عروض البنوك
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # كل يوم 2 صباحاً UTC (5 صباحاً بتوقيت الرياض)
+  workflow_dispatch:       # تشغيل يدوي من GitHub
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Chrome
+        run: |
+          wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+          sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+
+      - name: Install Python packages
+        run: |
+          pip install requests beautifulsoup4
+          pip install selenium webdriver-manager
+          pip install playwright
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: Create data folder
+        run: mkdir -p data
+
+      - name: Run الراجحي
+        run: python rajhi/rajhi.py
+        continue-on-error: true
+
+      - name: Run الإنماء
+        run: python inma/Alinma.py
+        continue-on-error: true
+
+      - name: Run BSF
+        run: python bsf/bsf.py
+        continue-on-error: true
+
+      - name: Run البلاد
+        run: python bilad/bilad.py
+        continue-on-error: true
+
+      - name: Run SAIB
+        run: python saib/saib.py
+        continue-on-error: true
+
+      - name: Run بنك الرياض
+        run: python riyadh/riyadh.py
+        continue-on-error: true
+
+      - name: Run الجزيرة
+        run: python Jazeera/jazira.py
+        continue-on-error: true
+
+      - name: Run الأهلي
+        run: python ahli/ahli.py
+        continue-on-error: true
+
+      - name: Run ENBD
+        run: python enbd/enbd.py
+        continue-on-error: true
+
+      - name: Run ANB
+        run: python arabi/arabi.py
+        continue-on-error: true
+
+      - name: Run SAB
+        run: python sab/sab.py
+        continue-on-error: true
+
+      - name: Run D360
+        run: python d360/d360.py
+        continue-on-error: true
+
+      - name: Run STC
+        run: python stc/stc.py
+        continue-on-error: true
+
+      - name: Build index.html
+        run: python rebuild_index.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add data/ index.html
+          git diff --staged --quiet || git commit -m "تحديث تلقائي - $(date +'%Y-%m-%d')"
+          git push
