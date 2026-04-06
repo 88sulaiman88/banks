@@ -76,44 +76,77 @@ def load_json(path):
     return None
 
 MONTHS_AR = {
-    "يناير":"01","فبراير":"02","مارس":"03","أبريل":"04","ابريل":"04",
-    "مايو":"05","يونيو":"06","يوليو":"07","أغسطس":"08","اغسطس":"08",
-    "سبتمبر":"09","أكتوبر":"10","نوفمبر":"11","ديسمبر":"12"
+    "يناير":"01","جانفي":"01","january":"01","jan":"01",
+    "فبراير":"02","فيفري":"02","february":"02","feb":"02",
+    "مارس":"03","march":"03","mar":"03",
+    "أبريل":"04","ابريل":"04","april":"04","apr":"04",
+    "مايو":"05","may":"05",
+    "يونيو":"06","جوان":"06","june":"06","jun":"06",
+    "يوليو":"07","جويلية":"07","july":"07","jul":"07",
+    "أغسطس":"08","اغسطس":"08","august":"08","aug":"08",
+    "سبتمبر":"09","september":"09","sep":"09",
+    "أكتوبر":"10","اكتوبر":"10","october":"10","oct":"10",
+    "نوفمبر":"11","november":"11","nov":"11",
+    "ديسمبر":"12","december":"12","dec":"12",
 }
+
+MONTHS_KEYS = "|".join(MONTHS_AR.keys())
 
 def parse_expiry(expiry_str):
     """يحوّل أي صيغة تاريخ لـ datetime — يرجع None إذا فشل"""
     if not expiry_str:
         return None
-    s = expiry_str.strip()
     import re as _re
+    s = expiry_str.strip()
+    s = s.replace("\u200b","").replace("\xa0"," ")
+    s = _re.sub(r"\s+", " ", s)
 
-    # صيغة: 30 ديسمبر 2026 أو 30-ديسمبر-2026
-    m = _re.search(r"(\d{1,2})\s*[-\s]\s*(يناير|فبراير|مارس|أبريل|ابريل|مايو|يونيو|يوليو|أغسطس|سبتمبر|أكتوبر|نوفمبر|ديسمبر)\s*[-\s]\s*(\d{4})", s)
-    if m:
+    # ابحث بعد حتى/الى/إلى أولاً
+    for keyword in [r"حتى\s*", r"الى\s*", r"إلى\s*", r"–\s*", r"-\s*(?=\d)"]:
+        m = _re.search(keyword + r"(\d{1,2})\s*[-–\s]\s*(" + MONTHS_KEYS + r")\s*[-–\s]?\s*(\d{4})", s, _re.IGNORECASE)
+        if m:
+            try:
+                month = MONTHS_AR.get(m.group(2).strip(), "01")
+                return datetime(int(m.group(3)), int(month), int(m.group(1)))
+            except: pass
+        m = _re.search(keyword + r"(\d{1,2})/(\d{1,2})/(\d{4})", s)
+        if m:
+            try:
+                return datetime(int(m.group(3)), int(m.group(2)), int(m.group(1)))
+            except: pass
+
+    # صيغة: 30 ديسمبر 2026 أو 30-ديسمبر-2026 — آخر تاريخ
+    all_m = list(_re.finditer(r"(\d{1,2})\s*[-–\s]\s*(" + MONTHS_KEYS + r")\s*[-–\s]?\s*(\d{4})", s, _re.IGNORECASE))
+    if all_m:
+        m = all_m[-1]
         try:
-            month = MONTHS_AR.get(m.group(2), "01")
+            month = MONTHS_AR.get(m.group(2).strip(), "01")
             return datetime(int(m.group(3)), int(month), int(m.group(1)))
         except: pass
-    # صيغة: 30/12/2026
-    m = _re.search(r"(\d{1,2})/(\d{1,2})/(\d{4})", s)
-    if m:
+
+    # صيغة: 30/12/2026 — آخر تاريخ
+    all_m = list(_re.finditer(r"(\d{1,2})/(\d{1,2})/(\d{4})", s))
+    if all_m:
+        m = all_m[-1]
         try:
             return datetime(int(m.group(3)), int(m.group(2)), int(m.group(1)))
         except: pass
-    # صيغة: ديسمبر 2026 (بدون يوم)
-    m = _re.search(r"(يناير|فبراير|مارس|أبريل|ابريل|مايو|يونيو|يوليو|أغسطس|سبتمبر|أكتوبر|نوفمبر|ديسمبر)\s+(\d{4})", s)
-    if m:
-        try:
-            month = MONTHS_AR.get(m.group(1), "01")
-            return datetime(int(m.group(2)), int(month), 28)
-        except: pass
+
     # صيغة: 2026-12-30
     m = _re.search(r"(\d{4})-(\d{2})-(\d{2})", s)
     if m:
         try:
             return datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)))
         except: pass
+
+    # صيغة: ديسمبر 2026 (بدون يوم)
+    m = _re.search(r"(" + MONTHS_KEYS + r")\s*(\d{4})", s, _re.IGNORECASE)
+    if m:
+        try:
+            month = MONTHS_AR.get(m.group(1).strip(), "01")
+            return datetime(int(m.group(2)), int(month), 28)
+        except: pass
+
     return None
 
 def is_expired(offer):
