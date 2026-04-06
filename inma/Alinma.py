@@ -125,19 +125,30 @@ def scrape_offer(driver, path):
                 break
 
         expiry = ""
-        MONTHS = {"يناير":"01","فبراير":"02","مارس":"03","أبريل":"04","ابريل":"04","مايو":"05",
-                  "يونيو":"06","يوليو":"07","أغسطس":"08","سبتمبر":"09","أكتوبر":"10","نوفمبر":"11","ديسمبر":"12"}
+        MONTHS_PAT = r"(\d{1,2})\s+(يناير|فبراير|مارس|أبريل|ابريل|مايو|يونيو|يوليو|أغسطس|سبتمبر|أكتوبر|نوفمبر|ديسمبر)\s+(\d{4})"
         for tag in soup.find_all(string=lambda t: t and ("حتى" in t or "ينتهي" in t or "يسري" in t)):
             t = str(tag).strip()
-            # ابحث عن تاريخ بالأرقام أولاً مثل 30/12/2026
-            m_date = re.search(r"(\d{1,2})[/\-](\d{1,2})[/\-](\d{4})", t)
-            if m_date:
-                expiry = f"{m_date.group(1)}/{m_date.group(2)}/{m_date.group(3)}"
+            # ابحث عن التاريخ بعد "حتى" أولاً
+            after_hatta = re.search(r"حتى\s*" + MONTHS_PAT, t)
+            if after_hatta:
+                expiry = f"{after_hatta.group(1)} {after_hatta.group(2)} {after_hatta.group(3)}"
                 break
-            # ابحث عن تاريخ بالكلمات مثل "30 ديسمبر 2026"
-            m_word = re.search(r"(\d{1,2})\s+(يناير|فبراير|مارس|أبريل|ابريل|مايو|يونيو|يوليو|أغسطس|سبتمبر|أكتوبر|نوفمبر|ديسمبر)\s+(\d{4})", t)
-            if m_word:
-                expiry = f"{m_word.group(1)} {m_word.group(2)} {m_word.group(3)}"
+            # ابحث عن تاريخ بالأرقام بعد "حتى"
+            after_hatta_num = re.search(r"حتى\s*(\d{1,2})[/\-](\d{1,2})[/\-](\d{4})", t)
+            if after_hatta_num:
+                expiry = f"{after_hatta_num.group(1)}/{after_hatta_num.group(2)}/{after_hatta_num.group(3)}"
+                break
+            # إذا ما في "حتى" خذ آخر تاريخ في النص
+            all_dates = re.findall(MONTHS_PAT, t)
+            if all_dates:
+                last = all_dates[-1]
+                expiry = f"{last[0]} {last[1]} {last[2]}"
+                break
+            # تاريخ بالأرقام
+            all_num = re.findall(r"(\d{1,2})[/\-](\d{1,2})[/\-](\d{4})", t)
+            if all_num:
+                last = all_num[-1]
+                expiry = f"{last[0]}/{last[1]}/{last[2]}"
                 break
 
         # الصيغة الموحدة
