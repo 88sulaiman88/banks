@@ -87,18 +87,19 @@ def parse_expiry(expiry_str):
         return None
     s = expiry_str.strip()
     import re as _re
-    # صيغة: 30/12/2026 أو 30-12-2026
-    m = _re.search(r"(\d{1,2})[/\-](\d{1,2})[/\-](\d{4})", s)
-    if m:
-        try:
-            return datetime(int(m.group(3)), int(m.group(2)), int(m.group(1)))
-        except: pass
-    # صيغة: 30 ديسمبر 2026
-    m = _re.search(r"(\d{1,2})\s+(يناير|فبراير|مارس|أبريل|ابريل|مايو|يونيو|يوليو|أغسطس|سبتمبر|أكتوبر|نوفمبر|ديسمبر)\s+(\d{4})", s)
+
+    # صيغة: 30 ديسمبر 2026 أو 30-ديسمبر-2026
+    m = _re.search(r"(\d{1,2})\s*[-\s]\s*(يناير|فبراير|مارس|أبريل|ابريل|مايو|يونيو|يوليو|أغسطس|سبتمبر|أكتوبر|نوفمبر|ديسمبر)\s*[-\s]\s*(\d{4})", s)
     if m:
         try:
             month = MONTHS_AR.get(m.group(2), "01")
             return datetime(int(m.group(3)), int(month), int(m.group(1)))
+        except: pass
+    # صيغة: 30/12/2026
+    m = _re.search(r"(\d{1,2})/(\d{1,2})/(\d{4})", s)
+    if m:
+        try:
+            return datetime(int(m.group(3)), int(m.group(2)), int(m.group(1)))
         except: pass
     # صيغة: ديسمبر 2026 (بدون يوم)
     m = _re.search(r"(يناير|فبراير|مارس|أبريل|ابريل|مايو|يونيو|يوليو|أغسطس|سبتمبر|أكتوبر|نوفمبر|ديسمبر)\s+(\d{4})", s)
