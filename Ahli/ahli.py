@@ -15,76 +15,111 @@ URLS = [
     f"{BASE_URL}/ar/pages/personal-banking/credit-cards/credit-card-promotions/views",
 ]
 OUTPUT_FILE = "../data/ahli.json"
+MAX_PAGES = 20  # حد أقصى للصفحات
 
-def parse_items(soup, url):
-    offers = []
-    for item in soup.select("div.singleItem-wrap"):
-        # الاسم
-        store_el = item.select_one("div.item_title")
-        store = store_el.get_text(strip=True) if store_el else ""
-        if not store:
-            continue
+MONTHS_PAT = r"(\d{1,2})\s+(يناير|فبراير|مارس|أبريل|ابريل|مايو|يونيو|يوليو|أغسطس|سبتمبر|أكتوبر|نوفمبر|ديسمبر)\s+(\d{4})"
 
-        # الصورة
-        img_el = item.select_one("div.image img")
-        img = img_el.get("src", "") if img_el else ""
+def get_expiry(expiry_text):
+    m = re.search(r"حتى\s*" + MONTHS_PAT, expiry_text)
+    if m:
+        return f"{m.group(1)} {m.group(2)} {m.group(3)}"
+    all_d = re.findall(MONTHS_PAT, expiry_text)
+    if all_d:
+        return f"{all_d[-1][0]} {all_d[-1][1]} {all_d[-1][2]}"
+    return ""
 
-        # الوصف والخصم
-        desc_el = item.select_one("div.ico-text")
-        description = desc_el.get_text(strip=True) if desc_el else ""
-        discount = ""
-        m = re.search(r"(\d+)\s*[%٪]", description)
-        if m:
-            discount = m.group(0).replace("٪", "%")
-
-        # تاريخ الانتهاء
-        expiry_el = item.select_one("div.type-text")
-        expiry = ""
-        if expiry_el:
-            expiry_text = expiry_el.get_text(strip=True)
-            m2 = re.search(r"حتى\s+(.+?)م?$", expiry_text)
-            if m2:
-                expiry = m2.group(1).strip()
-
-        # الكاتيجوري
-        cat_el = item.select_one("div.global-category-tag")
-        category = cat_el.get_text(strip=True) if cat_el else "عروض"
-
-        # الرابط
-        link_el = item.select_one("a")
-        link = ""
-        if link_el:
-            href = link_el.get("href", "")
-            link = BASE_URL + href if href.startswith("/") else href
-
-        offers.append({
-            "store":       store,
-            "discount":    discount,
-            "category":    category,
-            "expiry":      expiry,
-            "description": description[:150] + ("..." if len(description) > 150 else ""),
-            "img":         img,
-            "link":        link or url,
-            "promo":       "",
-            "_bank":       "ahli",
-            "_updated":    datetime.now().strftime("%Y-%m-%d %H:%M"),
-        })
-
-    return offers
+def get_links(page, url):
+    """يسحب روابط العروض بالضغط على كل بطاقة"""
+    links = []
+    cards = page.locator("div.singleItem-wrap").all()
+    for card in cards:
+        try:
+            card.click()
+            page.wait_for_timeout(800)
+            links.append(page.url)
+            page.go_back(wait_until="networkidle")
+            page.wait_for_timeout(600)
+        except:
+            links.append(url)
+    return links
 
 def scrape_page(page, url):
-    print(f"  جاري سحب: {url.split('/')[-2]}...")
+    print(f"  جاري سحب: {url.split('/')[-2] or url.split('/')[-1]}...")
     page.goto(url, wait_until="networkidle", timeout=30000)
     page.wait_for_timeout(3000)
 
     all_offers = []
+    seen_stores = set()
     page_num = 1
 
-    while True:
+    while page_num <= MAX_PAGES:
         soup = BeautifulSoup(page.content(), "html.parser")
-        offers = parse_items(soup, url)
-        all_offers.extend(offers)
-        print(f"    صفحة {page_num}: {len(offers)} عرض")
+        cards_els = soup.select("div.singleItem-wrap")
+
+        print(f"    صفحة {page_num}: {len(cards_els)} بطاقة — جاري سحب الروابط...")
+        links = get_links(page, url)
+
+        # رجّع للصفحة الحالية بعد سحب الروابط
+        page.goto(url, wait_until="networkidle", timeout=30000)
+        page.wait_for_timeout(2000)
+        for _ in range(page_num - 1):
+            try:
+                for btn in page.locator("button, a").all():
+                    try:
+                        if "التالي" in btn.inner_text() and btn.is_visible():
+                            btn.click()
+                            page.wait_for_timeout(1500)
+                            break
+                    except:
+                        pass
+            except:
+                pass
+
+        soup = BeautifulSoup(page.content(), "html.parser")
+        new_count = 0
+        for i, item in enumerate(soup.select("div.singleItem-wrap")):
+            store_el = item.select_one("div.item_title")
+            store = store_el.get_text(strip=True) if store_el else ""
+            if not store or store in seen_stores:
+                continue
+            seen_stores.add(store)
+            new_count += 1
+
+            img_el = item.select_one("div.image img")
+            img = img_el.get("src", "") if img_el else ""
+
+            desc_el = item.select_one("div.ico-text")
+            description = desc_el.get_text(strip=True) if desc_el else ""
+            discount = ""
+            m = re.search(r"(\d+)\s*[%٪]", description)
+            if m:
+                discount = m.group(0).replace("٪", "%")
+
+            expiry_el = item.select_one("div.type-text")
+            expiry = get_expiry(expiry_el.get_text(strip=True)) if expiry_el else ""
+
+            cat_el = item.select_one("div.global-category-tag")
+            category = cat_el.get_text(strip=True) if cat_el else "عروض"
+
+            link = links[i] if i < len(links) else url
+
+            all_offers.append({
+                "store":       store,
+                "discount":    discount,
+                "category":    category,
+                "expiry":      expiry,
+                "description": description[:150] + ("..." if len(description) > 150 else ""),
+                "img":         img,
+                "link":        link,
+                "promo":       "",
+                "_bank":       "ahli",
+                "_updated":    datetime.now().strftime("%Y-%m-%d %H:%M"),
+            })
+
+        print(f"    تم: {new_count} عرض جديد")
+
+        if new_count == 0:
+            break
 
         # ابحث عن زر التالي
         try:
