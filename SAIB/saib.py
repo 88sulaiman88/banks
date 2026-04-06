@@ -18,18 +18,36 @@ HEADERS = {
     "Accept-Language": "ar,en;q=0.9",
 }
 
+MONTHS_PAT = r"(\d{1,2})\s+(يناير|فبراير|مارس|أبريل|ابريل|مايو|يونيو|يوليو|أغسطس|سبتمبر|أكتوبر|نوفمبر|ديسمبر)\s+(\d{4})"
+
+def get_expiry(link):
+    """يفتح صفحة العرض ويسحب تاريخ الانتهاء"""
+    try:
+        res = requests.get(link, headers=HEADERS, timeout=15)
+        soup = BeautifulSoup(res.text, "html.parser")
+        text = soup.get_text(separator=" ")
+        # بعد "حتى"
+        m = re.search(r"حتى\s*" + MONTHS_PAT, text)
+        if m:
+            return f"{m.group(1)} {m.group(2)} {m.group(3)}"
+        # آخر تاريخ
+        all_dates = re.findall(MONTHS_PAT, text)
+        if all_dates:
+            return f"{all_dates[-1][0]} {all_dates[-1][1]} {all_dates[-1][2]}"
+    except:
+        pass
+    return ""
+
 def scrape_page(page_num):
     url = OFFERS_URL if page_num == 0 else f"{OFFERS_URL}?page={page_num}"
     try:
         res = requests.get(url, headers=HEADERS, timeout=15)
         soup = BeautifulSoup(res.text, "html.parser")
         offers = []
-
         for item in soup.select("div.offer-style"):
             a = item.select_one("a")
             if not a:
                 continue
-
             link = a.get("href", "")
             if link.startswith("/"):
                 link = BASE_URL + link
@@ -46,7 +64,6 @@ def scrape_page(page_num):
             discount_el = item.select_one("div.info")
             discount_text = discount_el.get_text(strip=True) if discount_el else ""
 
-            # استخرج نسبة الخصم
             discount = ""
             m = re.search(r"(\d+)\s*[%٪]", discount_text)
             if m:
@@ -66,10 +83,8 @@ def scrape_page(page_num):
                     "_updated":    datetime.now().strftime("%Y-%m-%d %H:%M"),
                 })
 
-        # تحقق إذا في صفحة تالية
         has_next = bool(soup.select_one("a[href*='page=']"))
         return offers, has_next
-
     except Exception as e:
         print(f"  خطأ في الصفحة {page_num}: {e}")
         return [], False
@@ -83,17 +98,21 @@ def scrape_all():
     while True:
         print(f"  صفحة {page}...")
         offers, has_next = scrape_page(page)
-
         for o in offers:
             if o["store"] not in seen:
                 seen.add(o["store"])
                 all_offers.append(o)
-
         print(f"  {len(offers)} عرض — المجموع: {len(all_offers)}")
-
         if not has_next or not offers:
             break
         page += 1
+
+    # سحب تاريخ الانتهاء من كل صفحة عرض
+    print("\nجاري سحب تواريخ الانتهاء...")
+    total = len(all_offers)
+    for i, o in enumerate(all_offers, 1):
+        print(f"  [{i}/{total}] {o['store']}...")
+        o["expiry"] = get_expiry(o["link"])
 
     print(f"\nتم سحب {len(all_offers)} عرض")
     return all_offers
