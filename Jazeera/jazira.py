@@ -55,13 +55,29 @@ def scrape_offers():
                     expiry_raw = item.get("EndDate", "").strip()
                     expiry = ""
                     if expiry_raw:
+                        # صيغة ISO: 2026-12-30T00:00:00
                         try:
-                            # صيغة ISO: 2026-12-30T00:00:00
                             dt = datetime.fromisoformat(expiry_raw.replace("Z", ""))
                             expiry = dt.strftime("%d/%m/%Y")
                         except:
-                            # إذا فشل التحويل اتركه فارغاً
-                            expiry = ""
+                            pass
+                        # نص مثل "يسري العرض من 01/01/2026 حتى 30/06/2026"
+                        if not expiry:
+                            # بعد حتى/إلى بتاريخ أرقام
+                            m2 = re.search(r"(?:حتى|إلى|الى)\s*(\d{1,2})/(\d{1,2})/(\d{4})", expiry_raw)
+                            if m2:
+                                expiry = f"{m2.group(1)}/{m2.group(2)}/{m2.group(3)}"
+                        if not expiry:
+                            # بعد حتى/إلى بتاريخ عربي
+                            MPAT = r"(\d{1,2})\s*(يناير|فبراير|مارس|أبريل|ابريل|مايو|يونيو|يوليو|أغسطس|سبتمبر|أكتوبر|نوفمبر|ديسمبر)\s*(\d{4})"
+                            m2 = re.search(r"(?:حتى|إلى|الى)\s*" + MPAT, expiry_raw)
+                            if m2:
+                                expiry = f"{m2.group(1)} {m2.group(2)} {m2.group(3)}"
+                        if not expiry:
+                            # آخر تاريخ أرقام في النص
+                            all_d = re.findall(r"(\d{1,2})/(\d{1,2})/(\d{4})", expiry_raw)
+                            if all_d:
+                                expiry = f"{all_d[-1][0]}/{all_d[-1][1]}/{all_d[-1][2]}"
                     discount_text = item.get("Discount", "").strip()
 
                     # استخرج نسبة الخصم
