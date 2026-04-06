@@ -29,24 +29,15 @@ def get_expiry(expiry_text):
     return ""
 
 def get_links(page, url):
-    """يسحب روابط العروض بفتح كل بطاقة في tab جديد"""
-    links = []
-    n = page.locator("div.singleItem-wrap").count()
-
-    for i in range(n):
-        try:
-            card = page.locator("div.singleItem-wrap").nth(i)
-            with page.context.expect_page() as new_page_info:
-                card.click(modifiers=["Control"])
-            new_page = new_page_info.value
-            new_page.wait_for_load_state("domcontentloaded")
-            link = new_page.url
-            new_page.close()
-            links.append(link if link != url and "/ar/" in link else url)
-        except:
-            links.append(url)
-
-    return links
+    """يسحب روابط العروض من الـ DOM مباشرة"""
+    links = page.evaluate("""() => {
+        const cards = document.querySelectorAll('div.singleItem-wrap');
+        return Array.from(cards).map(c => {
+            const a = c.closest('a');
+            return a ? a.href : '';
+        });
+    }""")
+    return [l if l and "/ar/" in l else url for l in links]
 
 def scrape_page(page, url):
     print(f"  جاري سحب: {url.split('/')[-2] or url.split('/')[-1]}...")
