@@ -29,18 +29,23 @@ def get_expiry(expiry_text):
     return ""
 
 def get_links(page, url):
-    """يسحب روابط العروض بالضغط على كل بطاقة"""
+    """يسحب روابط العروض بفتح كل بطاقة في tab جديد"""
     links = []
-    cards = page.locator("div.singleItem-wrap").all()
-    for card in cards:
+    n = page.locator("div.singleItem-wrap").count()
+
+    for i in range(n):
         try:
-            card.click()
-            page.wait_for_timeout(800)
-            links.append(page.url)
-            page.go_back(wait_until="networkidle")
-            page.wait_for_timeout(600)
+            card = page.locator("div.singleItem-wrap").nth(i)
+            with page.context.expect_page() as new_page_info:
+                card.click(modifiers=["Control"])
+            new_page = new_page_info.value
+            new_page.wait_for_load_state("domcontentloaded")
+            link = new_page.url
+            new_page.close()
+            links.append(link if link != url and "/ar/" in link else url)
         except:
             links.append(url)
+
     return links
 
 def scrape_page(page, url):
