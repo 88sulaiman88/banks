@@ -209,7 +209,7 @@ def build_index(all_offers, bank_status):
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>عروض البنوك</title>
+<title>عروض البنوك السعودية</title>
 <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;900&display=swap" rel="stylesheet">
 <style>
 :root {{{bank_css}
@@ -221,9 +221,9 @@ def build_index(all_offers, bank_status):
 *{{margin:0;padding:0;box-sizing:border-box}}
 body{{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-height:100vh}}
 
-.tb{{background:var(--sf);border-bottom:1px solid var(--br);padding:1.25rem 2rem;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem;position:sticky;top:0;z-index:100}}
+.tb{{background:var(--sf);border-bottom:1px solid var(--br);padding:1.25rem 2rem;display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:1rem;position:sticky;top:0;z-index:100}}
 .bi{{width:36px;height:36px;background:linear-gradient(135deg,var(--rajhi),var(--inma));border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px}}
-.bn{{font-size:1.1rem;font-weight:700}}
+.bn{{font-size:1.4rem;font-weight:700;text-align:center;width:100%}}
 .bs{{font-size:.75rem;color:var(--mt)}}
 .tm{{display:flex;gap:.5rem;flex-wrap:wrap;align-items:center}}
 .pl{{font-size:.75rem;font-weight:600;padding:.25rem .75rem;border-radius:20px;white-space:nowrap}}
@@ -235,17 +235,16 @@ body{{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-he
 .si{{display:none}}
 .sd{{display:none}}
 
-.ct{{max-width:1400px;margin:1.5rem auto 0;padding:0 2rem;display:flex;flex-direction:column;gap:.75rem}}
+.ct{{max-width:1400px;margin:1.5rem auto 0;padding:0 2rem;display:flex;flex-direction:column;gap:.75rem;align-items:center}}
 .cl{{font-size:.75rem;color:var(--mt)}}
-.fg{{display:flex;gap:.4rem;flex-wrap:wrap}}
+.fg{{display:flex;gap:.4rem;flex-wrap:wrap;justify-content:center}}
 .sp{{width:1px;height:24px;background:var(--br);flex-shrink:0}}
 .fb{{font-family:'Cairo',sans-serif;font-size:.78rem;font-weight:500;padding:.3rem .85rem;border-radius:20px;border:1px solid var(--br);background:transparent;color:var(--mt);cursor:pointer;transition:all .18s;white-space:nowrap}}
 .bc{{font-size:.7rem;opacity:.7;font-weight:400}}
 .search-bar{{position:relative;width:100%;margin-bottom:.5rem}}
-.search-bar input{{font-family:'Cairo',sans-serif;font-size:.95rem;background:var(--sf);border:1.5px solid var(--br);color:var(--tx);padding:.6rem 1rem .6rem 2.5rem;border-radius:12px;outline:none;width:100%;transition:border-color .2s;box-shadow:0 1px 4px rgba(0,0,0,.06)}}
+.search-bar input{{font-family:'Cairo',sans-serif;font-size:.95rem;background:var(--sf);border:1.5px solid var(--br);color:var(--tx);padding:.6rem 1rem;border-radius:12px;outline:none;width:100%;transition:border-color .2s;box-shadow:0 1px 4px rgba(0,0,0,.06);text-align:center}}
 .search-bar input:focus{{border-color:#4A90D9}}
 .search-bar input::placeholder{{color:var(--mt)}}
-.si-icon{{position:absolute;left:.8rem;top:50%;transform:translateY(-50%);color:var(--mt);font-size:1rem;pointer-events:none}}
 
 .hero{{background:var(--sf);border-bottom:1px solid var(--br);padding:2.5rem 2rem}}
 .hero-inner{{max-width:700px;margin:0 auto;text-align:center}}
@@ -314,19 +313,23 @@ body{{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-he
 .empty{{grid-column:1/-1;text-align:center;padding:4rem 2rem;color:var(--mt)}}
 
 @media(max-width:700px){{
-  .tb,.ct,.gw{{padding-right:1rem;padding-left:1rem}}
-  .stb{{padding:.6rem 1rem}}
-  .grid{{grid-template-columns:repeat(auto-fill,minmax(160px,1fr))}}
-  .sw input{{width:140px}}
+  .tb,.ct,.gw{{padding-right:.75rem;padding-left:.75rem}}
+  .stb{{padding:.6rem .75rem}}
+  .grid{{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:.6rem}}
+  .cb{{padding:.65rem .75rem}}
+  .sn{{font-size:.85rem}}
+  .ci{{height:110px}}
+  .bn{{font-size:1rem}}
+  .search-bar input{{font-size:.88rem}}
 }}
 </style>
 </head>
 <body>
 
 <div class="tb">
-  <div style="display:flex;align-items:center;gap:.75rem">
-    <div class="bi">🏦</div>
-    <div><div class="bn">عروض البنوك</div><div class="bs">آخر تحديث: {now}</div></div>
+  <div style="text-align:center;width:100%">
+    <div class="bn">عروض البنوك السعودية</div>
+    <div class="bs">آخر تحديث: {now}</div>
   </div>
   <div class="tm">
     <span class="pl pl-c">{total} عرض</span>
@@ -338,14 +341,13 @@ body{{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-he
 
 <div class="ct">
   <div class="search-bar">
-    <span class="si-icon">🔍</span>
     <input type="text" id="q" placeholder="ابحث عن متجر..." oninput="fil()">
   </div>
   <div class="fg">{bank_btns}</div>
 </div>
 
 <div class="gw">
-  <div class="rc" id="rc">{total} عرض</div>
+  <div class="rc" id="rc" style="display:none">{total} عرض</div>
   <div class="grid" id="grid">{cards}</div>
 </div>
 
