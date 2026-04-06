@@ -18,7 +18,7 @@ HEADERS = {
     "Accept-Language": "ar,en;q=0.9",
 }
 
-MONTHS_PAT = r"(\d{1,2})\s+(يناير|فبراير|مارس|أبريل|ابريل|مايو|يونيو|يوليو|أغسطس|سبتمبر|أكتوبر|نوفمبر|ديسمبر)\s+(\d{4})"
+MONTHS_PAT = r"(\d{1,2})\s+(يناير|فبراير|مارس|أبريل|ابريل|مايو|يونيو|يوليو|أغسطس|اغسطس|سبتمبر|أكتوبر|اكتوبر|نوفمبر|ديسمبر)\s+(\d{4})"
 
 def get_expiry(link):
     """يفتح صفحة العرض ويسحب تاريخ الانتهاء"""
@@ -26,14 +26,28 @@ def get_expiry(link):
         res = requests.get(link, headers=HEADERS, timeout=15)
         soup = BeautifulSoup(res.text, "html.parser")
         text = soup.get_text(separator=" ")
-        # بعد "حتى"
+        text = re.sub(r'\s+', ' ', text)
+
+        # بعد "حتى" بتاريخ عربي
         m = re.search(r"حتى\s*" + MONTHS_PAT, text)
         if m:
             return f"{m.group(1)} {m.group(2)} {m.group(3)}"
-        # آخر تاريخ
+
+        # بعد "حتى" بتاريخ أرقام مثل 31-12-2026
+        m = re.search(r"حتى\s*(\d{1,2})[-/](\d{1,2})[-/](\d{4})", text)
+        if m:
+            return f"{m.group(1)}/{m.group(2)}/{m.group(3)}"
+
+        # آخر تاريخ عربي
         all_dates = re.findall(MONTHS_PAT, text)
         if all_dates:
             return f"{all_dates[-1][0]} {all_dates[-1][1]} {all_dates[-1][2]}"
+
+        # آخر تاريخ أرقام
+        all_num = re.findall(r"(\d{1,2})[-/](\d{1,2})[-/](\d{4})", text)
+        if all_num:
+            return f"{all_num[-1][0]}/{all_num[-1][1]}/{all_num[-1][2]}"
+
     except:
         pass
     return ""
