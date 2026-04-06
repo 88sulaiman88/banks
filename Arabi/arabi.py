@@ -23,6 +23,24 @@ HEADERS = {
     "Accept-Language": "ar,en;q=0.9",
 }
 
+
+MONTHS_PAT = r"(\d{1,2})\s+(يناير|فبراير|مارس|أبريل|ابريل|مايو|يونيو|يوليو|أغسطس|اغسطس|سبتمبر|أكتوبر|نوفمبر|ديسمبر)\s+(\d{4})"
+
+def get_expiry(text):
+    # بعد حتى/الى بتاريخ عربي
+    m = re.search(r"(?:حتى|الى|إلى)\s*" + MONTHS_PAT, text)
+    if m:
+        return f"{m.group(1)} {m.group(2)} {m.group(3)}"
+    # بعد حتى بأرقام
+    m = re.search(r"(?:حتى|الى|إلى)\s*([\d/]+)", text)
+    if m:
+        return m.group(1)
+    # آخر تاريخ عربي
+    all_d = re.findall(MONTHS_PAT, text)
+    if all_d:
+        return f"{all_d[-1][0]} {all_d[-1][1]} {all_d[-1][2]}"
+    return ""
+
 def scrape_page(url, default_category):
     try:
         res = requests.get(url, headers=HEADERS, timeout=15)
@@ -65,7 +83,7 @@ def scrape_page(url, default_category):
             banner_img = ""
 
             if modal_id:
-                modal = soup.select_one(f"#{modal_id}")
+                modal = soup.find("div", {"id": modal_id})
                 if modal:
                     # صورة الـ modal
                     banner = modal.select_one("img.w-100")
@@ -75,20 +93,18 @@ def scrape_page(url, default_category):
 
                     # الوصف
                     subtext = modal.select_one("div.subtext")
+                    full_modal_text = ""
                     if subtext:
-                        description = subtext.get_text(separator=" ", strip=True)
-                        description = re.sub(r'\s+', ' ', description)
-                        description = description[:150] + ("..." if len(description) > 150 else "")
+                        full_modal_text = re.sub(r'\s+', ' ', subtext.get_text(separator=" ", strip=True))
+                        description = full_modal_text[:150] + ("..." if len(full_modal_text) > 150 else "")
 
                     # الخصم
-                    m2 = re.search(r"(\d+)\s*[%٪]", description)
+                    m2 = re.search(r"(\d+)\s*[%٪]", full_modal_text)
                     if m2:
                         discount = m2.group(0).replace("٪", "%")
 
-                    # تاريخ الانتهاء
-                    m3 = re.search(r"حتى\s+([\d/]+)", description)
-                    if m3:
-                        expiry = m3.group(1)
+                    # تاريخ الانتهاء من النص الكامل
+                    expiry = get_expiry(full_modal_text)
 
             offers.append({
                 "store":       store,
@@ -129,9 +145,7 @@ def scrape_page(url, default_category):
                 discount = m.group(0).replace("٪", "%")
 
             # تاريخ الانتهاء
-            m2 = re.search(r"حتى\s+([\d/]+)", text)
-            if m2:
-                expiry = m2.group(1)
+            expiry = get_expiry(text)
 
             description = text[:150] + ("..." if len(text) > 150 else "")
 
