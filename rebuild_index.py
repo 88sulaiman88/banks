@@ -211,6 +211,14 @@ def build_index(all_offers, bank_status):
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>عروض البنوك السعودية</title>
 <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;900&display=swap" rel="stylesheet">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H8RW3B0YM5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){{dataLayer.push(arguments);}}
+  gtag('js', new Date());
+  gtag('config', 'G-H8RW3B0YM5');
+</script>
 <style>
 :root {{{bank_css}
   --bg:#F4F6F9;--sf:#FFFFFF;--cd:#FFFFFF;--br:rgba(0,0,0,.08);
