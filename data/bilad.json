@@ -1,5 +1,17 @@
 [
   {
+    "store": "عرض الخطوط الجوية التركية مع بنك البلاد",
+    "discount": "25%",
+    "category": "عروض",
+    "expiry": "30 ابريل 2026",
+    "description": "إلى تركيا وخصم 20% إلى الوجهات الأخرى باستخدام رمز الخصم",
+    "img": "",
+    "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Turkish-Airlines-Offer-with-Bank-Albilad.aspx",
+    "promo": "",
+    "_bank": "bilad",
+    "_updated": "2026-04-11 04:27"
+  },
+  {
     "store": "10% استرداد نقدي عند إصدار بطاقتك عبر التطبيق",
     "discount": "10%",
     "category": "عروض",
@@ -9,7 +21,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Get-10-Cashback.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-04-10 04:53"
+    "_updated": "2026-04-11 04:28"
   },
   {
     "store": "عرض راديسون مع بنك البلاد",
@@ -21,7 +33,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Radisson-Offer-with-Bank-Albilad.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-04-10 04:53"
+    "_updated": "2026-04-11 04:28"
   },
   {
     "store": "عرض فندق هوليدي إن الخبر",
@@ -33,7 +45,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Holiday-Inn-and-Suites-Al-Khobar.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-04-10 04:53"
+    "_updated": "2026-04-11 04:28"
   },
   {
     "store": "عرض فندق تلال الرياض",
@@ -45,7 +57,19 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Tilal-Riyadh-Hotel.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-04-10 04:54"
+    "_updated": "2026-04-11 04:28"
+  },
+  {
+    "store": "عرض فندق فوكو الرياض",
+    "discount": "15%",
+    "category": "عروض",
+    "expiry": "19 مارس 2026",
+    "description": "استمتع بخصم يصل إلى 15% مع بطاقات البلاد",
+    "img": "",
+    "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Voco-Riyadh-with-albiladcards.aspx",
+    "promo": "",
+    "_bank": "bilad",
+    "_updated": "2026-04-11 04:28"
   },
   {
     "store": "عرض فندق فوكو الخبر",
@@ -57,7 +81,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Voco-Alkhobar.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-04-10 04:54"
+    "_updated": "2026-04-11 04:29"
   },
   {
     "store": "عرض ريفرز وورلد",
@@ -69,7 +93,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Rivers-world-.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-04-10 04:55"
+    "_updated": "2026-04-11 04:29"
   },
   {
     "store": "عرض شاي سدرة",
@@ -81,7 +105,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Sedra-tea.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-04-10 04:55"
+    "_updated": "2026-04-11 04:29"
   },
   {
     "store": "ردتاغ",
@@ -93,7 +117,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Red-Tag.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-04-10 04:55"
+    "_updated": "2026-04-11 04:29"
   },
   {
     "store": "وفر أكثر مع بطاقات البلاد",
@@ -105,6 +129,6 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/buy-one-get-one-free.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-04-10 04:55"
+    "_updated": "2026-04-11 04:30"
   }
 ]
