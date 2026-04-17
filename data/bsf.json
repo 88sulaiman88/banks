@@ -9,7 +9,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/shopping/the-beauty-secrets",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Natural Touch",
@@ -21,7 +21,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/shopping/natural-touch",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Dettaglio Auto",
@@ -33,7 +33,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/shopping/dettaglio-auto",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Mazaj",
@@ -45,7 +45,187 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/shopping/mazaj",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
+  },
+  {
+    "store": "Shamalat",
+    "discount": "10%",
+    "category": "مطاعم",
+    "expiry": "31 يناير 2027",
+    "description": "احصل على خصم 10% في مطعم Shamalat \nعند استخدام بطاقات BSF الائتمانية",
+    "img": "https://bsf.sa/ContentFiles/12941Image.png?",
+    "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/shamalat",
+    "promo": "",
+    "_bank": "bsf",
+    "_updated": "2026-04-17 04:54"
+  },
+  {
+    "store": "WADI",
+    "discount": "20%",
+    "category": "مطاعم",
+    "expiry": "30 ديسمبر 2026",
+    "description": "احصل على خصم 20% في مطعم WADI\nعند استخدام بطاقات BSF الائتمانية",
+    "img": "https://bsf.sa/ContentFiles/12940Image.png?",
+    "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/wadi",
+    "promo": "",
+    "_bank": "bsf",
+    "_updated": "2026-04-17 04:54"
+  },
+  {
+    "store": "Veloce Cafe",
+    "discount": "20%",
+    "category": "مطاعم",
+    "expiry": "05 فبراير 2027",
+    "description": "احصل على خصم 20% في مطعم Veloce Café\nعند استخدام بطاقات BSF الائتمانية",
+    "img": "https://bsf.sa/ContentFiles/12939Image.png?",
+    "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/veloce-cafe",
+    "promo": "",
+    "_bank": "bsf",
+    "_updated": "2026-04-17 04:54"
+  },
+  {
+    "store": "URTH CAFFE",
+    "discount": "15%",
+    "category": "مطاعم",
+    "expiry": "31 مارس 2027",
+    "description": "احصل على خصم 15% في مطعم URTH CAFFE\nعند استخدام بطاقات BSF الائتمانية",
+    "img": "https://bsf.sa/ContentFiles/12938Image.png?",
+    "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/urth-caffe",
+    "promo": "",
+    "_bank": "bsf",
+    "_updated": "2026-04-17 04:54"
+  },
+  {
+    "store": "Takya",
+    "discount": "10%",
+    "category": "مطاعم",
+    "expiry": "31 يناير 2027",
+    "description": "احصل على خصم 10% في مطعم Takya \nعند استخدام بطاقات BSF الائتمانية",
+    "img": "https://bsf.sa/ContentFiles/12937Image.png?",
+    "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/takya",
+    "promo": "",
+    "_bank": "bsf",
+    "_updated": "2026-04-17 04:54"
+  },
+  {
+    "store": "Sushiah",
+    "discount": "20%",
+    "category": "مطاعم",
+    "expiry": "31 يناير 2027",
+    "description": "احصل على خصم 20% في مطعم Sushiah\nعند استخدام بطاقات BSF الائتمانية",
+    "img": "https://bsf.sa/ContentFiles/12936Image.png?",
+    "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/sushiah",
+    "promo": "",
+    "_bank": "bsf",
+    "_updated": "2026-04-17 04:54"
+  },
+  {
+    "store": "Sumosan",
+    "discount": "20%",
+    "category": "مطاعم",
+    "expiry": "30 ديسمبر 2026",
+    "description": "احصل على خصم 20% في مطعم Sumosan\nعند استخدام بطاقات BSF الائتمانية",
+    "img": "https://bsf.sa/ContentFiles/12935Image.png?",
+    "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/sumosan",
+    "promo": "",
+    "_bank": "bsf",
+    "_updated": "2026-04-17 04:54"
+  },
+  {
+    "store": "Sugar Jar",
+    "discount": "10%",
+    "category": "مطاعم",
+    "expiry": "31 يناير 2027",
+    "description": "احصل على خصم 10% في مطعم Sugar Jar\nعند استخدام بطاقات BSF الائتمانية",
+    "img": "https://bsf.sa/ContentFiles/12934Image.png?",
+    "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/sugar-jar",
+    "promo": "",
+    "_bank": "bsf",
+    "_updated": "2026-04-17 04:54"
+  },
+  {
+    "store": "Signor Sassi",
+    "discount": "20%",
+    "category": "مطاعم",
+    "expiry": "31 مارس 2027",
+    "description": "احصل على خصم 20% في مطعم Signor Sassi\nعند استخدام بطاقات BSF الائتمانية",
+    "img": "https://bsf.sa/ContentFiles/12933Image.png?",
+    "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/signor-sassi",
+    "promo": "",
+    "_bank": "bsf",
+    "_updated": "2026-04-17 04:54"
+  },
+  {
+    "store": "Sarabeth's",
+    "discount": "15%",
+    "category": "مطاعم",
+    "expiry": "31 يناير 2027",
+    "description": "احصل على خصم 15% في مطعم Sarabeth's\nعند استخدام بطاقات BSF الائتمانية",
+    "img": "https://bsf.sa/ContentFiles/12932Image.png?",
+    "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/sarabeths",
+    "promo": "",
+    "_bank": "bsf",
+    "_updated": "2026-04-17 04:54"
+  },
+  {
+    "store": "ROBATA",
+    "discount": "20%",
+    "category": "مطاعم",
+    "expiry": "31 مارس 2027",
+    "description": "احصل على خصم 20% في مطعم ROBATA\nعند استخدام بطاقات BSF الائتمانية",
+    "img": "https://bsf.sa/ContentFiles/12931Image.png?",
+    "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/robata",
+    "promo": "",
+    "_bank": "bsf",
+    "_updated": "2026-04-17 04:54"
+  },
+  {
+    "store": "Rasoi by Vineet",
+    "discount": "15%",
+    "category": "مطاعم",
+    "expiry": "20 يناير 2027",
+    "description": "احصل على خصم 15% في مطعم Rasoi by Vineet\nعند استخدام بطاقات BSF الائتمانية",
+    "img": "https://bsf.sa/ContentFiles/12930Image.png?",
+    "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/rasoi-by-vineet",
+    "promo": "",
+    "_bank": "bsf",
+    "_updated": "2026-04-17 04:54"
+  },
+  {
+    "store": "Otium",
+    "discount": "15%",
+    "category": "مطاعم",
+    "expiry": "20 فبراير 2027",
+    "description": "احصل على خصم 15% في مطعم Otium\nعند استخدام بطاقات BSF الائتمانية",
+    "img": "https://bsf.sa/ContentFiles/12929Image.png?",
+    "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/otium",
+    "promo": "",
+    "_bank": "bsf",
+    "_updated": "2026-04-17 04:54"
+  },
+  {
+    "store": "MYAZU",
+    "discount": "20%",
+    "category": "مطاعم",
+    "expiry": "31 مارس 2027",
+    "description": "احصل على خصم 20% في مطعم MYAZU\nعند استخدام بطاقات BSF الائتمانية",
+    "img": "https://bsf.sa/ContentFiles/12928Image.png?",
+    "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/myazu",
+    "promo": "",
+    "_bank": "bsf",
+    "_updated": "2026-04-17 04:54"
+  },
+  {
+    "store": "Long Chim",
+    "discount": "15%",
+    "category": "مطاعم",
+    "expiry": "11 فبراير 2027",
+    "description": "احصل على خصم 15% في مطعم Long Chim\nعند استخدام بطاقات BSF الائتمانية",
+    "img": "https://bsf.sa/ContentFiles/12927Image.png?",
+    "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/long-chim",
+    "promo": "",
+    "_bank": "bsf",
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Lugano",
@@ -57,7 +237,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/travel/lugano",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "RBG GRILL Restaurant",
@@ -69,7 +249,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/travel/rbg-grill-restaurant",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Radisson Hotel & Residence Riyadh Olaya",
@@ -81,7 +261,55 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/travel/radisson-hotel-amp-residence-riyadh-olaya",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
+  },
+  {
+    "store": "Little Mama",
+    "discount": "15%",
+    "category": "مطاعم",
+    "expiry": "31 يناير 2027",
+    "description": "احصل على خصم 15% في مطعم Little Mama\nعند استخدام بطاقات BSF الائتمانية",
+    "img": "https://bsf.sa/ContentFiles/12923Image.png?",
+    "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/little-mama",
+    "promo": "",
+    "_bank": "bsf",
+    "_updated": "2026-04-17 04:54"
+  },
+  {
+    "store": "Le Bistro",
+    "discount": "20%",
+    "category": "مطاعم",
+    "expiry": "20 يناير 2027",
+    "description": "احصل على خصم 20% في مطعم Le Bistro\nعند استخدام بطاقات BSF الائتمانية",
+    "img": "https://bsf.sa/ContentFiles/12922Image.png?",
+    "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/le-bistro",
+    "promo": "",
+    "_bank": "bsf",
+    "_updated": "2026-04-17 04:54"
+  },
+  {
+    "store": "Ladouh",
+    "discount": "10%",
+    "category": "مطاعم",
+    "expiry": "31 يناير 2027",
+    "description": "احصل على خصم 10% في مطعم Ladouh\nعند استخدام بطاقات BSF الائتمانية",
+    "img": "https://bsf.sa/ContentFiles/12921Image.png?",
+    "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/ladouh",
+    "promo": "",
+    "_bank": "bsf",
+    "_updated": "2026-04-17 04:54"
+  },
+  {
+    "store": "La Citta",
+    "discount": "15%",
+    "category": "مطاعم",
+    "expiry": "20 فبراير 2027",
+    "description": "احصل على خصم 15% في مطعم La Citta\nعند استخدام بطاقات BSF الائتمانية",
+    "img": "https://bsf.sa/ContentFiles/12920Image.png?",
+    "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/la-citta",
+    "promo": "",
+    "_bank": "bsf",
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Hocho",
@@ -93,7 +321,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/hocho",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Günaydın",
@@ -105,7 +333,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/g252naydn",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Fez",
@@ -117,7 +345,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/fez",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "CRAZY PIZZA",
@@ -129,7 +357,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/crazy-pizza",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "COYA",
@@ -141,7 +369,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/coya",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Cova",
@@ -153,7 +381,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/cova",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "CAYZO",
@@ -165,7 +393,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/cayzo",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Beefbar",
@@ -177,7 +405,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/beefbar",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Bayaz",
@@ -189,7 +417,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/bayaz",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Bagatelle",
@@ -201,7 +429,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/bagatelle",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Asador de Aranda",
@@ -213,7 +441,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/asador-de-aranda",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "AGIO",
@@ -225,7 +453,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/agio",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "SANTINI",
@@ -237,7 +465,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/santini",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Villa Mamas",
@@ -249,7 +477,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/villa-mamas",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Hakayat bahar",
@@ -261,7 +489,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/hakayat-bahar",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Café Bonnard",
@@ -273,7 +501,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/caf233-bonnard",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Zeila",
@@ -285,7 +513,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/zeila",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Tim Hortons",
@@ -297,19 +525,19 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/tim-hortons",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "SF Line",
     "discount": "20%",
     "category": "تسوق",
-    "expiry": "28 فبراير 2026",
+    "expiry": "15 مايو 2026",
     "description": "احصل على خصم  20% لدى  محلات SF Line عند استخدامك بطاقات BSF الائتمانية ,مسبقة الدفع و مدى",
     "img": "https://bsf.sa/ContentFiles/12882Image.jpg?",
     "link": "https://bsf.sa/arabic/personal/cards/offers/shopping/sf-line",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Pilates Room",
@@ -321,7 +549,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/live-well/the-pilates-room",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "عرض الماستر كارد على Trip.com",
@@ -333,7 +561,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/travel/mastercard-tripcom-offer",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Indigo Home",
@@ -345,7 +573,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/live-well/indigo-home",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "عيادات سيمفوني",
@@ -357,7 +585,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/live-well/symphony-clinic",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "شاتو ماتو",
@@ -369,7 +597,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/chotto-matte",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "مركز لايف وايز",
@@ -381,7 +609,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/live-well/lifeways-clinics",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "بارك إن باي راديسون دبي موتور سيتي",
@@ -393,7 +621,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/travel/park-inn-by-radisson-dubai-motor-city",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "VOX Cinema",
@@ -405,7 +633,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/entertainment/vox-cinema",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "ليتل فلورا",
@@ -417,7 +645,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/shopping/little-flora",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "أيهيرب",
@@ -429,7 +657,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/shopping/iherb",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "مطعم جون آند فينيز",
@@ -441,7 +669,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/jon-amp-vinnys-restaurant",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Sun and Sands",
@@ -453,7 +681,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/shopping/sun-and-sands",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "صبحي كابر",
@@ -465,7 +693,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/sobhykaber",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Roka",
@@ -477,7 +705,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/roka",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "MrChow",
@@ -489,7 +717,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/mrchow",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "ILBaretto",
@@ -501,7 +729,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/ilbaretto",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "BlackTap",
@@ -513,7 +741,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/blacktap",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "AOK-Kitchen",
@@ -525,7 +753,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/restaurants/aok-kitchen",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "خدمة المسار السريع في المطار",
@@ -537,7 +765,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/travel/airport-security-fast-track-services",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "فيزا حماية مجانية للمشترين",
@@ -549,7 +777,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/shopping/visa-buyers-protection",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "ماستركارد بلاتينيوم الائتمانية",
@@ -561,7 +789,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/shopping/mastercard-platinum",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "نور غاليري",
@@ -573,7 +801,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/shopping/noor-gallery",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "تشيلك",
@@ -585,7 +813,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/shopping/cilek",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "بن شيهون للأثاث",
@@ -597,7 +825,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/shopping/bin-shihon-furniture",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "أمازون برايم",
@@ -609,7 +837,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/shopping/amazon-prime",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "فوغا كلوست",
@@ -621,7 +849,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/shopping/voga-closet",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "HungerStation",
@@ -633,7 +861,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/shopping/hungerstation",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "SHEIN",
@@ -645,7 +873,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/shopping/shein",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Rental Cars",
@@ -657,7 +885,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/travel/rental-cars",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "IHG",
@@ -669,7 +897,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/travel/ihg",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "زهرة الربيع",
@@ -681,7 +909,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/shopping/spring-rose",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "Farfetch",
@@ -693,7 +921,7 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/shopping/farfetch",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   },
   {
     "store": "The healthy home",
@@ -705,6 +933,6 @@
     "link": "https://bsf.sa/arabic/personal/cards/offers/live-well/the-healthy-home",
     "promo": "",
     "_bank": "bsf",
-    "_updated": "2026-04-16 04:55"
+    "_updated": "2026-04-17 04:54"
   }
 ]
