@@ -9,7 +9,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Turkish-Airlines-Offer-with-Bank-Albilad.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-05-07 05:38"
+    "_updated": "2026-05-08 04:59"
   },
   {
     "store": "10% استرداد نقدي عند إصدار بطاقتك عبر التطبيق",
@@ -21,7 +21,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Get-10-Cashback.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-05-07 05:38"
+    "_updated": "2026-05-08 04:59"
   },
   {
     "store": "عرض كيتا مع بنك البلاد",
@@ -33,19 +33,19 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Keeta-Offer-with-Bank-Albilad.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-05-07 05:38"
+    "_updated": "2026-05-08 05:00"
   },
   {
-    "store": "عرض أمازون مع بطاقات بنك البلاد",
-    "discount": "15%",
+    "store": "عرض SHEIN مع بطاقات البلاد",
+    "discount": "20%",
     "category": "عروض",
-    "expiry": "4 نوفمبر 2004",
-    "description": "استمتع بخصم 15% لدى أمازون مع البلاد",
+    "expiry": "30 يونيو 2026",
+    "description": "استمتع بخصم 20% مع بطاقات البلاد و شي ان",
     "img": "",
-    "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Amazonwithalbiladcards.aspx",
+    "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/shein-with-albilad-card.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-05-07 05:38"
+    "_updated": "2026-05-08 05:00"
   },
   {
     "store": "مطعم كريزي بيتزا",
@@ -57,7 +57,19 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Crazy-Pizza.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-05-07 05:39"
+    "_updated": "2026-05-08 05:00"
+  },
+  {
+    "store": "مطعم اجيو",
+    "discount": "20%",
+    "category": "عروض",
+    "expiry": "22 يونيو 2026",
+    "description": "استمتع بخصم 20% لدى مطعم اجيو – الرياض عند الدفع باستخدام بطاقة بنك البلاد الائتمانية.",
+    "img": "",
+    "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/مطعم-اجيو-.aspx",
+    "promo": "",
+    "_bank": "bilad",
+    "_updated": "2026-05-08 05:00"
   },
   {
     "store": "عرض مطعم كايزو",
@@ -69,7 +81,19 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Kayzo.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-05-07 05:40"
+    "_updated": "2026-05-08 05:00"
+  },
+  {
+    "store": "مطعم بيف بار",
+    "discount": "20%",
+    "category": "عروض",
+    "expiry": "4 نوفمبر 2004",
+    "description": "فرصتك الآن للاستمتاع بخصم 20% لدى مطعم بيف بار عند الدفع باستخدام بطاقة بنك البلاد الائتمانية.",
+    "img": "",
+    "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/بيف-بار.aspx",
+    "promo": "",
+    "_bank": "bilad",
+    "_updated": "2026-05-08 05:01"
   },
   {
     "store": "عرض مطعم كويا",
@@ -81,7 +105,19 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/COYA.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-05-07 05:40"
+    "_updated": "2026-05-08 05:01"
+  },
+  {
+    "store": "عرض مطعم روباتا",
+    "discount": "20%",
+    "category": "عروض",
+    "expiry": "22 يونيو 2026",
+    "description": "استمتع بخصم 20% لدى مطعم روباتا عند الدفع باستخدام بطاقة بنك البلاد الائتمانية.",
+    "img": "",
+    "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Robata.aspx",
+    "promo": "",
+    "_bank": "bilad",
+    "_updated": "2026-05-08 05:01"
   },
   {
     "store": "عرض آيهرب مع بطاقات البلاد",
@@ -93,7 +129,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/iherb-with-albilad-card.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-05-07 05:41"
+    "_updated": "2026-05-08 05:01"
   },
   {
     "store": "عرض سان كارلو شيكيتي",
@@ -105,7 +141,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/San-Carlo-Cicchetti.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-05-07 05:41"
+    "_updated": "2026-05-08 05:02"
   },
   {
     "store": "عرض مطعم ميازو",
@@ -117,7 +153,19 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Myazu.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-05-07 05:41"
+    "_updated": "2026-05-08 05:02"
+  },
+  {
+    "store": "عرض شاي سدرة",
+    "discount": "10%",
+    "category": "عروض",
+    "expiry": "01 نوفمبر 2026",
+    "description": "استمتع بخصم 10٪ لدى شاي سدرة عند الدفع ببطاقات بنك البلاد الائتمانية .",
+    "img": "",
+    "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Sedra-tea.aspx",
+    "promo": "",
+    "_bank": "bilad",
+    "_updated": "2026-05-08 05:02"
   },
   {
     "store": "مطعم سنيور ساسي",
@@ -129,7 +177,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Signor-Sassi.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-05-07 05:42"
+    "_updated": "2026-05-08 05:02"
   },
   {
     "store": "عرض أرث كافيه",
@@ -141,7 +189,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Urth-Caffe.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-05-07 05:42"
+    "_updated": "2026-05-08 05:03"
   },
   {
     "store": "ردتاغ",
@@ -153,6 +201,18 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Red-Tag.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-05-07 05:42"
+    "_updated": "2026-05-08 05:03"
+  },
+  {
+    "store": "وفر أكثر مع بطاقات البلاد",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "4 نوفمبر 2004",
+    "description": "استمتع بالعديد من العروض والكوبونات مع بطاقات بنك البلاد",
+    "img": "",
+    "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/buy-one-get-one-free.aspx",
+    "promo": "",
+    "_bank": "bilad",
+    "_updated": "2026-05-08 05:03"
   }
 ]
