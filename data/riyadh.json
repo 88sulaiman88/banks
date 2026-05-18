@@ -1,5 +1,17 @@
 [
   {
+    "store": "حوّل راتبك!",
+    "discount": "4%",
+    "category": "عروض",
+    "expiry": "صالح حتى: 31/12/2026",
+    "description": "4%",
+    "img": "https://www.riyadbank.com/documents/20121/0/stransfeer.jpg/35bbb1f3-4527-d3bf-5b24-4e13e92a1499",
+    "link": "https://www.riyadbank.com/salary-transfer-campaign",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-05-18 06:27"
+  },
+  {
     "store": "نادي نكست الرياضي",
     "discount": "63%",
     "category": "عروض",
@@ -9,7 +21,7 @@
     "link": "https://www.riyadbank.com/next-wellness-club",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "أرضيات الفارس",
@@ -21,7 +33,7 @@
     "link": "https://www.riyadbank.com/alfares-floors1",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "لاسوران بيوتي سبا",
@@ -33,7 +45,7 @@
     "link": "https://www.riyadbank.com/lasuran-beauty-spa",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "اليزيه الطبي",
@@ -45,7 +57,7 @@
     "link": "https://www.riyadbank.com/elyzee-medical",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "محمصة سيكا",
@@ -57,7 +69,7 @@
     "link": "https://www.riyadbank.com/sica-café-roastery",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "Soil",
@@ -69,7 +81,7 @@
     "link": "https://www.riyadbank.com/soil-roasters",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "لابيت كافيه",
@@ -81,7 +93,7 @@
     "link": "https://www.riyadbank.com/llabate-café",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "اورا",
@@ -93,7 +105,7 @@
     "link": "https://www.riyadbank.com/aura1",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "صالون سيلينا التجميلي",
@@ -105,7 +117,7 @@
     "link": "https://www.riyadbank.com/seleina-beauty-salon",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "عيادات سافي لطب الاسنان",
@@ -117,7 +129,7 @@
     "link": "https://www.riyadbank.com/Savvy-Dental-Clinics",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "حضانة حدائق الأطفال",
@@ -129,7 +141,7 @@
     "link": "https://www.riyadbank.com/kids-gardens-preschool",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "ال باريتو",
@@ -141,7 +153,7 @@
     "link": "https://www.riyadbank.com/il-baretto",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "مستر تشاو",
@@ -153,7 +165,7 @@
     "link": "https://www.riyadbank.com/mr-chow",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "رؤيا",
@@ -165,7 +177,7 @@
     "link": "https://www.riyadbank.com/RUYA",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "صبحي كابر",
@@ -177,7 +189,7 @@
     "link": "https://www.riyadbank.com/Sobhy-Kaber",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "سول قهوة مختصه",
@@ -189,7 +201,7 @@
     "link": "https://www.riyadbank.com/soul-specialty-coffee",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "Key Café",
@@ -201,7 +213,7 @@
     "link": "https://www.riyadbank.com/key-cafe1",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "Crust House",
@@ -213,7 +225,7 @@
     "link": "https://www.riyadbank.com/crust-house",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "مقهى لابيت",
@@ -225,7 +237,7 @@
     "link": "https://www.riyadbank.com/llabate-café",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "مقهى ومحمصة سيكا",
@@ -237,7 +249,7 @@
     "link": "https://www.riyadbank.com/sica-café-roastery",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "آسام آرا",
@@ -249,7 +261,7 @@
     "link": "https://www.riyadbank.com/assam-ara",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "جلام مودا",
@@ -261,7 +273,7 @@
     "link": "https://www.riyadbank.com/glam-moda1",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "صالون الرعاية التجميلية",
@@ -273,7 +285,7 @@
     "link": "https://www.riyadbank.com/beauty-care-spa1",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "عيادات لايف ويز",
@@ -285,7 +297,7 @@
     "link": "https://www.riyadbank.com/life-way-s-clinic",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "آب كور بيلاتس",
@@ -297,7 +309,7 @@
     "link": "https://www.riyadbank.com/UP-Core-Pilates",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "مستشفى محمد الدوسري",
@@ -309,7 +321,7 @@
     "link": "https://www.riyadbank.com/muhammad-al-dosari-hospital",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "رافلز قصر العرين البحرين",
@@ -321,7 +333,7 @@
     "link": "https://www.riyadbank.com/raffles-logo",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "فندق فريزر سويتس الرياض",
@@ -333,7 +345,7 @@
     "link": "https://www.riyadbank.com/fraser-suites-hotel-riyadh",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "أبواب",
@@ -345,7 +357,7 @@
     "link": "https://www.riyadbank.com/abwaab",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "مستشفى اليوسف",
@@ -357,7 +369,7 @@
     "link": "https://www.riyadbank.com/al-youssef-hospital",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "ووش",
@@ -369,7 +381,7 @@
     "link": "https://www.riyadbank.com/woosh",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "مهارة كارتنج",
@@ -381,7 +393,7 @@
     "link": "https://www.riyadbank.com/mahara-karting",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "الترا شيلد",
@@ -393,7 +405,7 @@
     "link": "https://www.riyadbank.com/ultra-shield",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "مستشفى دار الشفا",
@@ -405,7 +417,7 @@
     "link": "https://www.riyadbank.com/dar-alshefa-hospital",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "محمصة الرياض",
@@ -417,7 +429,7 @@
     "link": "https://www.riyadbank.com/arriyadh-roaster",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "عيادات دكتور لاونج",
@@ -429,7 +441,7 @@
     "link": "https://www.riyadbank.com/drs-lounge-clinic",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "شركة الرقي المتطورة لخدمة صف السيارات",
@@ -441,7 +453,7 @@
     "link": "https://www.riyadbank.com/advanced-prestige-valley-cars",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "جون اند فينيز",
@@ -453,7 +465,7 @@
     "link": "https://www.riyadbank.com/Jon-Vinnys",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "لوفت",
@@ -465,7 +477,7 @@
     "link": "https://www.riyadbank.com/loft-40-",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "روكا",
@@ -477,7 +489,7 @@
     "link": "https://www.riyadbank.com/roka",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "دانولا",
@@ -489,7 +501,7 @@
     "link": "https://www.riyadbank.com/donella",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "مو نيل سبا",
@@ -501,7 +513,7 @@
     "link": "https://www.riyadbank.com/mo-nail-spa",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "متجر عنان الفروسية",
@@ -513,7 +525,7 @@
     "link": "https://www.riyadbank.com/enan-alforusyah-store",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "بلاك تاب",
@@ -525,7 +537,7 @@
     "link": "https://www.riyadbank.com/Black+Tap",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "أي.أو.كي",
@@ -537,7 +549,7 @@
     "link": "https://www.riyadbank.com/AOK",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "فوغا كلوسيت",
@@ -549,7 +561,7 @@
     "link": "https://www.riyadbank.com/vogacloset-v2",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "متجر كيار",
@@ -561,7 +573,7 @@
     "link": "https://www.riyadbank.com/kiar-store",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "فلورينا",
@@ -573,7 +585,7 @@
     "link": "https://www.riyadbank.com/florina-15-v2",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   },
   {
     "store": "سيمفوني كلينك",
@@ -585,6 +597,6 @@
     "link": "https://www.riyadbank.com/symphony-clinic-v2",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-05-17 05:59"
+    "_updated": "2026-05-18 06:27"
   }
 ]
