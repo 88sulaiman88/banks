@@ -9,7 +9,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Cars-Accessories-and-Services/Stily",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:16"
+    "_updated": "2026-05-19 06:10"
   },
   {
     "store": "غرينتاهب",
@@ -21,7 +21,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/E-commerce-websites/GrintaHub",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:16"
+    "_updated": "2026-05-19 06:10"
   },
   {
     "store": "همه",
@@ -33,7 +33,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/E-commerce-websites/Hammah",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:16"
+    "_updated": "2026-05-19 06:10"
   },
   {
     "store": "همه تك",
@@ -45,7 +45,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/E-commerce-websites/Hammah-Tech",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:16"
+    "_updated": "2026-05-19 06:10"
   },
   {
     "store": "مكتـبة جارا",
@@ -57,7 +57,31 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Education-and-Training/Jara",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:16"
+    "_updated": "2026-05-19 06:10"
+  },
+  {
+    "store": "الفاخرة",
+    "discount": "25%",
+    "category": "أزياء وجمال",
+    "expiry": "27 أبريل 2027",
+    "description": "استمتع بخصم يصل الي 25% لدى الفاخرة عند الدفع باستخدام بطاقات الانماء الائتمانية و مسبقة الدفع ومدى",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Alfakhera-00.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Fashion-and-beauty/Alfakhera",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-05-19 06:10"
+  },
+  {
+    "store": "الكسائي",
+    "discount": "25%",
+    "category": "أزياء وجمال",
+    "expiry": "27 أبريل 2027",
+    "description": "استمتع بخصم يصل الي 25% لدى الكسائي عند الدفع باستخدام بطاقات الانماء الائتمانية و مسبقة الدفع ومدى",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Alkessaey-00.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Fashion-and-beauty/Alkessaey",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-05-19 06:11"
   },
   {
     "store": "دلال بوتيك",
@@ -69,7 +93,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Fashion-and-beauty/Dalal-boutique",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:16"
+    "_updated": "2026-05-19 06:11"
   },
   {
     "store": "فاب",
@@ -81,7 +105,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Fashion-and-beauty/Fab",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:16"
+    "_updated": "2026-05-19 06:11"
   },
   {
     "store": "سيار",
@@ -93,7 +117,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Fashion-and-beauty/Sayyar",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:16"
+    "_updated": "2026-05-19 06:11"
   },
   {
     "store": "تاسومة",
@@ -105,7 +129,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Fashion-and-beauty/Tasooma",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:16"
+    "_updated": "2026-05-19 06:11"
   },
   {
     "store": "ايريا 25",
@@ -117,7 +141,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Furniture-Shops/Area25",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:16"
+    "_updated": "2026-05-19 06:11"
   },
   {
     "store": "Cote nail Spa",
@@ -129,7 +153,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Health-and-Medical/Cote-nail-Spa",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:16"
+    "_updated": "2026-05-19 06:11"
   },
   {
     "store": "فارفيتش",
@@ -141,7 +165,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/International-Offers/Farfetch",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:16"
+    "_updated": "2026-05-19 06:11"
   },
   {
     "store": "شي إن",
@@ -153,7 +177,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/International-Offers/SHEIN",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:16"
+    "_updated": "2026-05-19 06:11"
   },
   {
     "store": "VOGACLOSET",
@@ -165,7 +189,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/International-Offers/VOGACLOSET",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:16"
+    "_updated": "2026-05-19 06:11"
   },
   {
     "store": "أيهيرب",
@@ -177,7 +201,19 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/International-Offers/iHerb",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:17"
+    "_updated": "2026-05-19 06:11"
+  },
+  {
+    "store": "جمعة عز",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "",
+    "description": "مصرف الإنماء | شركة مساهمة سعودية | خاضعة لرقابة وإشراف البنك المركزي السعودي | س.ت. 1010250808 | رأس مال 25,000,000,000 Ʀهاتف+966112185555| مصرف الإن...",
+    "img": "https://www.alinma.com/-/media/ExtraImages/iz_friday_2501x1876-AR.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/IzOffers/iHerb",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-05-19 06:11"
   },
   {
     "store": "$name",
@@ -189,7 +225,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Jewelry-and-watches-and-perfumes/Bazil",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:17"
+    "_updated": "2026-05-19 06:11"
   },
   {
     "store": "اجو",
@@ -201,7 +237,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/AGO",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:17"
+    "_updated": "2026-05-19 06:11"
   },
   {
     "store": "مطعم بيف بار",
@@ -213,7 +249,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Beefbar-Resturant",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:17"
+    "_updated": "2026-05-19 06:11"
   },
   {
     "store": "مطعم كويا",
@@ -225,7 +261,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Coya-Restaurant",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:17"
+    "_updated": "2026-05-19 06:11"
   },
   {
     "store": "كريزي بيتزا",
@@ -237,7 +273,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Crazy-pizza",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:17"
+    "_updated": "2026-05-19 06:11"
   },
   {
     "store": "مطعم كايزو",
@@ -249,7 +285,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Kayzo-Restaurant",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:17"
+    "_updated": "2026-05-19 06:11"
   },
   {
     "store": "مطعم ميازو",
@@ -261,7 +297,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/MYAZU-Resturant",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:17"
+    "_updated": "2026-05-19 06:11"
   },
   {
     "store": "مونوز شوكلاته",
@@ -273,7 +309,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Munus-chocolatier",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:17"
+    "_updated": "2026-05-19 06:11"
   },
   {
     "store": "ناد للشكولاتة",
@@ -285,7 +321,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Nad-Chocolate",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:17"
+    "_updated": "2026-05-19 06:11"
   },
   {
     "store": "Robata Riyadh  Restaurant",
@@ -297,7 +333,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Robata-Riyadh--Restaurant",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:17"
+    "_updated": "2026-05-19 06:12"
   },
   {
     "store": "مطعم سان كارلو شيكيتي",
@@ -309,7 +345,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/San-Carlo-Cicchetti-Restaurant",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:17"
+    "_updated": "2026-05-19 06:12"
   },
   {
     "store": "مطعم   فيلا سينيور ساسي",
@@ -321,7 +357,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Signor-Sassi-Resturant",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:17"
+    "_updated": "2026-05-19 06:12"
   },
   {
     "store": "ذاتس شوكلاتة",
@@ -333,7 +369,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Thats-chocolate",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:17"
+    "_updated": "2026-05-19 06:12"
   },
   {
     "store": "Urth Caffe",
@@ -345,7 +381,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Urth-Caffe",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:17"
+    "_updated": "2026-05-19 06:12"
   },
   {
     "store": "فارا للشكولاتة",
@@ -357,7 +393,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Vara-Chocolate",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:17"
+    "_updated": "2026-05-19 06:12"
   },
   {
     "store": "سيسلر",
@@ -369,7 +405,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/susler",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:17"
+    "_updated": "2026-05-19 06:12"
   },
   {
     "store": "المهيدب ريزدنس",
@@ -381,7 +417,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Travel-and-Tour/Al-Muhaidb-Residence",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:17"
+    "_updated": "2026-05-19 06:12"
   },
   {
     "store": "فنادق إيواء",
@@ -393,7 +429,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Travel-and-Tour/EWAA-Hotels",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:17"
+    "_updated": "2026-05-19 06:12"
   },
   {
     "store": "فنادق جراند بلازا",
@@ -405,19 +441,19 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Travel-and-Tour/Grand-Plaza-Hotels",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:17"
+    "_updated": "2026-05-19 06:12"
   },
   {
-    "store": "10% كاش باك لعملياتك الدولية",
-    "discount": "10%",
+    "store": "15% كاش باك لعملياتك الدولية",
+    "discount": "15%",
     "category": "عروض الإنماء",
     "expiry": "",
-    "description": "استخدم بطاقاتك دوليًا لحجوزات السفر وخطط لرحلتك القادمة، واحصل على كاش باك 10%",
+    "description": "استخدم بطاقتك دوليًا، واحصل على كاش باك 15%.",
     "img": "https://www.alinma.com/-/media/Project/AlinmaRevamp/Portal/Hero-Slider/10CashBackbanner_600x450.png",
-    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/10-cashbacks-for-international-transaction",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/15-cashbacks-for-international-transaction",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:17"
+    "_updated": "2026-05-19 06:12"
   },
   {
     "store": "قسّط مشترياتك من السيف جاليري بدون هامش ربح",
@@ -429,7 +465,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/Alsaif-Gallery",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:17"
+    "_updated": "2026-05-19 06:12"
   },
   {
     "store": "%10 كاش باك",
@@ -441,7 +477,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/Cashback",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:18"
+    "_updated": "2026-05-19 06:12"
   },
   {
     "store": "كأس العالم فيفا 2026™",
@@ -453,7 +489,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/FIFA-World-Cup-2026",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:18"
+    "_updated": "2026-05-19 06:12"
   },
   {
     "store": "قسّط مشترياتك من ساكو بدون هامش ربح",
@@ -465,7 +501,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/SACO",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:18"
+    "_updated": "2026-05-19 06:12"
   },
   {
     "store": "حوالة صادرة وهدية واردة!",
@@ -477,7 +513,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/Transfer-internationally-and-win-a-gift",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:18"
+    "_updated": "2026-05-19 06:12"
   },
   {
     "store": "stc",
@@ -489,6 +525,6 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/stc",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-05-18 06:18"
+    "_updated": "2026-05-19 06:12"
   }
 ]
