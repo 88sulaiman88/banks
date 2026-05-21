@@ -1,5 +1,17 @@
 [
   {
+    "store": "الشاهي عالمزاج مع مزاج مغربي بريااال!",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "26 مايو",
+    "description": "اطلب شاي تلقيمة أحمر أو شاي مغربي بريال واحد بس من تطبيق مزاج مغربي وباستخدام جميع بطاقات STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/mezaj-png",
+    "link": "https://stcbank.com.sa/web/guest/w/mezaj",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-05-21 06:25"
+  },
+  {
     "store": "الهدايا بكل أنواعها بعروض تصل إلى 22%!",
     "discount": "22%",
     "category": "عروض",
@@ -9,7 +21,103 @@
     "link": "https://stcbank.com.sa/web/guest/w/gifts",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
+  },
+  {
+    "store": "كودو يشبّعك بعرض يونّسك مع خصم 15%!",
+    "discount": "15%",
+    "category": "عروض",
+    "expiry": "31 مايو",
+    "description": "كودو خيارك وقت الجوع بخصم 15% باستخدام جميع بطاقات !STC Bank",
+    "img": "https://stcbank.com.sa/documents/d/guest/kudu2-png",
+    "link": "https://stcbank.com.sa/web/guest/w/kudu-offer",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-05-21 06:25"
+  },
+  {
+    "store": "جمالك وعنايتك تبدأ من نايس ون مع خصم 20%!",
+    "discount": "20%",
+    "category": "عروض",
+    "expiry": "31 مايو",
+    "description": "استمتع بمنتجات العناية والجمال من نايس ون مع خصم 20% باستخدام جميع بطاقات STC Bank",
+    "img": "https://stcbank.com.sa/documents/d/guest/offers_-niceone-png",
+    "link": "https://stcbank.com.sa/web/guest/w/niceone-offer",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-05-21 06:25"
+  },
+  {
+    "store": "برررد صيفك مع ستاربكس!",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "31 مايو",
+    "description": "استمتع بمشروبك المفضل والوجبات الخفيفة بخصم 20% على جميع منتجات ستاربكس باستخدام جميع بطاقات STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/offers_starbucks-png",
+    "link": "https://stcbank.com.sa/web/guest/w/starbucks-offer",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-05-21 06:25"
+  },
+  {
+    "store": "برّد على قلبك مرة ومرتين!",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "31 مايو",
+    "description": "اطلب آيس كريم من دورما واستمتع بالثاني مجانًا باستخدام جميع بطاقات STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/durma-png",
+    "link": "https://stcbank.com.sa/web/guest/w/durma",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-05-21 06:25"
+  },
+  {
+    "store": "انعِش صيفك بغسيل سيارتك مع خصم 45% من تطبيق سويتر!",
+    "discount": "45%",
+    "category": "عروض",
+    "expiry": "31 مايو",
+    "description": "غسّل سيارتك عند باب بيتك واستمتع بخصم 45% باستخدام جميع بطاقات STC Bank.!",
+    "img": "https://stcbank.com.sa/documents/d/guest/sweater",
+    "link": "https://stcbank.com.sa/web/guest/w/sweater-offer",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-05-21 06:25"
+  },
+  {
+    "store": "الحلى على كيفك من أنوش!",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "31 مايو",
+    "description": "اطلب اللي تبي من أنوش واستمتع بخصم 23% على كل منتجاتهم باستخدام جميع بطاقات STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/anoosh-333-png-1",
+    "link": "https://stcbank.com.sa/web/guest/w/anoosh-offer",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-05-21 06:25"
+  },
+  {
+    "store": "أساس الفخامة من سيّار بخصم 20%",
+    "discount": "20%",
+    "category": "عروض",
+    "expiry": "31 مايو",
+    "description": "سيّار وجهتك للفخامة الرجالية بخصم 20% وتوصيل مجاني باستخدام جميع بطاقات STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/offers_sayyar2-1-png",
+    "link": "https://stcbank.com.sa/web/guest/w/new_sayyar",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-05-21 06:25"
+  },
+  {
+    "store": "كوب الشاهي على مزاجك مع شاي الأوّلين!",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "21 يونيو",
+    "description": "استمتع بأنواع الشاهي من موقع شاي الأوّلين ولك خصم 15% باستخدام جميع بطاقات STC Bank وفوقها 15% كاش باك لمحفظتك في موقع شاي الأولين.",
+    "img": "https://stcbank.com.sa/documents/d/guest/alawaleen-png",
+    "link": "https://stcbank.com.sa/web/guest/w/alawaleen",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "مشترياتك من فارفتش بخصم يصل لـ 500 ⃁!",
@@ -21,7 +129,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/farfetch",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "عزز الصحة واللياقة بعروض تصل إلى 73!%",
@@ -33,7 +141,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/enhance-your-health",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "خصم 20% على مشترياتك من شي إن!",
@@ -45,7 +153,19 @@
     "link": "https://stcbank.com.sa/web/guest/w/shein_all_cards",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
+  },
+  {
+    "store": "تسوّق مع فوغا كلوست بخصم 10%!",
+    "discount": "10%",
+    "category": "عروض",
+    "expiry": "30 يونيو",
+    "description": "استمتع بالمشتريات اللي مالها نهاية باستخدام بطاقات Visa الدفع والائتمانية من STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/offers-14-jpg",
+    "link": "https://stcbank.com.sa/web/guest/w/offer-voga-closet",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "حقق أحلامك مع جوائز مالية بأكثر من مليونين ريال سعودي!",
@@ -57,7 +177,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/2-million-offer",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "الجوائز تنتظرك مع بطاقات  Visaمن STC Bank!",
@@ -69,7 +189,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/visa_cards_rewards",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "الجمال والصحة تستاهل عروض تصل إلى 20%!",
@@ -81,7 +201,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/beauty",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "0% رسوم على العمليات الدولية، وجوائز على مشترياتك وأكثررر!",
@@ -93,7 +213,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/zero_fees",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "عروض تشبّعك وتروّقك تصل إلى 25%!",
@@ -105,7 +225,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/fill-your-tummy",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "احتياجاتك الرياضية مع خصم يوصل لـ10% من Dr. Nutrition!",
@@ -117,7 +237,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/boost-your-health",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "مكملات وخيارات صحية مع خصم 10% من Sporter!",
@@ -129,7 +249,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/stay-healthy-with-10-off-on-sporter",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "حياتك الصحية تبدأ مع خصم يوصل لـ10% من الوزن المثالي!",
@@ -141,7 +261,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/start-your-healthy-journey-with-up-to-10-off-from-almithaly",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "مشترياتك الرياضية مع خصم 10% من Gosport!",
@@ -153,7 +273,19 @@
     "link": "https://stcbank.com.sa/web/guest/w/shop-workout-and-save-with-10-off-on-gosport",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
+  },
+  {
+    "store": "خصم يصل إلى 25% على مشترياتك من iHerb!",
+    "discount": "25%",
+    "category": "عروض",
+    "expiry": "30 سبتمبر",
+    "description": "استمتع بمشترياتك الصحية من موقع وتطبيق  iHerbوباستخدام جميع بطاقات Visa الدفع والائتمانية من STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/offers-15-jpg",
+    "link": "https://stcbank.com.sa/web/guest/w/iherb-offer",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "متّع ذائقتك في أرقى مطاعم الإمارات!",
@@ -165,7 +297,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/indulge-in-fine-dining-around-uae",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "في الحديد ولا فيك!",
@@ -177,7 +309,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/cars-replacement",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "جددي خزانتك بأناقة!",
@@ -189,7 +321,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/bafello",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "صحتك أولوية تستاهل خصم يصل إلى 25%!",
@@ -201,7 +333,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/your-health-is-a-priority",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "قهوتك على هواك مع خصم 15% من بيت التحميص",
@@ -213,7 +345,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/roasting-house",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "عطرك فوّاح مع خصم 10% من قولدن سنت!",
@@ -225,19 +357,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/golden-scent",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
-  },
-  {
-    "store": "كشخة العيد مع 15% خصم من سيّار!",
-    "discount": "15%",
-    "category": "عروض",
-    "expiry": "31 ديسمبر",
-    "description": "استمتع بخصم 15% من سيّار على جميع المنتجات في الموقع الإلكتروني والفروع، باستخدام جميع بطاقات STC Bank.",
-    "img": "https://stcbank.com.sa/documents/d/guest/offers_sayyar2-png",
-    "link": "https://stcbank.com.sa/web/guest/w/sayyar",
-    "promo": "",
-    "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "ضبّط سيارتك مع فور وييل ستيشن!",
@@ -249,7 +369,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/4-wheel",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "الخصم معك طول السنة!",
@@ -261,7 +381,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/airportapp",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "خدوش؟ انساها مع حماية ألترا شيلد!",
@@ -273,7 +393,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/scratches",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "طلتك تستاهل عروض تصل إلى 15%!",
@@ -285,7 +405,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/outfits",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "انعِش مكانك مع نباتات جديدة مع خصم 15% من نباتاتي!",
@@ -297,7 +417,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/nabataty",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "تلميع وحماية سيارتك مع خصم 20% من ديتاليواوتو!",
@@ -309,7 +429,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/dettaglioauto-offer",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
   },
   {
     "store": "عروض تاخذك أبعد!",
@@ -321,6 +441,6 @@
     "link": "https://stcbank.com.sa/web/guest/w/offers-that-take-you-further-1",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-05-20 06:19"
+    "_updated": "2026-05-21 06:25"
   }
 ]
