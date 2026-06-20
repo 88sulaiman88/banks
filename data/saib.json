@@ -9,7 +9,7 @@
     "link": "https://www.saib.com.sa/ar/w5",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "أي او كي كيتشن",
@@ -21,7 +21,7 @@
     "link": "https://www.saib.com.sa/ar/aok-kitchen",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "روكا",
@@ -33,7 +33,7 @@
     "link": "https://www.saib.com.sa/ar/roka",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "رويا",
@@ -45,7 +45,7 @@
     "link": "https://www.saib.com.sa/ar/ruya",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "بلاك تاب",
@@ -57,7 +57,7 @@
     "link": "https://www.saib.com.sa/ar/blacktap",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "ال باريتو",
@@ -69,7 +69,7 @@
     "link": "https://www.saib.com.sa/ar/ilbaretto",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "حياك لاونج",
@@ -81,7 +81,7 @@
     "link": "https://www.saib.com.sa/ar/hayyak-lounge",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "أنتروكوت كافيه دو باريس",
@@ -93,7 +93,7 @@
     "link": "https://www.saib.com.sa/ar/entrecote-cafe-de-paris",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "الفاخرة",
@@ -105,7 +105,7 @@
     "link": "https://www.saib.com.sa/ar/al-fakhrah",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "ميازو",
@@ -117,7 +117,7 @@
     "link": "https://www.saib.com.sa/ar/myazu",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "سنيور ساسي",
@@ -129,19 +129,19 @@
     "link": "https://www.saib.com.sa/ar/signor-sassi",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "كريزي بيتزا",
     "discount": "20%",
     "category": "عروض أصيل",
-    "expiry": "31/21/2026",
+    "expiry": "",
     "description": "خصم 20%",
     "img": "https://www.saib.com.sa/sites/default/files/imported/aseelo/O_4468_1713790748_EL.jpg",
     "link": "https://www.saib.com.sa/ar/crazy-pizza",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "روباتا",
@@ -153,19 +153,19 @@
     "link": "https://www.saib.com.sa/ar/robata",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "سان كارلو",
     "discount": "20%",
     "category": "عروض أصيل",
-    "expiry": "",
+    "expiry": "31/12/2026",
     "description": "خصم 20%",
     "img": "https://www.saib.com.sa/sites/default/files/imported/aseelo/O_4470_1713790748_EL.jpg",
     "link": "https://www.saib.com.sa/ar/san-carlo-cicchetti",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "كايزو",
@@ -177,7 +177,7 @@
     "link": "https://www.saib.com.sa/ar/kayzo",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "بيف بار",
@@ -189,7 +189,7 @@
     "link": "https://www.saib.com.sa/ar/beefbar",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "كويا",
@@ -201,7 +201,7 @@
     "link": "https://www.saib.com.sa/ar/coya",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "ارث كافيه",
@@ -213,7 +213,7 @@
     "link": "https://www.saib.com.sa/ar/urth-caffe",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "مركز إجادة للتخاطب والنطق",
@@ -225,7 +225,7 @@
     "link": "https://www.saib.com.sa/ar/ejadah",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "عالم الخزائن",
@@ -237,7 +237,7 @@
     "link": "https://www.saib.com.sa/ar/closet-world",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "الخزائن المبتكرة",
@@ -249,7 +249,7 @@
     "link": "https://www.saib.com.sa/ar/creative-closets",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "مطعم لو روليه دو لانتركوت",
@@ -261,7 +261,7 @@
     "link": "https://www.saib.com.sa/ar/le-relais-de-l-entrecote",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "القرية النجدية",
@@ -273,7 +273,7 @@
     "link": "https://www.saib.com.sa/ar/najd-village",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "مطعم المياس",
@@ -285,7 +285,7 @@
     "link": "https://www.saib.com.sa/ar/almayass",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "ملاذ للتأمين",
@@ -297,7 +297,7 @@
     "link": "https://www.saib.com.sa/ar/malath-insurance",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "المطار",
@@ -309,7 +309,7 @@
     "link": "https://www.saib.com.sa/ar/almatar",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "سعد باشماخ",
@@ -321,7 +321,7 @@
     "link": "https://www.saib.com.sa/ar/saad-bashammakh",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "البـدر للنظارات",
@@ -333,7 +333,7 @@
     "link": "https://www.saib.com.sa/ar/al-badr-optical",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   },
   {
     "store": "بنيهانا",
@@ -345,6 +345,6 @@
     "link": "https://www.saib.com.sa/ar/benihana",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-06-19 07:18"
+    "_updated": "2026-06-20 06:32"
   }
 ]
