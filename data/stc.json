@@ -9,7 +9,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/alrifai",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "البيتزا الثانية الكبيرة بـ 3 ⃁ مع مايسترو بيتزا",
@@ -21,7 +21,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/maestro",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "لعبتنا قووول وفعل",
@@ -33,7 +33,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/stcbank-championship",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "جوائز على مشترياتك الدولية بـ 0% رسوم!",
@@ -45,7 +45,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/international-purchases-with-0-fees",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "خصم 20% من لوكا بيوتي",
@@ -57,7 +57,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/loca",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "الجمال والصحة تستاهل عروض تصل إلى 20%!",
@@ -69,7 +69,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/beauty",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "حقق أحلامك مع جوائز مالية بأكثر من مليونين ريال سعودي!",
@@ -81,7 +81,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/2-million-offer",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "الجوائز تنتظرك مع بطاقات  Visaمن STC Bank!",
@@ -93,7 +93,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/visa_cards_rewards",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "0% رسوم على العمليات الدولية، وجوائز على مشترياتك وأكثررر!",
@@ -105,19 +105,91 @@
     "link": "https://stcbank.com.sa/web/guest/w/zero_fees",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
-    "store": "عروض تشبّعك وتروّقك تصل إلى 25%!",
+    "store": "خصم 10% من دووس",
+    "discount": "10%",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 31 أغسطس",
+    "description": "استمتع بعرض دووس باستخدام بطاقات Visa من STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/doos",
+    "link": "https://stcbank.com.sa/web/guest/w/doos-offer",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-07-02 06:15"
+  },
+  {
+    "store": "خصم 15% من وكف",
+    "discount": "15%",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 25 سبتمبر",
+    "description": "استمتع بعرض وكف باستخدام بطاقات Visa من STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/wacafe",
+    "link": "https://stcbank.com.sa/web/guest/w/wa-cafe",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-07-02 06:15"
+  },
+  {
+    "store": "خصم 20% من روما وَي",
+    "discount": "20%",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 28 سبتمبر",
+    "description": "استمتع بعرض روما وَي باستخدام بطاقات Visa من STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/roma-way",
+    "link": "https://stcbank.com.sa/web/guest/w/roma-way-discount",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-07-02 06:15"
+  },
+  {
+    "store": "خصم 25% من سزلر هاوس",
     "discount": "25%",
     "category": "عروض",
     "expiry": "يسري العرض إلى 28 سبتمبر",
-    "description": "استمتع بعروض المطاعم والمقاهي باستخدام بطاقات Visa من STC Bank.",
-    "img": "https://stcbank.com.sa/documents/d/guest/restuarant",
-    "link": "https://stcbank.com.sa/web/guest/w/fill-your-tummy",
+    "description": "استمتع بعرض سزلر هاوس باستخدام بطاقات Visa من STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/sizzlerhouse",
+    "link": "https://stcbank.com.sa/web/guest/w/sizzler-house",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
+  },
+  {
+    "store": "خصم 25% من كوفي بلانيت",
+    "discount": "25%",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 28 سبتمبر",
+    "description": "استمتع بعرض كوفي بلانيت باستخدام بطاقات Visa من STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/coffee-planet",
+    "link": "https://stcbank.com.sa/web/guest/w/coffee-planet-offer",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-07-02 06:15"
+  },
+  {
+    "store": "خصم 15% من كانتون",
+    "discount": "15%",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 28 سبتمبر",
+    "description": "استمتع بعرض كانتون باستخدام بطاقات Visa من STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/canton",
+    "link": "https://stcbank.com.sa/web/guest/w/canton-offer",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-07-02 06:15"
+  },
+  {
+    "store": "خصم 20% من تاكو هت",
+    "discount": "20%",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 28 سبتمبر",
+    "description": "استمتع بعرض تاكو هت باستخدام بطاقات Visa من STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/takohut",
+    "link": "https://stcbank.com.sa/web/guest/w/tako-hut-offer",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "احتياجاتك الرياضية مع خصم يوصل لـ10% من Dr. Nutrition!",
@@ -129,7 +201,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/boost-your-health",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "مكملات وخيارات صحية مع خصم 10% من Sporter!",
@@ -141,7 +213,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/stay-healthy-with-10-off-on-sporter",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "مشترياتك الرياضية مع خصم 10% من Gosport!",
@@ -153,7 +225,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/shop-workout-and-save-with-10-off-on-gosport",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "خصم يصل إلى 25% على مشترياتك من iHerb!",
@@ -165,7 +237,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/iherb-offer",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "متّع ذائقتك في أرقى مطاعم الإمارات!",
@@ -177,7 +249,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/indulge-in-fine-dining-around-uae",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "في الحديد ولا فيك!",
@@ -189,7 +261,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/cars-replacement",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "جددي خزانتك بأناقة!",
@@ -201,7 +273,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/bafello",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "قهوتك على هواك مع خصم 15% من بيت التحميص",
@@ -213,7 +285,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/roasting-house",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "عطرك فوّاح مع خصم 10% من قولدن سنت!",
@@ -225,7 +297,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/golden-scent",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "ضبّط سيارتك مع فور وييل ستيشن!",
@@ -237,7 +309,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/4-wheel",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "الخصم معك طول السنة!",
@@ -249,7 +321,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/airportapp",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "خدوش؟ انساها مع حماية ألترا شيلد!",
@@ -261,7 +333,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/scratches",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "طلتك تستاهل عروض تصل إلى 15%!",
@@ -273,7 +345,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/outfits",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "انعِش مكانك مع نباتات جديدة مع خصم 15% من نباتاتي!",
@@ -285,7 +357,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/nabataty",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "أساس الفخامة من سيّار بخصم 20%",
@@ -297,7 +369,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/new_sayyar",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   },
   {
     "store": "تلميع وحماية سيارتك مع خصم 20% من ديتاليواوتو!",
@@ -309,6 +381,6 @@
     "link": "https://stcbank.com.sa/web/guest/w/dettaglioauto-offer",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-07-01 06:44"
+    "_updated": "2026-07-02 06:15"
   }
 ]

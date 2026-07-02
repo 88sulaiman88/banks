@@ -9,11 +9,11 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Turkish-Airlines-Offer-with-Bank-Albilad.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-07-01 06:33"
+    "_updated": "2026-07-02 06:05"
   },
   {
     "store": "90 يوم من المزايا مع بطاقات بنك البلاد",
-    "discount": "30%",
+    "discount": "",
     "category": "عروض",
     "expiry": "16 يوليو 2026",
     "description": "حافظ على رصيدك لمدة 90 يوماَ واستمتع بمزايا أكثر !",
@@ -21,7 +21,19 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Albilad-Cards-90-Days-benefit.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-07-01 06:33"
+    "_updated": "2026-07-02 06:06"
+  },
+  {
+    "store": "عرض شاي سدرة",
+    "discount": "10%",
+    "category": "عروض",
+    "expiry": "01 نوفمبر 2026",
+    "description": "استمتع بخصم 10٪ لدى شاي سدرة عند الدفع ببطاقات بنك البلاد الائتمانية .",
+    "img": "",
+    "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Sedra-tea.aspx",
+    "promo": "",
+    "_bank": "bilad",
+    "_updated": "2026-07-02 06:06"
   },
   {
     "store": "عرض فوغا كلوسيت مع بطاقات البلاد",
@@ -33,7 +45,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/VogaCloset--with-albilad-card.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-07-01 06:34"
+    "_updated": "2026-07-02 06:06"
   },
   {
     "store": "ردتاغ",
@@ -45,7 +57,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Red-Tag.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-07-01 06:34"
+    "_updated": "2026-07-02 06:06"
   },
   {
     "store": "عرض تطبيق المطار للفنادق والرحلات مع بطاقات البلاد",
@@ -57,7 +69,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/almatar-with-albilad-card.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-07-01 06:34"
+    "_updated": "2026-07-02 06:07"
   },
   {
     "store": "عرض SHEIN مع بطاقات البلاد",
@@ -69,7 +81,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/shein-with-albilad-card.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-07-01 06:35"
+    "_updated": "2026-07-02 06:07"
   },
   {
     "store": "عرض آيهرب مع بطاقات البلاد",
@@ -81,7 +93,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/iherb-with-albilad-card.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-07-01 06:35"
+    "_updated": "2026-07-02 06:07"
   },
   {
     "store": "وفر أكثر مع بطاقات البلاد",
@@ -93,6 +105,6 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/buy-one-get-one-free.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-07-01 06:35"
+    "_updated": "2026-07-02 06:07"
   }
 ]
