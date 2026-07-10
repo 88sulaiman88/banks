@@ -9,7 +9,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Cars-Accessories-and-Services/Hello-app",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-07-09 06:06"
+    "_updated": "2026-07-10 06:05"
   },
   {
     "store": "مسمار",
@@ -21,7 +21,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Cars-Accessories-and-Services/Mismar",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-07-09 06:06"
+    "_updated": "2026-07-10 06:05"
   },
   {
     "store": "رويال نانو",
@@ -33,7 +33,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Cars-Accessories-and-Services/Royal-Nano-for-car-services",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-07-09 06:06"
+    "_updated": "2026-07-10 06:05"
   },
   {
     "store": "ستايلي",
@@ -45,7 +45,19 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Cars-Accessories-and-Services/Stily",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-07-09 06:06"
+    "_updated": "2026-07-10 06:06"
+  },
+  {
+    "store": "سويتر",
+    "discount": "50%",
+    "category": "سيارات وخدمات",
+    "expiry": "18 يوليو 2026",
+    "description": "خصم 50% للغسلة الفردية",
+    "img": "https://www.alinma.com/-/media/ExtraImages/SweaterV2.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Cars-Accessories-and-Services/Sweater-New",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:06"
   },
   {
     "store": "ايرالو",
@@ -57,7 +69,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/E-commerce-websites/Airlao",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-07-09 06:06"
+    "_updated": "2026-07-10 06:06"
   },
   {
     "store": "قسيمة ايرالو",
@@ -69,7 +81,19 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/E-commerce-websites/Airlao-Voucher",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-07-09 06:06"
+    "_updated": "2026-07-10 06:06"
+  },
+  {
+    "store": "أمازون ناو",
+    "discount": "30%",
+    "category": "تجارة إلكترونية",
+    "expiry": "14 يوليو 2026",
+    "description": "استمتع بخصم 30% لدى amazon now عند الدفع بأي من بطاقات الإنماء فيزا الائتمانية إنفينت وسغنتشر.",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Amazon_Now_v2.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/E-commerce-websites/Amazon-NOW",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:06"
   },
   {
     "store": "غرينتاهب",
@@ -81,7 +105,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/E-commerce-websites/GrintaHub",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-07-09 06:06"
+    "_updated": "2026-07-10 06:06"
   },
   {
     "store": "همه",
@@ -93,7 +117,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/E-commerce-websites/Hammah",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-07-09 06:06"
+    "_updated": "2026-07-10 06:06"
   },
   {
     "store": "همه تك",
@@ -105,7 +129,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/E-commerce-websites/Hammah-Tech",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-07-09 06:06"
+    "_updated": "2026-07-10 06:06"
   },
   {
     "store": "هواوي",
@@ -117,7 +141,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/E-commerce-websites/Huawei",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-07-09 06:06"
+    "_updated": "2026-07-10 06:06"
   },
   {
     "store": "دوميدو",
@@ -129,7 +153,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Entertainment/Doomidoo",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-07-09 06:06"
+    "_updated": "2026-07-10 06:06"
   },
   {
     "store": "الأصيل",
@@ -141,7 +165,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Fashion-and-beauty/Alaseel",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-07-09 06:07"
+    "_updated": "2026-07-10 06:06"
   },
   {
     "store": "الفاخرة",
@@ -153,7 +177,7 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Fashion-and-beauty/Alfakhera",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-07-09 06:07"
+    "_updated": "2026-07-10 06:06"
   },
   {
     "store": "الجمال الراقي",
@@ -165,6 +189,618 @@
     "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Fashion-and-beauty/Aljamal-Alraqi",
     "promo": "",
     "_bank": "inma",
-    "_updated": "2026-07-09 06:07"
+    "_updated": "2026-07-10 06:06"
+  },
+  {
+    "store": "الكسائي",
+    "discount": "25%",
+    "category": "أزياء وجمال",
+    "expiry": "27 أبريل 2027",
+    "description": "استمتع بخصم يصل الي 25% لدى الكسائي عند الدفع باستخدام بطاقات الانماء الائتمانية و مسبقة الدفع ومدى",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Alkessaey-00.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Fashion-and-beauty/Alkessaey",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:06"
+  },
+  {
+    "store": "دلال بوتيك",
+    "discount": "35%",
+    "category": "أزياء وجمال",
+    "expiry": "1 يناير 2027",
+    "description": "استمتعي بخصم 35% لدى دلال بوتيك عند الدفع باستخدام بطاقات الإنماء الائتمانية ومسبقة الدفع",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Dalal.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Fashion-and-beauty/Dalal-boutique",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:06"
+  },
+  {
+    "store": "فاب",
+    "discount": "30%",
+    "category": "أزياء وجمال",
+    "expiry": "29 سبتمبر 2026",
+    "description": "استمتع بخصم يصل إلى 30% لدى فاب عند الدفع باستخدام بطاقات الانماء الائتمانية أو مسبقة الدفع أو مدى",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Feb.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Fashion-and-beauty/Fab",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:06"
+  },
+  {
+    "store": "سيار",
+    "discount": "20%",
+    "category": "أزياء وجمال",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم 20% لدى سيار عند الدفع باستخدام بطاقات الانماء الائتمانية ومسبقة الدفع ومدى",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Sayyar-Logo-PNG2.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Fashion-and-beauty/Sayyar",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:06"
+  },
+  {
+    "store": "تاسومة",
+    "discount": "30%",
+    "category": "أزياء وجمال",
+    "expiry": "29 سبتمبر 2026",
+    "description": "استمتع بخصم يصل الى 30% لدى تاسومة عند الدفع باستخدام بطاقات الانماء الائتمانية أو مسبقة الدفع أو مدى",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Tasooma2.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Fashion-and-beauty/Tasooma",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:06"
+  },
+  {
+    "store": "ايريا 25",
+    "discount": "10%",
+    "category": "عروض",
+    "expiry": "9 أبريل 2027",
+    "description": "استمتع باسترداد نقدي 10% لدى ايريا 25 الدفع باستخدام بطاقات الانماء الائتمانية ومسبقة الدفع ومدى",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Area25.jpg",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Furniture-Shops/Area25",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:06"
+  },
+  {
+    "store": "Cote nail Spa",
+    "discount": "15%",
+    "category": "صحة وطب",
+    "expiry": "29 يناير 2027",
+    "description": "استمتع بخصم 15% لدى كوت سبا عند الدفع بأي من بطاقات الإنماء الائتمانية ومسبقة الدفع",
+    "img": "https://www.alinma.com/-/media/ExtraImages/CotaSpa.jpg?la=ar&h=1280&w=1280&hash=D21042D85DAF94CB9AADA73012141FF2",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Health-and-Medical/Cote-nail-Spa",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:06"
+  },
+  {
+    "store": "أوشن سبا",
+    "discount": "15%",
+    "category": "صحة وطب",
+    "expiry": "15 يونيو 2027",
+    "description": "استمتع بخصم 15% لدى أوشن سبا عند الدفع باستخدام بطاقات الانماء الائتمانية ومسبقة الدفع ومدى",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Ocean_Spa.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Health-and-Medical/Ocean-Spa",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:07"
+  },
+  {
+    "store": "فارفيتش",
+    "discount": "",
+    "category": "عروض دولية",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم يصل الى 500 Ʀ لدى فارفتش عند الدفع بأي من بطاقات مصرف الإنماء فيزا الائتمانية.",
+    "img": "https://www.alinma.com/-/media/ExtraImages/farfetch.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/International-Offers/Farfetch",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:07"
+  },
+  {
+    "store": "VOGACLOSET",
+    "discount": "10%",
+    "category": "عروض دولية",
+    "expiry": "30 سبتمبر 2026",
+    "description": "استمتعي بخصم إضافي 10% لدى فوقا كلوسيت عند الدفع بأي من بطاقات الإنماء الائتمانية و مسبقة الدفع ومدى.",
+    "img": "https://www.alinma.com/-/media/ExtraImages/vogacloset.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/International-Offers/VOGACLOSET",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:07"
+  },
+  {
+    "store": "الدهام للساعات",
+    "discount": "10%",
+    "category": "مجوهرات وعطور",
+    "expiry": "31 يوليو 2026",
+    "description": "استمتع بخصم إضافي 10% لدى الدهام للساعات عند الدفع باستخدام بطاقات الانماء الائتمانية ومسبقة الدفع ومدى",
+    "img": "https://www.alinma.com/-/media/ExtraImages/AlDaham.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Jewelry-and-watches-and-perfumes/Al-Daham-Watches",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:07"
+  },
+  {
+    "store": "$name",
+    "discount": "10%",
+    "category": "مجوهرات وعطور",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم إضافي 10% لدى بازل عند الدفع باستخدام بطاقات الإنماء الائتمانية أو مسبقة الدفع.",
+    "img": "https://www.alinma.com/-/media/Winter-Offers/Colored/color_Bazil.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Jewelry-and-watches-and-perfumes/Bazil",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:07"
+  },
+  {
+    "store": "فايندرا",
+    "discount": "20%",
+    "category": "مجوهرات وعطور",
+    "expiry": "10 يونيو 2027",
+    "description": "استمتع بخصم حتى 20% لدى فايندرا عند الدفع باستخدام بطاقات الانماء الائتمانية ومسبقة الدفع ومدى",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Fayendra.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Jewelry-and-watches-and-perfumes/Fayendra",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:07"
+  },
+  {
+    "store": "لافيرن",
+    "discount": "11%",
+    "category": "مجوهرات وعطور",
+    "expiry": "31 يوليو 2026",
+    "description": "استمتع بخصم إضافي 11% لدى لافيرن عند الدفع باستخدام بطاقات الانماء الائتمانية ومسبقة الدفع ومدى",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Laverne.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Jewelry-and-watches-and-perfumes/Laverne",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:07"
+  },
+  {
+    "store": "اجو",
+    "discount": "20%",
+    "category": "مطاعم وحلويات",
+    "expiry": "20 نوفمبر 2026",
+    "description": "استمتع بأجواء رائعة في اجو واستمتع بخصم 20% عند الدفع باستخدام بطاقات الإنماء الائتمانية.",
+    "img": "https://www.alinma.com/-/media/Winter-Offers/Colored/agio_color.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/AGO",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:07"
+  },
+  {
+    "store": "مطعم بيف بار",
+    "discount": "20%",
+    "category": "مطاعم وحلويات",
+    "expiry": "20 نوفمبر 2026",
+    "description": "استمتع بأجواء رائعة في بيف بار واستمتع بخصم 20% عند الدفع باستخدام بطاقات الإنماء الائتمانية.",
+    "img": "https://www.alinma.com/-/media/Winter-Offers/Colored/color_Beefbar.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Beefbar-Resturant",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:07"
+  },
+  {
+    "store": "مطعم كويا",
+    "discount": "20%",
+    "category": "مطاعم وحلويات",
+    "expiry": "20 نوفمبر 2026",
+    "description": "استمتع بأجواء رائعة في كويا واستمتع بخصم 20% عند الدفع باستخدام بطاقات الإنماء الائتمانية.",
+    "img": "https://www.alinma.com/-/media/Winter-Offers/Colored/color_Coya.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Coya-Restaurant",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:07"
+  },
+  {
+    "store": "كريزي بيتزا",
+    "discount": "20%",
+    "category": "مطاعم وحلويات",
+    "expiry": "20 نوفمبر 2026",
+    "description": "استمتع بأجواء رائعة في كريزي بيتزا واستمتع بخصم 20% عند الدفع باستخدام بطاقات الإنماء الائتمانية.",
+    "img": "https://www.alinma.com/-/media/Winter-Offers/Colored/color_Crazy-Pizza.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Crazy-pizza",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:07"
+  },
+  {
+    "store": "مطعم كايزو",
+    "discount": "20%",
+    "category": "مطاعم وحلويات",
+    "expiry": "20 نوفمبر 2026",
+    "description": "استمتع بأجواء رائعة في كايزو واستمتع بخصم 20% عند الدفع باستخدام بطاقات الإنماء الائتمانية.",
+    "img": "https://www.alinma.com/-/media/Winter-Offers/Colored/color_KAYZO.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Kayzo-Restaurant",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:07"
+  },
+  {
+    "store": "مطعم ميازو",
+    "discount": "20%",
+    "category": "مطاعم وحلويات",
+    "expiry": "20 نوفمبر 2026",
+    "description": "استمتع بأجواء رائعة في ميازو واستمتع بخصم 20% عند الدفع باستخدام بطاقات الإنماء الائتمانية.",
+    "img": "https://www.alinma.com/-/media/Winter-Offers/Colored/color_Myazu.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/MYAZU-Resturant",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:07"
+  },
+  {
+    "store": "مونوز شوكلاته",
+    "discount": "15%",
+    "category": "مطاعم وحلويات",
+    "expiry": "29 يناير 2027",
+    "description": "استمتع بخصم 15% لدى مونوز شوكلاته عند الدفع باستخدام بطاقات الإنماء الائتمانية ومسبقة الدفع ومدى",
+    "img": "https://www.alinma.com/-/media/ExtraImages/munus.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Munus-chocolatier",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:07"
+  },
+  {
+    "store": "ناد للشكولاتة",
+    "discount": "15%",
+    "category": "مطاعم وحلويات",
+    "expiry": "29 يناير 2027",
+    "description": "استمتع بخصم 15% لدى ناد شوكلاته عند الدفع باستخدام بطاقات الإنماء الائتمانية ومسبقة الدفع ومدى",
+    "img": "https://www.alinma.com/-/media/ExtraImages/nad.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Nad-Chocolate",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:07"
+  },
+  {
+    "store": "اوليف جاردن",
+    "discount": "15%",
+    "category": "مطاعم وحلويات",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم 15% لدى اوليف جاردن عند الدفع بأي من بطاقات الإنماء الائتمانية ومسبقة الدفع ومدى.",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Olive-Garden.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Olive-Garden",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:07"
+  },
+  {
+    "store": "Robata Riyadh  Restaurant",
+    "discount": "20%",
+    "category": "مطاعم وحلويات",
+    "expiry": "20 نوفمبر 2026",
+    "description": "استمتع بأجواء رائعة في روباتا واستمتع بخصم 20% عند الدفع باستخدام بطاقات الإنماء الائتمانية.",
+    "img": "https://www.alinma.com/-/media/Winter-Offers/Colored/color_Robata.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Robata-Riyadh--Restaurant",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:07"
+  },
+  {
+    "store": "مطعم سان كارلو شيكيتي",
+    "discount": "20%",
+    "category": "مطاعم وحلويات",
+    "expiry": "20 نوفمبر 2026",
+    "description": "استمتع بأجواء رائعة في سان كارلو شيكيتي واستمتع بخصم 20% عند الدفع باستخدام بطاقات الإنماء الائتمانية.",
+    "img": "https://www.alinma.com/-/media/Winter-Offers/Colored/color_cicchetti.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/San-Carlo-Cicchetti-Restaurant",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:07"
+  },
+  {
+    "store": "بيت الشاورما",
+    "discount": "10%",
+    "category": "مطاعم وحلويات",
+    "expiry": "10 يونيو 2027",
+    "description": "استمتع بخصم 10% لدى بيت الشاورما عبر التطبيق عند الدفع باستخدام أي من بطاقات الإنماء الائتمانية ومسبقة الدفع ومدى.",
+    "img": "https://www.alinma.com/-/media/ExtraImages/shawarma_house.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Shawarma-House",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:07"
+  },
+  {
+    "store": "مطعم   فيلا سينيور ساسي",
+    "discount": "20%",
+    "category": "مطاعم وحلويات",
+    "expiry": "20 نوفمبر 2026",
+    "description": "استمتع بأجواء رائعة في سينيور ساسي واستمتع بخصم 20% عند الدفع باستخدام بطاقات الإنماء الائتمانية.",
+    "img": "https://www.alinma.com/-/media/Winter-Offers/Colored/color_Signor-Sassi.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Signor-Sassi-Resturant",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:07"
+  },
+  {
+    "store": "ذاتس شوكلاتة",
+    "discount": "15%",
+    "category": "مطاعم وحلويات",
+    "expiry": "29 يناير 2027",
+    "description": "استمتع بخصم 15% لدى ذاتس شوكلاته عند الدفع باستخدام بطاقات الإنماء الائتمانية ومسبقة الدفع ومدى",
+    "img": "https://www.alinma.com/-/media/ExtraImages/That.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Thats-chocolate",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:07"
+  },
+  {
+    "store": "Urth Caffe",
+    "discount": "15%",
+    "category": "مطاعم وحلويات",
+    "expiry": "20 نوفمبر 2026",
+    "description": "استمتع بأجواء رائعة في أيرث كافيه واحصل على خصم 15% عند الدفع باستخدام بطاقات الإنماء الائتمانية.",
+    "img": "https://www.alinma.com/-/media/Winter-Offers/Colored/color_Urth-Caffe.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Urth-Caffe",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:08"
+  },
+  {
+    "store": "فارا للشكولاتة",
+    "discount": "15%",
+    "category": "مطاعم وحلويات",
+    "expiry": "29 يناير 2027",
+    "description": "استمتع بخصم 15% لدى فارا شوكلاته عند الدفع باستخدام بطاقات الإنماء الائتمانية ومسبقة الدفع ومدى",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Vara-_Ar/vara.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Vara-Chocolate",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:08"
+  },
+  {
+    "store": "سيسلر",
+    "discount": "15%",
+    "category": "مطاعم وحلويات",
+    "expiry": "20 أبريل 2027",
+    "description": "استمتع بخصم 15% لدى سيسلر عند الدفع باستخدام بطاقات الانماء الائتمانية ومسبقة الدفع ومدى",
+    "img": "https://www.alinma.com/-/media/ExtraImages/suslerV2.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/susler",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:08"
+  },
+  {
+    "store": "بادل ات",
+    "discount": "40%",
+    "category": "عروض",
+    "expiry": "17 يونيو 2027",
+    "description": "استمتع بخصم حتى 40% لدى بادل ات عند الدفع بأي من بطاقات الإنماء",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Padel_It.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Sport-and-Fitness/Padel-It",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:08"
+  },
+  {
+    "store": "فنادق عابر",
+    "discount": "15%",
+    "category": "سفر وسياحة",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم 15% لدى فنادق عابر عند الدفع باستخدام بطاقات الانماء الائتمانية و مسبقة الدفع ومدى.",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Aber.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Travel-and-Tour/Aber-Hotels-New",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:08"
+  },
+  {
+    "store": "أكور",
+    "discount": "50%",
+    "category": "سفر وسياحة",
+    "expiry": "14 يوليو 2026",
+    "description": "احصل على 50% نقاط إضافية عند تحويل نقاطك في برنامج (أكثر) إلى برنامج الولاء (أكور) و استخدمها في حجز اقامتك القادمة لدى فنادق متنوعه في جميع انحاء الع...",
+    "img": "https://www.alinma.com/-/media/ExtraImages/ALLAccorLogoV2.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Travel-and-Tour/Accor-New",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:08"
+  },
+  {
+    "store": "المهيدب ريزدنس",
+    "discount": "15%",
+    "category": "سفر وسياحة",
+    "expiry": "30 يناير 2027",
+    "description": "استمتع بخصم 15% لدى المهيدب ريزدنس عند الدفع بأي من بطاقات الإنماء الائتمانية ومسبقة الدفع ومدى.",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Muhaidb.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Travel-and-Tour/Al-Muhaidb-Residence",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:08"
+  },
+  {
+    "store": "فنادق بودل",
+    "discount": "15%",
+    "category": "سفر وسياحة",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم 15% لدى فنادق بودل عند الدفع باستخدام بطاقات الانماء الائتمانية و مسبقة الدفع ومدى.",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Boudl-LOGO.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Travel-and-Tour/Boudl-Hotels-New",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:08"
+  },
+  {
+    "store": "فنادق بريرا",
+    "discount": "15%",
+    "category": "سفر وسياحة",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم 15% لدى فنادق بريرا عند الدفع باستخدام بطاقات الانماء الائتمانية و مسبقة الدفع ومدى.",
+    "img": "https://www.alinma.com/-/media/ExtraImages/brairaV01.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Travel-and-Tour/Braira-Hotels-New",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:08"
+  },
+  {
+    "store": "فنادق إيواء",
+    "discount": "15%",
+    "category": "سفر وسياحة",
+    "expiry": "30 يناير 2027",
+    "description": "استمتع بخصم 15% لدى فنادق إيواء عند الدفع بأي من بطاقات الإنماء الائتمانية ومسبقة الدفع ومدى.",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Ewaa-Express.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Travel-and-Tour/EWAA-Hotels",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:08"
+  },
+  {
+    "store": "فنادق جراند بلازا",
+    "discount": "15%",
+    "category": "سفر وسياحة",
+    "expiry": "30 يناير 2027",
+    "description": "استمتع بخصم 15% لدى فنادق جراند بلازا عند الدفع بأي من بطاقات الإنماء الائتمانية ومسبقة الدفع ومدى.",
+    "img": "https://www.alinma.com/-/media/ExtraImages/GP.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Travel-and-Tour/Grand-Plaza-Hotels",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:08"
+  },
+  {
+    "store": "فنادق نارسس",
+    "discount": "15%",
+    "category": "سفر وسياحة",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم 15% لدى فنادق نارسس عند الدفع باستخدام بطاقات الانماء الائتمانية و مسبقة الدفع ومدى.",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Narcissus-logo.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Travel-and-Tour/Narcissus-Hotels-New",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:08"
+  },
+  {
+    "store": "%100 كاش باك على العملية الأولى لبطاقتكم",
+    "discount": "100%",
+    "category": "عروض الإنماء",
+    "expiry": "31 يوليو 2026",
+    "description": "استخدم بطاقاتك واحصل على 100% كاش باك على عمليتك الأولى",
+    "img": "https://www.alinma.com/-/media/Project/AlinmaRevamp/Portal/Hero-Slider/10CashBackbanner_600x450.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/100-Cashbacks-for-FT",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:08"
+  },
+  {
+    "store": "%3 كاش باك",
+    "discount": "",
+    "category": "عروض الإنماء",
+    "expiry": "31 يوليو 2026",
+    "description": "كاش باك ونقاط أكثر على مشترياتك الدولية",
+    "img": "https://www.alinma.com/-/media/Project/AlinmaRevamp/Portal/Hero-Slider/10CashBackbanner_600x450.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/3-cashback-New",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:08"
+  },
+  {
+    "store": "%5 كاش باك لعملياتك الدولية",
+    "discount": "5%",
+    "category": "عروض الإنماء",
+    "expiry": "31 أغسطس 2026",
+    "description": "استخدم بطاقاتك دوليًا واحصل على كاش باك 5%.",
+    "img": "https://www.alinma.com/-/media/Project/AlinmaRevamp/Portal/Hero-Slider/10CashBackbanner_600x450.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/5-cashback-for-International-Transaction",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:08"
+  },
+  {
+    "store": "قسّط مشترياتك من السيف جاليري بدون هامش ربح",
+    "discount": "",
+    "category": "عروض الإنماء",
+    "expiry": "31 أكتوبر 2026",
+    "description": "تسوّق الآن من السيف جاليري عبر المعارض أو المتجر الإلكتروني، وقسّط مشترياتك بدون هامش ربح باستخدام بطاقات الإنماء الائتمانية وبطاقات الإنماء الفرسان ا...",
+    "img": "https://www.alinma.com/-/media/PointsCard/4192SR_BIG-40a0dbb3.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/Alsaif-Gallery",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:08"
+  },
+  {
+    "store": "سوق السيارات في متجر الإنماء",
+    "discount": "",
+    "category": "عروض الإنماء",
+    "expiry": "9 أغسطس 2026",
+    "description": "اطلب سيارتك عبر سوق السيارات في متجر الإنماء",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Auto_Marketplace_v1.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/Auto-Marketplace-via-alinma-Store",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:08"
+  },
+  {
+    "store": "تأمين الأخطاء الطبية",
+    "discount": "50%",
+    "category": "عروض الإنماء",
+    "expiry": "31 يوليو 2027",
+    "description": "أمّن الآن على الأخطاء الطبية بخصم حتى 50%",
+    "img": "https://www.alinma.com/-/media/ExtraImages/medical-insurance.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/Medical-Malpractice-Insurance",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:08"
+  },
+  {
+    "store": "قسّط مشترياتك من ساكو بدون هامش ربح",
+    "discount": "",
+    "category": "عروض الإنماء",
+    "expiry": "31 ديسمبر 2026",
+    "description": "تسوّق الآن من ساكو، وقسّط مشترياتك بدون هامش ربح باستخدام بطاقات الإنماء الائتمانية وبطاقات الإنماء الفرسان الائتمانية، ولمدة تصل إلى 12 شهرًا.",
+    "img": "https://www.alinma.com/-/media/PointsCard/SACO.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/SACO",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:08"
+  },
+  {
+    "store": "حوالة صادرة وهدية واردة!",
+    "discount": "",
+    "category": "عروض الإنماء",
+    "expiry": "9 أغسطس 2026",
+    "description": "حوّل دولياً عبر تطبيق الإنماء واربح هدية",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Transfer-internationally-and-win-a-gift.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/Transfer-internationally-and-win-a-gift",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:08"
+  },
+  {
+    "store": "تأمين السفر",
+    "discount": "10%",
+    "category": "عروض الإنماء",
+    "expiry": "31 يوليو 2026",
+    "description": "أمّن الآن على السفر بخصم 10%",
+    "img": "https://www.alinma.com/-/media/ExtraImages/travel-insurance.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/Travel-Insurance",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:08"
+  },
+  {
+    "store": "Visa",
+    "discount": "",
+    "category": "عروض الإنماء",
+    "expiry": "6 أغسطس 2026",
+    "description": "حوّل دوليًا مجانًا إلى بطاقات Visa مباشرة عبر خدمة Visa في تطبيق الإنماء!",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Visa.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/Visa-New",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:09"
+  },
+  {
+    "store": "المركز الأول",
+    "discount": "",
+    "category": "عروض الإنماء",
+    "expiry": "19/7/2026",
+    "description": "الحين تقدر تشجع وتعيش أجواء بطولة العالم، وتنافس على Porsche 911 و99 جائزة من \nالجوائز الكبرى من خلال فانتزي الإنماء داخل التطبيق، كل اللي عليك تسجل ت...",
+    "img": "https://alinma.com/-/media/ExtraImages/car2_alinma_fantasy.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/alinma-Fantasy",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-10 06:09"
   }
 ]
