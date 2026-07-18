@@ -9,7 +9,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Turkish-Airlines-Offer-with-Bank-Albilad.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-07-17 05:21"
+    "_updated": "2026-07-18 04:55"
   },
   {
     "store": "عرض أميال الفرسان مع بطاقات ترافل باس",
@@ -21,7 +21,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Saudia-AlFursan-Offer-TravelPass.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-07-17 05:21"
+    "_updated": "2026-07-18 04:55"
   },
   {
     "store": "عرض البلاد مع تطبيق المطار",
@@ -33,7 +33,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Almatar-Offer-with-Bank-Albilad.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-07-17 05:21"
+    "_updated": "2026-07-18 04:56"
   },
   {
     "store": "%0 رسوم على المشتريات الدولية... ونقاط مضاعفة!",
@@ -45,7 +45,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/0-International-Transaction.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-07-17 05:22"
+    "_updated": "2026-07-18 04:56"
   },
   {
     "store": "عرض أمازون مع بطاقات بنك البلاد",
@@ -57,7 +57,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Amazonwithalbiladcards.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-07-17 05:22"
+    "_updated": "2026-07-18 04:56"
   },
   {
     "store": "عرض Farfetch مع بطاقات البلاد",
@@ -69,7 +69,19 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Farfetch-Offer.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-07-17 05:22"
+    "_updated": "2026-07-18 04:56"
+  },
+  {
+    "store": "عرض شاي سدرة",
+    "discount": "10%",
+    "category": "عروض",
+    "expiry": "01 نوفمبر 2026",
+    "description": "استمتع بخصم 10٪ لدى شاي سدرة عند الدفع ببطاقات بنك البلاد الائتمانية .",
+    "img": "",
+    "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Sedra-tea.aspx",
+    "promo": "",
+    "_bank": "bilad",
+    "_updated": "2026-07-18 04:56"
   },
   {
     "store": "عرض تطبيق المطار للفنادق والرحلات مع بطاقات البلاد",
@@ -81,7 +93,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/almatar-with-albilad-card.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-07-17 05:23"
+    "_updated": "2026-07-18 04:57"
   },
   {
     "store": "وفر أكثر مع بطاقات البلاد",
@@ -93,6 +105,6 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/buy-one-get-one-free.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-07-17 05:23"
+    "_updated": "2026-07-18 04:57"
   }
 ]
