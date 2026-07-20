@@ -9,43 +9,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Turkish-Airlines-Offer-with-Bank-Albilad.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-07-19 05:29"
-  },
-  {
-    "store": "عرض أميال الفرسان مع بطاقات ترافل باس",
-    "discount": "30%",
-    "category": "عروض",
-    "expiry": "31 يوليو 2026",
-    "description": "حوِّل نقاط بطاقات ترافل باس إلى أميال الفرسان خلال فترة العرض، واحصل على 30% من أميال الفرسان الإضافية مع كل عملية تحويل.",
-    "img": "",
-    "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Saudia-AlFursan-Offer-TravelPass.aspx",
-    "promo": "",
-    "_bank": "bilad",
-    "_updated": "2026-07-19 05:30"
-  },
-  {
-    "store": "عرض البلاد مع تطبيق المطار",
-    "discount": "30%",
-    "category": "عروض",
-    "expiry": "23 يوليو 2026",
-    "description": "احصل على خصم 30٪ على حجوزات الفنادق الدولية، وخصم 15٪ على حجوزات الطيران الدولية عند الدفع باستخدام بطاقات تمكين بلس وبطاقات ترافل باس الائتمانية.",
-    "img": "",
-    "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Almatar-Offer-with-Bank-Albilad.aspx",
-    "promo": "",
-    "_bank": "bilad",
-    "_updated": "2026-07-19 05:30"
-  },
-  {
-    "store": "%0 رسوم على المشتريات الدولية... ونقاط مضاعفة!",
-    "discount": "",
-    "category": "عروض",
-    "expiry": "5 أغسطس 2026",
-    "description": "استمتع بإنفاقك الدولي هذا الصيف واحصل على 0% رسوم على العمليات الدولية وضاعف نقاطك في برنامج نقاط ترافل باس وبرنامج مكافآت البلاد عند استخدام بطاقات ب...",
-    "img": "",
-    "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/0-International-Transaction.aspx",
-    "promo": "",
-    "_bank": "bilad",
-    "_updated": "2026-07-19 05:30"
+    "_updated": "2026-07-20 05:46"
   },
   {
     "store": "عرض أمازون مع بطاقات بنك البلاد",
@@ -57,7 +21,43 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Amazonwithalbiladcards.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-07-19 05:30"
+    "_updated": "2026-07-20 05:46"
+  },
+  {
+    "store": "عرض أميال الفرسان مع بطاقات ترافل باس",
+    "discount": "30%",
+    "category": "عروض",
+    "expiry": "31 يوليو 2026",
+    "description": "حوِّل نقاط بطاقات ترافل باس إلى أميال الفرسان خلال فترة العرض، واحصل على 30% من أميال الفرسان الإضافية مع كل عملية تحويل.",
+    "img": "",
+    "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Saudia-AlFursan-Offer-TravelPass.aspx",
+    "promo": "",
+    "_bank": "bilad",
+    "_updated": "2026-07-20 05:46"
+  },
+  {
+    "store": "عرض البلاد مع تطبيق المطار",
+    "discount": "30%",
+    "category": "عروض",
+    "expiry": "23 يوليو 2026",
+    "description": "احصل على خصم 30٪ على حجوزات الفنادق الدولية، وخصم 15٪ على حجوزات الطيران الدولية عند الدفع باستخدام بطاقات تمكين بلس وبطاقات ترافل باس الائتمانية.",
+    "img": "",
+    "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Almatar-Offer-with-Bank-Albilad.aspx",
+    "promo": "",
+    "_bank": "bilad",
+    "_updated": "2026-07-20 05:46"
+  },
+  {
+    "store": "%0 رسوم على المشتريات الدولية... ونقاط مضاعفة!",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "5 أغسطس 2026",
+    "description": "استمتع بإنفاقك الدولي هذا الصيف واحصل على 0% رسوم على العمليات الدولية وضاعف نقاطك في برنامج نقاط ترافل باس وبرنامج مكافآت البلاد عند استخدام بطاقات ب...",
+    "img": "",
+    "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/0-International-Transaction.aspx",
+    "promo": "",
+    "_bank": "bilad",
+    "_updated": "2026-07-20 05:47"
   },
   {
     "store": "عرض Farfetch مع بطاقات البلاد",
@@ -69,7 +69,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Farfetch-Offer.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-07-19 05:31"
+    "_updated": "2026-07-20 05:47"
   },
   {
     "store": "عرض شاي سدرة",
@@ -81,7 +81,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Sedra-tea.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-07-19 05:31"
+    "_updated": "2026-07-20 05:47"
   },
   {
     "store": "عرض تطبيق المطار للفنادق والرحلات مع بطاقات البلاد",
@@ -93,7 +93,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/almatar-with-albilad-card.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-07-19 05:31"
+    "_updated": "2026-07-20 05:47"
   },
   {
     "store": "وفر أكثر مع بطاقات البلاد",
@@ -105,6 +105,6 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/buy-one-get-one-free.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-07-19 05:31"
+    "_updated": "2026-07-20 05:47"
   }
 ]
