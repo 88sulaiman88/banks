@@ -3,13 +3,13 @@
     "store": "دبليو فايف",
     "discount": "10%",
     "category": "عروض أصيل",
-    "expiry": "",
+    "expiry": "31 ديسمبر 2026",
     "description": "خصم 10%",
     "img": "https://www.saib.com.sa/sites/default/files/2024-12/w5.webp",
     "link": "https://www.saib.com.sa/ar/w5",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "أي او كي كيتشن",
@@ -21,7 +21,7 @@
     "link": "https://www.saib.com.sa/ar/aok-kitchen",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "روكا",
@@ -33,31 +33,31 @@
     "link": "https://www.saib.com.sa/ar/roka",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "رويا",
     "discount": "20%",
     "category": "عروض أصيل",
-    "expiry": "",
+    "expiry": "31 ديسمبر 2026",
     "description": "خصم 20%",
     "img": "https://www.saib.com.sa/sites/default/files/2024-05/RUYA.webp",
     "link": "https://www.saib.com.sa/ar/ruya",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "ال باريتو",
     "discount": "20%",
     "category": "عروض أصيل",
-    "expiry": "31 ديسمبر 2026",
+    "expiry": "",
     "description": "خصم 20%",
     "img": "https://www.saib.com.sa/sites/default/files/2024-05/ILBaretto1.webp",
     "link": "https://www.saib.com.sa/ar/ilbaretto",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "حياك لاونج",
@@ -69,7 +69,7 @@
     "link": "https://www.saib.com.sa/ar/hayyak-lounge",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "أنتروكوت كافيه دو باريس",
@@ -81,19 +81,19 @@
     "link": "https://www.saib.com.sa/ar/entrecote-cafe-de-paris",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "الفاخرة",
     "discount": "10 %",
     "category": "عروض أصيل",
-    "expiry": "",
+    "expiry": "31 ديسمبر 2026",
     "description": "خصم 10 %",
     "img": "https://www.saib.com.sa/sites/default/files/imported/aseelo/O_4441_1713790747_EL.png",
     "link": "https://www.saib.com.sa/ar/al-fakhrah",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "ميازو",
@@ -105,19 +105,19 @@
     "link": "https://www.saib.com.sa/ar/myazu",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "سنيور ساسي",
     "discount": "20%",
     "category": "عروض أصيل",
-    "expiry": "31/12/2026",
+    "expiry": "",
     "description": "خصم 20%",
     "img": "https://www.saib.com.sa/sites/default/files/imported/aseelo/O_4467_1713790748_EL.jpg",
     "link": "https://www.saib.com.sa/ar/signor-sassi",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "كريزي بيتزا",
@@ -129,7 +129,7 @@
     "link": "https://www.saib.com.sa/ar/crazy-pizza",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "روباتا",
@@ -141,19 +141,19 @@
     "link": "https://www.saib.com.sa/ar/robata",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "سان كارلو",
     "discount": "20%",
     "category": "عروض أصيل",
-    "expiry": "",
+    "expiry": "31/12/2026",
     "description": "خصم 20%",
     "img": "https://www.saib.com.sa/sites/default/files/imported/aseelo/O_4470_1713790748_EL.jpg",
     "link": "https://www.saib.com.sa/ar/san-carlo-cicchetti",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "كايزو",
@@ -165,7 +165,7 @@
     "link": "https://www.saib.com.sa/ar/kayzo",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "بيف بار",
@@ -177,7 +177,7 @@
     "link": "https://www.saib.com.sa/ar/beefbar",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "كويا",
@@ -189,7 +189,7 @@
     "link": "https://www.saib.com.sa/ar/coya",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "ارث كافيه",
@@ -201,31 +201,31 @@
     "link": "https://www.saib.com.sa/ar/urth-caffe",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "مركز إجادة للتخاطب والنطق",
     "discount": "15%",
     "category": "عروض أصيل",
-    "expiry": "",
+    "expiry": "31 ديسمبر 2026",
     "description": "خصم 15%",
     "img": "https://www.saib.com.sa/sites/default/files/imported/aseelo/O_4074_1713790730_EL.jpg",
     "link": "https://www.saib.com.sa/ar/ejadah",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "الخزائن المبتكرة",
     "discount": "20%",
     "category": "عروض أصيل",
-    "expiry": "31 ديسمبر 2026",
+    "expiry": "",
     "description": "خصم 20%",
     "img": "https://www.saib.com.sa/sites/default/files/2025-08/Creative-Closets_0.webp",
     "link": "https://www.saib.com.sa/ar/creative-closets",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "مطعم لو روليه دو لانتركوت",
@@ -237,7 +237,7 @@
     "link": "https://www.saib.com.sa/ar/le-relais-de-l-entrecote",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "القرية النجدية",
@@ -249,7 +249,7 @@
     "link": "https://www.saib.com.sa/ar/najd-village",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "مطعم المياس",
@@ -261,31 +261,31 @@
     "link": "https://www.saib.com.sa/ar/almayass",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "ملاذ للتأمين",
     "discount": "15%",
     "category": "عروض أصيل",
-    "expiry": "",
+    "expiry": "31 ديسمبر 2026",
     "description": "خصم 15%",
     "img": "https://www.saib.com.sa/sites/default/files/imported/aseelo/O_3719_1713790708_EL.jpg",
     "link": "https://www.saib.com.sa/ar/malath-insurance",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "المطار",
     "discount": "10%",
     "category": "عروض أصيل",
-    "expiry": "31 ديسمبر 2026",
+    "expiry": "",
     "description": "خصم 10%",
     "img": "https://www.saib.com.sa/sites/default/files/imported/aseelo/O_3788_1713790710_EL.png",
     "link": "https://www.saib.com.sa/ar/almatar",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "سعد باشماخ",
@@ -297,7 +297,7 @@
     "link": "https://www.saib.com.sa/ar/saad-bashammakh",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "البـدر للنظارات",
@@ -309,7 +309,7 @@
     "link": "https://www.saib.com.sa/ar/al-badr-optical",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   },
   {
     "store": "بنيهانا",
@@ -321,6 +321,6 @@
     "link": "https://www.saib.com.sa/ar/benihana",
     "promo": "",
     "_bank": "saib",
-    "_updated": "2026-07-22 05:28"
+    "_updated": "2026-07-23 05:34"
   }
 ]
