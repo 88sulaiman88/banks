@@ -143,22 +143,22 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
 <div class="tb">
   <div style="text-align:center;width:100%">
     <div class="bn">عروض البنوك السعودية</div>
-    <div class="bs">آخر تحديث: 2026-07-23 05:43</div>
+    <div class="bs">آخر تحديث: 2026-07-24 05:37</div>
   </div>
   <div class="tm">
-    <span class="pl pl-c">968 عرض</span>
-    <span class="pl pl-er">11/12 بنك</span>
+    <span class="pl pl-c">1022 عرض</span>
+    <span class="pl pl-ok">12/12 بنك</span>
   </div>
 </div>
 
-<div class="stb"><div class="si"><span class="sd dot-ok"></span>مصرف الراجحي — 149 عرض</div>
-<div class="si"><span class="sd dot-err"></span>مصرف الإنماء — تعذّر التحديث</div>
+<div class="stb"><div class="si"><span class="sd dot-ok"></span>مصرف الراجحي — 200 عرض</div>
+<div class="si"><span class="sd dot-ok"></span>مصرف الإنماء — 6 عرض</div>
 <div class="si"><span class="sd dot-ok"></span>البنك السعودي الفرنسي — 100 عرض</div>
 <div class="si"><span class="sd dot-ok"></span>بنك البلاد — 3 عرض</div>
 <div class="si"><span class="sd dot-ok"></span>البنك السعودي للاستثمار — 26 عرض</div>
-<div class="si"><span class="sd dot-ok"></span>بنك الرياض — 57 عرض</div>
+<div class="si"><span class="sd dot-ok"></span>بنك الرياض — 52 عرض</div>
 <div class="si"><span class="sd dot-ok"></span>بنك الجزيرة — 104 عرض</div>
-<div class="si"><span class="sd dot-ok"></span>البنك الأهلي السعودي — 100 عرض</div>
+<div class="si"><span class="sd dot-ok"></span>البنك الأهلي السعودي — 102 عرض</div>
 <div class="si"><span class="sd dot-ok"></span>بنك الإمارات دبي الوطني — 46 عرض</div>
 <div class="si"><span class="sd dot-ok"></span>البنك العربي الوطني — 2 عرض</div>
 <div class="si"><span class="sd dot-ok"></span>البنك السعودي الأول — 358 عرض</div>
@@ -169,14 +169,15 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
   <div class="search-bar">
     <input type="text" id="q" placeholder="ابحث عن متجر..." oninput="fil()">
   </div>
-  <div class="fg"><button class='fb active' onclick="setBank('all',this)">الكل <span class='bc'>(968)</span></button>
-<button class='fb f-rajhi' onclick="setBank('rajhi',this)">مصرف الراجحي <span class='bc'>(149)</span></button>
+  <div class="fg"><button class='fb active' onclick="setBank('all',this)">الكل <span class='bc'>(1022)</span></button>
+<button class='fb f-rajhi' onclick="setBank('rajhi',this)">مصرف الراجحي <span class='bc'>(200)</span></button>
+<button class='fb f-inma' onclick="setBank('inma',this)">مصرف الإنماء <span class='bc'>(6)</span></button>
 <button class='fb f-bsf' onclick="setBank('bsf',this)">البنك السعودي الفرنسي <span class='bc'>(100)</span></button>
 <button class='fb f-bilad' onclick="setBank('bilad',this)">بنك البلاد <span class='bc'>(3)</span></button>
 <button class='fb f-saib' onclick="setBank('saib',this)">البنك السعودي للاستثمار <span class='bc'>(26)</span></button>
-<button class='fb f-riyadh' onclick="setBank('riyadh',this)">بنك الرياض <span class='bc'>(57)</span></button>
+<button class='fb f-riyadh' onclick="setBank('riyadh',this)">بنك الرياض <span class='bc'>(52)</span></button>
 <button class='fb f-jazira' onclick="setBank('jazira',this)">بنك الجزيرة <span class='bc'>(104)</span></button>
-<button class='fb f-ahli' onclick="setBank('ahli',this)">البنك الأهلي السعودي <span class='bc'>(100)</span></button>
+<button class='fb f-ahli' onclick="setBank('ahli',this)">البنك الأهلي السعودي <span class='bc'>(102)</span></button>
 <button class='fb f-enbd' onclick="setBank('enbd',this)">بنك الإمارات دبي الوطني <span class='bc'>(46)</span></button>
 <button class='fb f-arabi' onclick="setBank('arabi',this)">البنك العربي الوطني <span class='bc'>(2)</span></button>
 <button class='fb f-sab' onclick="setBank('sab',this)">البنك السعودي الأول <span class='bc'>(358)</span></button>
@@ -185,7 +186,7 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
 </div>
 
 <div class="gw">
-  <div class="rc" id="rc" style="display:none">968 عرض</div>
+  <div class="rc" id="rc" style="display:none">1022 عرض</div>
   <div class="grid" id="grid"><a class="card" href="https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Food-and-Beverage/Captain-chef" target="_blank" data-bank="rajhi" data-cat="المأكولات والمشروبات">
   <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/June-2026/web/logo-01-(17).jpg?h=160&iar=0&w=380&hash=C0E65D70020D978ACF055A2A0B4E8ADA" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
@@ -200,6 +201,14 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="sn">هنقرستيشن</div>
     <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span><span class="disc-tag">10%</span></div>
     <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Mytable-app" target="_blank" data-bank="rajhi" data-cat="مكافأة">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/July2026/web/logo-01-(32).jpg?h=160&iar=0&w=380&hash=2862598BFC5807B55F12254639000599" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">ماي تيبل</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 11/08/2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Takaful" target="_blank" data-bank="rajhi" data-cat="مكافأة">
@@ -338,6 +347,14 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
+<a class="card" href="https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Cole-Haan" target="_blank" data-bank="rajhi" data-cat="مكافأة">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/July2026/web/logo-07-(1).jpg?h=160&iar=0&w=360&hash=6082C37680AE6227C5A979990C845E1B" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">كول هان</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
 <a class="card" href="https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Jeeny" target="_blank" data-bank="rajhi" data-cat="مكافأة">
   <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2025/Nov-2025/Jeeny/jeenyLogo.jpg?h=160&iar=0&w=380&hash=973E1B73E6253B9539BD71E83394E015" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
@@ -358,6 +375,14 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
   <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/Jan2026/Flyingblue/Flyingblue.jpg?h=160&iar=0&w=380&hash=9C767462180DAEF9F43FC4E345326C00" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
     <div class="sn">أميال فلاينق بلو</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Camsicissima" target="_blank" data-bank="rajhi" data-cat="مكافأة">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/June-2026/web/logo-06-(1).jpg?h=160&iar=0&w=360&hash=294D5B21CBEDEC2F3BA93B9EC93477BC" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">كميشيسِّما</div>
     <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
     <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
   </div>
@@ -624,6 +649,14 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="sn">أبركرومبي أند فيتش</div>
     <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span><span class="disc-tag">15%</span></div>
     <div class="ft"><span class="ed">ينتهي 30/07/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Fashion-and-Cosmetics/The-Deal" target="_blank" data-bank="rajhi" data-cat="الازياء والتجميل">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/July2026/web/380x260-copy-2.jpg?h=261&iar=0&w=381&hash=20FB36ED65239E4875C0D422C68348CD" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">The Deal</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي 27/07/2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Fashion-and-Cosmetics/Printemps-Haussmann" target="_blank" data-bank="rajhi" data-cat="الازياء والتجميل">
@@ -1138,14 +1171,6 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="ft"><span class="ed">ينتهي 30/07/2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
-<a class="card" href="https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Others/PlayForAll" target="_blank" data-bank="rajhi" data-cat="اخرى">
-  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2025/PlayforAll-logo.jpg?h=160&iar=0&w=380&hash=84F1E5810AC70E9466C84D96BAADF343" onerror="this.remove()"><div class="cf">🏷️</div></div>
-  <div class="cb">
-    <div class="sn">Play for All</div>
-    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span><span class="disc-tag">25%</span></div>
-    <div class="ft"><span class="ed">ينتهي 24/07/2026</span><span class="vl">عرض ←</span></div>
-  </div>
-</a>
 <a class="card" href="https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Others/Momworlds" target="_blank" data-bank="rajhi" data-cat="اخرى">
   <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/June-2026/web/image-2026-06-30-15-24-59-694.png?h=160&iar=0&w=380&hash=D93126B70E7BA71BB330F83B4EC7E085" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
@@ -1250,6 +1275,14 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="ft"><span class="ed">ينتهي 31/07/2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/SMART" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Offers/2026/Feb-2026/logo-01-(1).jpg?h=160&iar=0&w=380&hash=87A7E3D879D42D3A7CF020B3912CD8AB" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">سمارت</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 12/10/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
 <a class="card" href="https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Summer-offers/FlyDay" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
   <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2025/OCT2025/Logos-21.jpg?h=160&iar=0&w=380&hash=E183E1A89960EF11E78D50C842355E12" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
@@ -1280,14 +1313,6 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="sn">هواوي</div>
     <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
     <div class="ft"><span class="ed">ينتهي 25/07/2026</span><span class="vl">عرض ←</span></div>
-  </div>
-</a>
-<a class="card" href="https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Electronics/SMART" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
-  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Offers/2026/Feb-2026/1920x960-01.jpg?h=960&iar=0&w=1920&hash=41C16ED9F7173347EF0C08903C6A4A2A" onerror="this.remove()"><div class="cf">🏷️</div></div>
-  <div class="cb">
-    <div class="sn">سمارت</div>
-    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span><span class="disc-tag">7%</span></div>
-    <div class="ft"><span class="ed">ينتهي 12/10/2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Summer-offers/10Percent-cashback" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
@@ -1376,6 +1401,438 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="sn">استرداد نقدي</div>
     <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
     <div class="ft"><span class="ed">ينتهي 30/08/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/British-Council" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/British-Council.png?h=49&iar=0&w=168&hash=C4D0AE1583D3F8F85D466CCC97928847" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">British Council</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Trello-by-Holograph" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-13-100-1.jpg?h=160&iar=0&w=361&hash=9404B14876341CCA610856E7BFA8BF23" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Trello by Holograph</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/GetYourGuide" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-15-100-1.jpg?h=160&iar=0&w=361&hash=09F7F6437786EFD9724E40B4605509FC" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">GetYourGuide</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Google-Ads-by-Quick-Digital" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-16-100.jpg?h=161&iar=0&w=361&hash=EA2ABA710EF65D04F81AAC2DA9C66E00" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Google Ads by Quick Digital</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/ProfitBooks" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-1_1-100.jpg?h=161&iar=0&w=361&hash=5B767804CB915464E9BBE32C32ADBB9C" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">ProfitBooks</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/X-Ads-by-Quick-Digital" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/X-Ads.png?h=36&iar=0&w=114&hash=6BDD18C6553FA315A124ACBE95CA3F3C" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">X Ads by Quick Digital</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Opportunity-Network" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-10_1-100.jpg?h=161&iar=0&w=361&hash=E6897F89C3CA733052FE157B74F92DD9" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">الفرص</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Microsoft-Azure-by-Holograph" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-7_1-100.jpg?h=161&iar=0&w=361&hash=CE0498F1BFD264A86F59E9D8426FCCFA" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Microsoft Azure by Holograph</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/SiteLock" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-14-100-2.jpg?h=161&iar=0&w=361&hash=9666F59B829752D68C24444B1CA16968" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">SiteLock</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/SocialPilot" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-5-100-2.jpg?h=161&iar=0&w=361&hash=934573BA760D5ED579307C5B6FDA8560" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">SocialPilot</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Sanebox" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-6_1-100.jpg?h=161&iar=0&w=361&hash=8E04E62F43900FAE2D5740139C177A31" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Sanebox</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Sprinto" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-13-100.jpg?h=161&iar=0&w=361&hash=ECE32287CF51EAAABD84C4CAC2186F1E" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Sprinto</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Network-Solutions" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-4_1-100.jpg?h=161&iar=0&w=361&hash=B1F22DD89491794452C7AC62E6AFD81A" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Network Solutions</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/pdfFiller" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-3-100-2.jpg?h=161&iar=0&w=361&hash=07583D087E118274131EE6F4C592FE97" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">pdfFiller</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/BotSpace" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-12-100.jpg?h=160&iar=0&w=361&hash=63A32A5D554F837FB711CDACE5DA9E2B" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">بوت سبيس</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Regus" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-6-100.jpg?h=161&iar=0&w=361&hash=5C95C6C6225F280ACBE918A00CDFEC94" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">ريجوس</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/EngageBay" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-14-100-1.jpg?h=160&iar=0&w=361&hash=D2CFEF079F7F3B7F10FD3BB0188196EB" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">EngageBay</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/SignNow" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-10-100-2.jpg?h=161&iar=0&w=361&hash=EFE5FA4D4E6600E808575540F226CC1F" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">SignNow</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/CodeGuard" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-19-100.jpg?h=161&iar=0&w=361&hash=985F4706C1A85EA899482D6DBDF6125C" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">CodeGuard</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Viator" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-4-100.jpg?h=161&iar=0&w=361&hash=EB65C744259D3C91F9B41B6B0C460A74" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">فياتور</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Crazy-Domains" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-11-100.jpg?h=160&iar=0&w=361&hash=C984473830EA43E3044FAD6DE87997DC" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Crazy Domains</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Exotel" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-2-100.jpg?h=161&iar=0&w=361&hash=0A91F39C0DA0339A76DE6FA5BBCE9F9B" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">إكسوتيل</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Cflow" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-18-100.jpg?h=161&iar=0&w=361&hash=DE6C29A8A83076A71FFDCAC00CD4258D" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Cflow</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Spaces" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-3_2-100.jpg?h=161&iar=0&w=361&hash=D9884A5DDF96AAB68251397411E048D6" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Spaces</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Mailchimp-by-Refresh-Ideas" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-9_1-100.jpg?h=161&iar=0&w=361&hash=048DCEDBD7BD62038382B185C932C123" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Mailchimp by Refresh Ideas</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Noraya-Furniture" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-7-100.jpg?h=161&iar=0&w=361&hash=BC98E4747072AD404771CFD22232290C" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Noraya Furniture</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Meta-Ads-by-Quick-Digital" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-10-100.jpg?h=161&iar=0&w=361&hash=1C7E0519AE21351DCF188267CD514076" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Meta Ads by Quick Digital</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Infobip" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-14-100.jpg?h=161&iar=0&w=361&hash=215AD69C8020802A40E7DEAC537A6A12" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Infobip</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/AirHelp" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-2-100-1.jpg?h=161&iar=0&w=361&hash=69DD1C7AFB41839F92DBAABCAF79FD8B" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">AirHelp</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Trafft" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-7-100-2.jpg?h=161&iar=0&w=361&hash=C6FA629ABB67BCDF329CE376EFC3F302" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Trafft</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Microsoft-365-by-Holograph" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-3-100.jpg?h=161&iar=0&w=361&hash=DE3BB2078303B89B8B9C2F0FD569EB9C" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Microsoft 365 by Holograph</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Harvard-Business-Review" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-9-100-1.jpg?h=161&iar=0&w=361&hash=7F5CF70B29FAE3A32ABA7628EFB8C033" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">مجلة هارفارد بزنس ريفيو</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/GrabJobs" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-8-100-1.jpg?h=161&iar=0&w=361&hash=FA3E9AC6D47892FEA32718F3543B49A4" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">GrabJobs</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/LinkedIn-Ads-by-Quick-Digital" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-9-100-2.jpg?h=161&iar=0&w=361&hash=183F5390A47CA90CE489255A235A70CF" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">LinkedIn Ads by Quick Digital</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Skyroam" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-2-100-2.jpg?h=161&iar=0&w=361&hash=30DD6C5E6CD16F9C4B9C9F323208772B" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">SkyRoam</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Seventh-Triangle-Shopify" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-1-100-2.jpg?h=161&iar=0&w=361&hash=59E90249897CA7D3F310D00BEFC641CF" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Seventh Triangle (Shopify)</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Google-Workspace-by-Holograph" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-3-100.jpg?h=161&iar=0&w=361&hash=DE3BB2078303B89B8B9C2F0FD569EB9C" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Google Workspace by Holograph</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/AWS-via-Holograph" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-2_1-100.jpg?h=161&iar=0&w=361&hash=5484E13D4D1B133741D2C33B4B617BA4" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Adobe Acrobat by Holograph</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/PandaDoc" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-15-100-2.jpg?h=161&iar=0&w=361&hash=FAEAE6ABA91D58D90F85559A0C18B310" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">PandaDoc</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Asset-ICT" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-17-100.jpg?h=161&iar=0&w=361&hash=42B7776743A72B949A1DBE56CE0C2870" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Asset ICT</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Freedom" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-21-100.jpg?h=161&iar=0&w=361&hash=E987C97715E28091A36A592246465F2B" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Freedom</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/DocHub" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-6-100-1.jpg?h=161&iar=0&w=361&hash=FE06C14D232C4F3762F1322F89F67930" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">DocHub</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Falconcloud" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Vissa-Offers/Artboard-1-100-1.jpg?h=161&iar=0&w=361&hash=3300C111699915A03C95865ECAF6D356" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">فالكون كلاود</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/edX" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/ex.png?h=83&iar=0&w=159&hash=07ED28FC33BDCA57EF17FD329AB947A4" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">edX</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Future-Learn" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Future-Learn.png?h=54&iar=0&w=156&hash=75727CF4AA8F777A27305C4443009E7F" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Future Learn</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/GetSmarter" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/getsmarter.png?h=58&iar=0&w=151&hash=6EC588C32BF284D141144A6E25B7302E" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">GetSmarter</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Google-Cloud" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/Google-Cloud.png?h=27&iar=0&w=168&hash=D2FFC1802657376958EF033249727A49" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Google Cloud</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/ResellerClub" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Business/Business-Offers/ResellerClub.png?h=124&iar=0&w=250&hash=371FA74172ADF0439C7012FB40F387C9" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">ResellerClub</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Cars-Accessories-and-Services/Claro" target="_blank" data-bank="inma" data-cat="سيارات وخدمات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Claro.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">كلارو</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">50%</span></div>
+    <div class="ft"><span class="ed">ينتهي 23 يونيو 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Cars-Accessories-and-Services/Hello-app" target="_blank" data-bank="inma" data-cat="سيارات وخدمات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/HelloAppV2.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">هلوآب</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">20%</span></div>
+    <div class="ft"><span class="ed">ينتهي 4 أغسطس 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Cars-Accessories-and-Services/Mismar" target="_blank" data-bank="inma" data-cat="سيارات وخدمات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Mismar1.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">مسمار</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">85%</span></div>
+    <div class="ft"><span class="ed">ينتهي 20 مايو 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Cars-Accessories-and-Services/Royal-Nano-for-car-services" target="_blank" data-bank="inma" data-cat="سيارات وخدمات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/royal-nano-v1.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">رويال نانو</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">50%</span></div>
+    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Cars-Accessories-and-Services/Stily" target="_blank" data-bank="inma" data-cat="سيارات وخدمات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Styily.jpg" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">ستايلي</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">30%</span></div>
+    <div class="ft"><span class="ed">ينتهي 30 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/E-commerce-websites/Airlao" target="_blank" data-bank="inma" data-cat="تجارة إلكترونية">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/AiraloV2.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">ايرالو</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">15 %</span></div>
+    <div class="ft"><span class="ed">ينتهي 15 مايو 2027</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://bsf.sa/arabic/personal/cards/offers/travel/emirates-holidays" target="_blank" data-bank="bsf" data-cat="سفر">
@@ -2271,7 +2728,7 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
   <div class="cb">
     <div class="sn">سنيور ساسي</div>
     <div class="card-meta"><span class="bb saib">البنك السعودي للاستثمار</span><span class="disc-tag">20%</span></div>
-    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
+    <div class="ft"><span class="ed">ينتهي 31/12/2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.saib.com.sa/ar/crazy-pizza" target="_blank" data-bank="saib" data-cat="عروض أصيل">
@@ -2311,7 +2768,7 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
   <div class="cb">
     <div class="sn">بيف بار</div>
     <div class="card-meta"><span class="bb saib">البنك السعودي للاستثمار</span><span class="disc-tag">20%</span></div>
-    <div class="ft"><span class="ed">ينتهي 31/12/2026</span><span class="vl">عرض ←</span></div>
+    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.saib.com.sa/ar/coya" target="_blank" data-bank="saib" data-cat="عروض أصيل">
@@ -2319,7 +2776,7 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
   <div class="cb">
     <div class="sn">كويا</div>
     <div class="card-meta"><span class="bb saib">البنك السعودي للاستثمار</span><span class="disc-tag">20%</span></div>
-    <div class="ft"><span class="ed">ينتهي 31/12/2026</span><span class="vl">عرض ←</span></div>
+    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.saib.com.sa/ar/urth-caffe" target="_blank" data-bank="saib" data-cat="عروض أصيل">
@@ -2343,7 +2800,7 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
   <div class="cb">
     <div class="sn">الخزائن المبتكرة</div>
     <div class="card-meta"><span class="bb saib">البنك السعودي للاستثمار</span><span class="disc-tag">20%</span></div>
-    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.saib.com.sa/ar/le-relais-de-l-entrecote" target="_blank" data-bank="saib" data-cat="عروض أصيل">
@@ -2383,7 +2840,7 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
   <div class="cb">
     <div class="sn">المطار</div>
     <div class="card-meta"><span class="bb saib">البنك السعودي للاستثمار</span><span class="disc-tag">10%</span></div>
-    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.saib.com.sa/ar/saad-bashammakh" target="_blank" data-bank="saib" data-cat="عروض أصيل">
@@ -2391,7 +2848,7 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
   <div class="cb">
     <div class="sn">سعد باشماخ</div>
     <div class="card-meta"><span class="bb saib">البنك السعودي للاستثمار</span><span class="disc-tag">15%</span></div>
-    <div class="ft"><span class="ed">ينتهي 31 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
+    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.saib.com.sa/ar/al-badr-optical" target="_blank" data-bank="saib" data-cat="عروض أصيل">
@@ -2410,146 +2867,26 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="ft"><span class="ed">ينتهي 31 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
-<a class="card" href="https://www.riyadbank.com/vogacloset2" target="_blank" data-bank="riyadh" data-cat="عروض">
-  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/VogaCloset.jpg/cfa53a91-779e-e59b-54eb-1dbf640c2cfe" onerror="this.remove()"><div class="cf">🏷️</div></div>
-  <div class="cb">
-    <div class="sn">فوغا كلوسيت</div>
-    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">10%</span></div>
-    <div class="ft"><span class="ed">ينتهي صالح حتى: 31/07/2026</span><span class="vl">عرض ←</span></div>
-  </div>
-</a>
-<a class="card" href="https://www.riyadbank.com/interval-plus-gym" target="_blank" data-bank="riyadh" data-cat="عروض">
-  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/Interval Plus GYM .png/4db5672e-01cb-c979-b5cb-e00b575ac97b" onerror="this.remove()"><div class="cf">🏷️</div></div>
-  <div class="cb">
-    <div class="sn">نادي انترفل بلس</div>
-    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">41%</span></div>
-    <div class="ft"><span class="ed">ينتهي صالح حتى: 31/07/2026</span><span class="vl">عرض ←</span></div>
-  </div>
-</a>
-<a class="card" href="https://www.riyadbank.com/direct" target="_blank" data-bank="riyadh" data-cat="عروض">
-  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/Direct Logo .jpg.jpeg/2e4712a8-5feb-9854-4cab-35a9e852c3d0" onerror="this.remove()"><div class="cf">🏷️</div></div>
-  <div class="cb">
-    <div class="sn">دايركت</div>
-    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">20%</span></div>
-    <div class="ft"><span class="ed">ينتهي صالح حتى: 31/07/2026</span><span class="vl">عرض ←</span></div>
-  </div>
-</a>
-<a class="card" href="https://www.riyadbank.com/breehant1" target="_blank" data-bank="riyadh" data-cat="عروض">
-  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/empty.jpg/40ad1900-3672-855c-b186-27510cf1bcd8" onerror="this.remove()"><div class="cf">🏷️</div></div>
-  <div class="cb">
-    <div class="sn">بريهانت</div>
-    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">15%</span></div>
-    <div class="ft"><span class="ed">ينتهي صالح حتى: 24/07/2026</span><span class="vl">عرض ←</span></div>
-  </div>
-</a>
-<a class="card" href="https://www.riyadbank.com/trips" target="_blank" data-bank="riyadh" data-cat="عروض">
-  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/Trips logo.png/2a855601-a40d-5d68-0757-b01653ddc7e9" onerror="this.remove()"><div class="cf">🏷️</div></div>
-  <div class="cb">
-    <div class="sn">تربز</div>
-    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">10%</span></div>
-    <div class="ft"><span class="ed">ينتهي صالح حتى: 31/07/2026</span><span class="vl">عرض ←</span></div>
-  </div>
-</a>
-<a class="card" href="https://www.riyadbank.com/amazon1" target="_blank" data-bank="riyadh" data-cat="عروض">
-  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/amazon-logo-s3f.png/72177120-e735-1186-adc1-d51683387ca6" onerror="this.remove()"><div class="cf">🏷️</div></div>
-  <div class="cb">
-    <div class="sn">أمازون</div>
-    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span></div>
-    <div class="ft"><span class="ed">ينتهي صالح حتى: 31/08/2026</span><span class="vl">عرض ←</span></div>
-  </div>
-</a>
-<a class="card" href="https://www.riyadbank.com/darbi1" target="_blank" data-bank="riyadh" data-cat="عروض">
-  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/Drabi Logo.jpg/fcd4dbc1-2029-8027-b8a7-b01825714c52" onerror="this.remove()"><div class="cf">🏷️</div></div>
-  <div class="cb">
-    <div class="sn">دربي</div>
-    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">15%</span></div>
-    <div class="ft"><span class="ed">ينتهي صالح حتى 31/12/2026</span><span class="vl">عرض ←</span></div>
-  </div>
-</a>
-<a class="card" href="https://www.riyadbank.com/start-your-trip-with-ease" target="_blank" data-bank="riyadh" data-cat="عروض">
-  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/IMG_1146.jpeg/20d44fd9-a851-6c9d-b199-502161bd004a" onerror="this.remove()"><div class="cf">🏷️</div></div>
-  <div class="cb">
-    <div class="sn">ابدأ رحلتك براحة!</div>
-    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span></div>
-    <div class="ft"><span class="ed">ينتهي صالح حتى: 31/08/2026</span><span class="vl">عرض ←</span></div>
-  </div>
-</a>
-<a class="card" href="https://www.riyadbank.com/woosh" target="_blank" data-bank="riyadh" data-cat="عروض">
-  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/image_woosh.png/92097b49-f0b8-25af-fc0f-d82e715276d0" onerror="this.remove()"><div class="cf">🏷️</div></div>
-  <div class="cb">
-    <div class="sn">ووش</div>
-    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">15%</span></div>
-    <div class="ft"><span class="ed">ينتهي 29-06-2027</span><span class="vl">عرض ←</span></div>
-  </div>
-</a>
-<a class="card" href="https://www.riyadbank.com/wassan-sleep-capsules" target="_blank" data-bank="riyadh" data-cat="عروض">
-  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/Wassan Sleep Capsules.jpg/f6da1ff1-5129-aca0-4ce8-6e599879088c" onerror="this.remove()"><div class="cf">🏷️</div></div>
-  <div class="cb">
-    <div class="sn">وسن</div>
-    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">50%</span></div>
-    <div class="ft"><span class="ed">ينتهي صالح حتى 17/09/2026</span><span class="vl">عرض ←</span></div>
-  </div>
-</a>
-<a class="card" href="https://www.riyadbank.com/hemah-tech" target="_blank" data-bank="riyadh" data-cat="عروض">
-  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/Hemah Tech.png/2b130b52-10bc-b3a8-d6d0-1c1fd010e729" onerror="this.remove()"><div class="cf">🏷️</div></div>
-  <div class="cb">
-    <div class="sn">همّه تك</div>
-    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">20%</span></div>
-    <div class="ft"><span class="ed">ينتهي صالح حتى: 04/02/2027</span><span class="vl">عرض ←</span></div>
-  </div>
-</a>
-<a class="card" href="https://www.riyadbank.com/hemah" target="_blank" data-bank="riyadh" data-cat="عروض">
-  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/Hemah.png/48210bd2-efe5-4c6e-e7aa-9cdf2efe1379" onerror="this.remove()"><div class="cf">🏷️</div></div>
-  <div class="cb">
-    <div class="sn">همّه</div>
-    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">25%</span></div>
-    <div class="ft"><span class="ed">ينتهي صالح حتى: 04/02/2027</span><span class="vl">عرض ←</span></div>
-  </div>
-</a>
-<a class="card" href="https://www.riyadbank.com/soil1" target="_blank" data-bank="riyadh" data-cat="عروض">
-  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/PHOTO-2025-02-13-13-53-36.jpg/fedf74a0-94cc-3ec2-6263-64cc14b5cf07" onerror="this.remove()"><div class="cf">🏷️</div></div>
-  <div class="cb">
-    <div class="sn">Soil</div>
-    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">17%</span></div>
-    <div class="ft"><span class="ed">ينتهي 07 أكتوبر 2026</span><span class="vl">عرض ←</span></div>
-  </div>
-</a>
-<a class="card" href="https://www.riyadbank.com/kids-gardens-preschool" target="_blank" data-bank="riyadh" data-cat="عروض">
-  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/Kids Gardens Logo.jpeg/7371211f-0c44-7e75-0ae3-f0864e832281" onerror="this.remove()"><div class="cf">🏷️</div></div>
-  <div class="cb">
-    <div class="sn">حضانة حدائق الأطفال</div>
-    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">10%</span></div>
-    <div class="ft"><span class="ed">ينتهي 20/11/2026</span><span class="vl">عرض ←</span></div>
-  </div>
-</a>
-<a class="card" href="https://www.riyadbank.com/kiar-store" target="_blank" data-bank="riyadh" data-cat="عروض">
-  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/Screenshot 2025-11-03 163339.png/de13be16-9eec-4d80-8780-7eb5002c40d5" onerror="this.remove()"><div class="cf">🏷️</div></div>
-  <div class="cb">
-    <div class="sn">Kiar</div>
-    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">15%</span></div>
-    <div class="ft"><span class="ed">ينتهي صالح حتى: 20/08/2026</span><span class="vl">عرض ←</span></div>
-  </div>
-</a>
-<a class="card" href="https://www.riyadbank.com/max" target="_blank" data-bank="riyadh" data-cat="عروض">
-  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/Max logo (AR).png/c510aebe-8842-18ea-e987-55c6477ea447" onerror="this.remove()"><div class="cf">🏷️</div></div>
-  <div class="cb">
-    <div class="sn">ماكس</div>
-    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span></div>
-    <div class="ft"><span class="ed">ينتهي صالح حتى 18/08/2026</span><span class="vl">عرض ←</span></div>
-  </div>
-</a>
-<a class="card" href="https://www.riyadbank.com/abdullah-al-arbash-jewelry" target="_blank" data-bank="riyadh" data-cat="عروض">
+<a class="card" href="https://www.riyadbank.com/abdullah-alarbash-jewelry" target="_blank" data-bank="riyadh" data-cat="عروض">
   <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/Abdullah AlArbash Jewelry Logo.jpg/d1efb8a5-e216-8262-010a-67d09411119f" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
     <div class="sn">مجوهرات عبدالله الأريش</div>
-    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">20%</span></div>
-    <div class="ft"><span class="ed">ينتهي صالح حتى 24/05/2027</span><span class="vl">عرض ←</span></div>
+    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">0%</span></div>
+    <div class="ft"><span class="ed">ينتهي صالح حتى 05/07/2027</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.riyadbank.com/wacafe" target="_blank" data-bank="riyadh" data-cat="عروض">
   <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/Wacafe Logo.jpg/c3fbfb6b-e42e-241d-8b71-b2f83f820901" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
     <div class="sn">وكف</div>
+    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي صالح حتى 31/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.riyadbank.com/darbi" target="_blank" data-bank="riyadh" data-cat="عروض">
+  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/Drabi Logo.jpg/fcd4dbc1-2029-8027-b8a7-b01825714c52" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">دربي</div>
     <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">15%</span></div>
     <div class="ft"><span class="ed">ينتهي صالح حتى 31/12/2026</span><span class="vl">عرض ←</span></div>
   </div>
@@ -2567,7 +2904,7 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
   <div class="cb">
     <div class="sn">سيلين</div>
     <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">10%</span></div>
-    <div class="ft"><span class="ed">ينتهي صالح حتى  10/03/2027</span><span class="vl">عرض ←</span></div>
+    <div class="ft"><span class="ed">ينتهي صالح حتى 10/03/2027</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.riyadbank.com/area25" target="_blank" data-bank="riyadh" data-cat="عروض">
@@ -2586,12 +2923,36 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="ft"><span class="ed">ينتهي صالح حتى: 14/04/2027</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
+<a class="card" href="https://www.riyadbank.com/kiar-store" target="_blank" data-bank="riyadh" data-cat="عروض">
+  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/Screenshot 2025-11-03 163339.png/de13be16-9eec-4d80-8780-7eb5002c40d5" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Kiar</div>
+    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي صالح حتى: 20/08/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
 <a class="card" href="https://www.riyadbank.com/sys" target="_blank" data-bank="riyadh" data-cat="عروض">
   <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/SYS Logo.png/28e6ba5e-df0a-b38b-ae8f-7e91a3fcd2ae" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
     <div class="sn">SYS</div>
     <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">20%</span></div>
     <div class="ft"><span class="ed">ينتهي صالح حتى: 14/07/2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.riyadbank.com/hemah-tech" target="_blank" data-bank="riyadh" data-cat="عروض">
+  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/Hemah Tech.png/2b130b52-10bc-b3a8-d6d0-1c1fd010e729" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">همّه تك</div>
+    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">20%</span></div>
+    <div class="ft"><span class="ed">ينتهي صالح حتى: 04/02/2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.riyadbank.com/hemah" target="_blank" data-bank="riyadh" data-cat="عروض">
+  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/Hemah.png/48210bd2-efe5-4c6e-e7aa-9cdf2efe1379" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">همّه</div>
+    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">25%</span></div>
+    <div class="ft"><span class="ed">ينتهي صالح حتى: 04/02/2027</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.riyadbank.com/leem" target="_blank" data-bank="riyadh" data-cat="عروض">
@@ -2666,10 +3027,26 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="ft"><span class="ed">ينتهي يسري العرض حتى 31/12/2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
+<a class="card" href="https://www.riyadbank.com/wassan-sleep-capsules" target="_blank" data-bank="riyadh" data-cat="عروض">
+  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/Wassan Sleep Capsules.jpg/f6da1ff1-5129-aca0-4ce8-6e599879088c" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">وسن</div>
+    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">50%</span></div>
+    <div class="ft"><span class="ed">ينتهي صالح حتى 17/09/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
 <a class="card" href="https://www.riyadbank.com/free-valet-parking" target="_blank" data-bank="riyadh" data-cat="عروض">
   <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/Airport Transfer_Visual-01_Bottom Sheet_686x400.jpg/84f433b5-d9a6-4ef4-73a1-df0bc9e423f5" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
     <div class="sn">خدمة ركن السيارات</div>
+    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span></div>
+    <div class="ft"><span class="ed">ينتهي صالح حتى: 31/08/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.riyadbank.com/start-your-trip-with-ease" target="_blank" data-bank="riyadh" data-cat="عروض">
+  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/Airport Transfer_Visual-02_Bottom Sheet_686x400.jpg/c918b8ea-9e9c-a596-92ca-bfa832b65376" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">ابدأ رحلتك براحة!</div>
     <div class="card-meta"><span class="bb riyadh">بنك الرياض</span></div>
     <div class="ft"><span class="ed">ينتهي صالح حتى: 31/08/2026</span><span class="vl">عرض ←</span></div>
   </div>
@@ -2696,6 +3073,14 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="sn">مقهى لابيت</div>
     <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">15%</span></div>
     <div class="ft"><span class="ed">ينتهي 01 سبتمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.riyadbank.com/soil1" target="_blank" data-bank="riyadh" data-cat="عروض">
+  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/PHOTO-2025-02-13-13-53-36.jpg/fedf74a0-94cc-3ec2-6263-64cc14b5cf07" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Soil</div>
+    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">17%</span></div>
+    <div class="ft"><span class="ed">ينتهي 07 أكتوبر 2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.riyadbank.com/next-wellness-club" target="_blank" data-bank="riyadh" data-cat="عروض">
@@ -2730,6 +3115,22 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="ft"><span class="ed">ينتهي صالح حتى: 01/12/2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
+<a class="card" href="https://www.riyadbank.com/sica-café-roastery" target="_blank" data-bank="riyadh" data-cat="عروض">
+  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/Sica.jpg/a9eab3cb-8a4f-7d49-c6e6-b8dba549ed28" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">محمصة سيكا</div>
+    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">17%</span></div>
+    <div class="ft"><span class="ed">ينتهي صالح حتى: 01/09/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.riyadbank.com/llabate-café" target="_blank" data-bank="riyadh" data-cat="عروض">
+  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/llabate-logo.jpg/c8d19198-e233-7906-97be-5dfac558c956" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">لابيت كافيه</div>
+    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي صالح حتى: 01/09/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
 <a class="card" href="https://www.riyadbank.com/aura1" target="_blank" data-bank="riyadh" data-cat="عروض">
   <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/Auraa.jpg.png/da962b98-7450-dc7b-7784-e037eeaea04a" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
@@ -2752,6 +3153,14 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="sn">عيادات سافي لطب الاسنان</div>
     <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">20%</span></div>
     <div class="ft"><span class="ed">ينتهي 17/11/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.riyadbank.com/kids-gardens-preschool" target="_blank" data-bank="riyadh" data-cat="عروض">
+  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/Kids Gardens Logo.jpeg/7371211f-0c44-7e75-0ae3-f0864e832281" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">حضانة حدائق الأطفال</div>
+    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">10%</span></div>
+    <div class="ft"><span class="ed">ينتهي 20/11/2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.riyadbank.com/crust-house" target="_blank" data-bank="riyadh" data-cat="عروض">
@@ -2856,6 +3265,14 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="sn">دانولا</div>
     <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">15%</span></div>
     <div class="ft"><span class="ed">ينتهي 09/11/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.riyadbank.com/kiar-store" target="_blank" data-bank="riyadh" data-cat="عروض">
+  <div class="ci"><img src="https://www.riyadbank.com/documents/20121/0/Screenshot 2025-11-03 163339.png/de13be16-9eec-4d80-8780-7eb5002c40d5" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">متجر كيار</div>
+    <div class="card-meta"><span class="bb riyadh">بنك الرياض</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي 20 أغسطس 2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.riyadbank.com/florina-15-v2" target="_blank" data-bank="riyadh" data-cat="عروض">
@@ -3946,6 +4363,14 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="ft"><span class="ed">ينتهي 1 مايو 2027</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
+<a class="card" href="https://www.alahli.com/ar/offers/hungerstation-new" target="_blank" data-bank="ahli" data-cat="مطاعم">
+  <div class="ci"><img src="https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2025/08/hungerstation-logo2.png?h=220&iar=0&w=356&hash=8EAFD758A1CA95CE32FCC375E5C2E512" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">هنقرستيشن</div>
+    <div class="card-meta"><span class="bb ahli">البنك الأهلي السعودي</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
 <a class="card" href="https://www.alahli.com/ar/offers/wheekeep" target="_blank" data-bank="ahli" data-cat="خدمات">
   <div class="ci"><img src="https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/05/wheekeep-02.png?h=220&iar=0&w=356&hash=B62B4CC55C30B9DEBD3DF510E9C2BD10" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
@@ -4298,6 +4723,22 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
   </div>
 </a>
+<a class="card" href="https://www.alahli.com/ar/offers/keemart" target="_blank" data-bank="ahli" data-cat="التسوق">
+  <div class="ci"><img src="https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2025/11/keemart.png?h=220&iar=0&w=356&hash=ACB76AC6870F3889D903BC3AA8278EFA" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Keemart</div>
+    <div class="card-meta"><span class="bb ahli">البنك الأهلي السعودي</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 يوليو 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alahli.com/ar/offers/jarir-bookstore" target="_blank" data-bank="ahli" data-cat="التسوق">
+  <div class="ci"><img src="https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2024/jarir-300x310.jpg?h=310&iar=0&w=300&hash=3D1CF2D3AB17306C6963CA00328BE7F2" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">مكتبة جرير</div>
+    <div class="card-meta"><span class="bb ahli">البنك الأهلي السعودي</span><span class="disc-tag">20%</span></div>
+    <div class="ft"><span class="ed">ينتهي 25 يوليو 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
 <a class="card" href="https://www.alahli.com/ar/offers/lucky-fish" target="_blank" data-bank="ahli" data-cat="دولي">
   <div class="ci"><img src="https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/lucky-fish.png?h=220&iar=0&w=356&hash=A7E6E97FA0F33C5AA8468FB93BBEE4DC" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
@@ -4338,19 +4779,11 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="ft"><span class="ed">ينتهي 5 أغسطس 2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
-<a class="card" href="https://www.alahli.com/ar/offers/jarir-bookstore" target="_blank" data-bank="ahli" data-cat="التسوق">
-  <div class="ci"><img src="https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2024/jarir-300x310.jpg?h=310&iar=0&w=300&hash=3D1CF2D3AB17306C6963CA00328BE7F2" onerror="this.remove()"><div class="cf">🏷️</div></div>
+<a class="card" href="https://www.alahli.com/ar/offers/namshi-2" target="_blank" data-bank="ahli" data-cat="Fashion">
+  <div class="ci"><img src="https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2025/07/namshi-logo-black.png?h=220&iar=0&w=356&hash=6C4F4F47D8DC0B197C5D874A8D1FB18A" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
-    <div class="sn">مكتبة جرير</div>
-    <div class="card-meta"><span class="bb ahli">البنك الأهلي السعودي</span><span class="disc-tag">20%</span></div>
-    <div class="ft"><span class="ed">ينتهي 25 يوليو 2026</span><span class="vl">عرض ←</span></div>
-  </div>
-</a>
-<a class="card" href="https://www.alahli.com/ar/offers/keemart" target="_blank" data-bank="ahli" data-cat="التسوق">
-  <div class="ci"><img src="https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2025/11/keemart.png?h=220&iar=0&w=356&hash=ACB76AC6870F3889D903BC3AA8278EFA" onerror="this.remove()"><div class="cf">🏷️</div></div>
-  <div class="cb">
-    <div class="sn">Keemart</div>
-    <div class="card-meta"><span class="bb ahli">البنك الأهلي السعودي</span></div>
+    <div class="sn">نمشي</div>
+    <div class="card-meta"><span class="bb ahli">البنك الأهلي السعودي</span><span class="disc-tag">30%</span></div>
     <div class="ft"><span class="ed">ينتهي 31 يوليو 2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>

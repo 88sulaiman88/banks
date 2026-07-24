@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "store": "كلارو",
+    "discount": "50%",
+    "category": "سيارات وخدمات",
+    "expiry": "23 يونيو 2027",
+    "description": "بنقطتين استمتع بخصم 50% على خدمات الغسيل لدى تطبيق كلارو",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Claro.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Cars-Accessories-and-Services/Claro",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-24 05:22"
+  },
+  {
+    "store": "هلوآب",
+    "discount": "20%",
+    "category": "سيارات وخدمات",
+    "expiry": "4 أغسطس 2026",
+    "description": "استمتع بخصم 20% لدى هلوآب عند الدفع باستخدام بطاقات الإنماء الائتمانية ومسبقة الدفع ومدى",
+    "img": "https://www.alinma.com/-/media/ExtraImages/HelloAppV2.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Cars-Accessories-and-Services/Hello-app",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-24 05:22"
+  },
+  {
+    "store": "مسمار",
+    "discount": "85%",
+    "category": "سيارات وخدمات",
+    "expiry": "20 مايو 2027",
+    "description": "استمتع بخصم يصل إلى 85% لدى مسمار عند الدفع باستخدام بطاقات الانماء الائتمانية ومسبقة الدفع ومدى",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Mismar1.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Cars-Accessories-and-Services/Mismar",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-24 05:22"
+  },
+  {
+    "store": "رويال نانو",
+    "discount": "50%",
+    "category": "سيارات وخدمات",
+    "expiry": "",
+    "description": "استمتع بخصم 50% على كل الخدمات لدى فروع رويال نانو عند الدفع بأي من بطاقات الإنماء.",
+    "img": "https://www.alinma.com/-/media/ExtraImages/royal-nano-v1.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Cars-Accessories-and-Services/Royal-Nano-for-car-services",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-24 05:22"
+  },
+  {
+    "store": "ستايلي",
+    "discount": "30%",
+    "category": "سيارات وخدمات",
+    "expiry": "30 ديسمبر 2026",
+    "description": "استمتع بخصم 30% لدى ستايلي لخدمات العناية بالسيارات عند الدفع بأي من بطاقات الإنماء الائتمانية ومسبقة الدفع",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Styily.jpg",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Cars-Accessories-and-Services/Stily",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-24 05:22"
+  },
+  {
+    "store": "ايرالو",
+    "discount": "15 %",
+    "category": "تجارة إلكترونية",
+    "expiry": "15 مايو 2027",
+    "description": "استمتع بخصم15 % لدى ايرالو عند الدفع بأي من بطاقات الإنماء",
+    "img": "https://www.alinma.com/-/media/ExtraImages/AiraloV2.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/E-commerce-websites/Airlao",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-24 05:22"
+  }
+]
