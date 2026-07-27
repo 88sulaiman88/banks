@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "store": "فايندرا",
+    "discount": "20%",
+    "category": "مجوهرات وعطور",
+    "expiry": "10 يونيو 2027",
+    "description": "استمتع بخصم حتى 20% لدى فايندرا عند الدفع باستخدام بطاقات الانماء الائتمانية ومسبقة الدفع ومدى",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Fayendra.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Jewelry-and-watches-and-perfumes/Fayendra",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-07-27 05:53"
+  }
+]
