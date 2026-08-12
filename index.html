@@ -143,49 +143,50 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
 <div class="tb">
   <div style="text-align:center;width:100%">
     <div class="bn">عروض البنوك السعودية</div>
-    <div class="bs">آخر تحديث: 2026-08-11 03:59</div>
+    <div class="bs">آخر تحديث: 2026-08-12 04:25</div>
   </div>
   <div class="tm">
-    <span class="pl pl-c">1038 عرض</span>
-    <span class="pl pl-er">11/12 بنك</span>
+    <span class="pl pl-c">1126 عرض</span>
+    <span class="pl pl-ok">12/12 بنك</span>
   </div>
 </div>
 
-<div class="stb"><div class="si"><span class="sd dot-ok"></span>مصرف الراجحي — 241 عرض</div>
-<div class="si"><span class="sd dot-err"></span>مصرف الإنماء — تعذّر التحديث</div>
+<div class="stb"><div class="si"><span class="sd dot-ok"></span>مصرف الراجحي — 243 عرض</div>
+<div class="si"><span class="sd dot-ok"></span>مصرف الإنماء — 69 عرض</div>
 <div class="si"><span class="sd dot-ok"></span>البنك السعودي الفرنسي — 95 عرض</div>
 <div class="si"><span class="sd dot-ok"></span>بنك البلاد — 3 عرض</div>
-<div class="si"><span class="sd dot-ok"></span>البنك السعودي للاستثمار — 26 عرض</div>
+<div class="si"><span class="sd dot-ok"></span>البنك السعودي للاستثمار — 27 عرض</div>
 <div class="si"><span class="sd dot-ok"></span>بنك الرياض — 48 عرض</div>
-<div class="si"><span class="sd dot-ok"></span>بنك الجزيرة — 112 عرض</div>
-<div class="si"><span class="sd dot-ok"></span>البنك الأهلي السعودي — 98 عرض</div>
-<div class="si"><span class="sd dot-ok"></span>بنك الإمارات دبي الوطني — 40 عرض</div>
+<div class="si"><span class="sd dot-ok"></span>بنك الجزيرة — 121 عرض</div>
+<div class="si"><span class="sd dot-ok"></span>البنك الأهلي السعودي — 102 عرض</div>
+<div class="si"><span class="sd dot-ok"></span>بنك الإمارات دبي الوطني — 39 عرض</div>
 <div class="si"><span class="sd dot-ok"></span>البنك العربي الوطني — 2 عرض</div>
-<div class="si"><span class="sd dot-ok"></span>البنك السعودي الأول — 342 عرض</div>
-<div class="si"><span class="sd dot-ok"></span>STC Bank — 31 عرض</div>
+<div class="si"><span class="sd dot-ok"></span>البنك السعودي الأول — 345 عرض</div>
+<div class="si"><span class="sd dot-ok"></span>STC Bank — 32 عرض</div>
 </div>
 
 <div class="ct">
   <div class="search-bar">
     <input type="text" id="q" placeholder="ابحث عن متجر..." oninput="fil()">
   </div>
-  <div class="fg"><button class='fb active' onclick="setBank('all',this)">الكل <span class='bc'>(1038)</span></button>
-<button class='fb f-rajhi' onclick="setBank('rajhi',this)">مصرف الراجحي <span class='bc'>(241)</span></button>
+  <div class="fg"><button class='fb active' onclick="setBank('all',this)">الكل <span class='bc'>(1126)</span></button>
+<button class='fb f-rajhi' onclick="setBank('rajhi',this)">مصرف الراجحي <span class='bc'>(243)</span></button>
+<button class='fb f-inma' onclick="setBank('inma',this)">مصرف الإنماء <span class='bc'>(69)</span></button>
 <button class='fb f-bsf' onclick="setBank('bsf',this)">البنك السعودي الفرنسي <span class='bc'>(95)</span></button>
 <button class='fb f-bilad' onclick="setBank('bilad',this)">بنك البلاد <span class='bc'>(3)</span></button>
-<button class='fb f-saib' onclick="setBank('saib',this)">البنك السعودي للاستثمار <span class='bc'>(26)</span></button>
+<button class='fb f-saib' onclick="setBank('saib',this)">البنك السعودي للاستثمار <span class='bc'>(27)</span></button>
 <button class='fb f-riyadh' onclick="setBank('riyadh',this)">بنك الرياض <span class='bc'>(48)</span></button>
-<button class='fb f-jazira' onclick="setBank('jazira',this)">بنك الجزيرة <span class='bc'>(112)</span></button>
-<button class='fb f-ahli' onclick="setBank('ahli',this)">البنك الأهلي السعودي <span class='bc'>(98)</span></button>
-<button class='fb f-enbd' onclick="setBank('enbd',this)">بنك الإمارات دبي الوطني <span class='bc'>(40)</span></button>
+<button class='fb f-jazira' onclick="setBank('jazira',this)">بنك الجزيرة <span class='bc'>(121)</span></button>
+<button class='fb f-ahli' onclick="setBank('ahli',this)">البنك الأهلي السعودي <span class='bc'>(102)</span></button>
+<button class='fb f-enbd' onclick="setBank('enbd',this)">بنك الإمارات دبي الوطني <span class='bc'>(39)</span></button>
 <button class='fb f-arabi' onclick="setBank('arabi',this)">البنك العربي الوطني <span class='bc'>(2)</span></button>
-<button class='fb f-sab' onclick="setBank('sab',this)">البنك السعودي الأول <span class='bc'>(342)</span></button>
-<button class='fb f-stc' onclick="setBank('stc',this)">STC Bank <span class='bc'>(31)</span></button>
+<button class='fb f-sab' onclick="setBank('sab',this)">البنك السعودي الأول <span class='bc'>(345)</span></button>
+<button class='fb f-stc' onclick="setBank('stc',this)">STC Bank <span class='bc'>(32)</span></button>
 </div>
 </div>
 
 <div class="gw">
-  <div class="rc" id="rc" style="display:none">1038 عرض</div>
+  <div class="rc" id="rc" style="display:none">1126 عرض</div>
   <div class="grid" id="grid"><a class="card" href="https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Food-and-Beverage/Captain-chef" target="_blank" data-bank="rajhi" data-cat="المأكولات والمشروبات">
   <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/June-2026/web/logo-01-(17).jpg?h=160&iar=0&w=380&hash=C0E65D70020D978ACF055A2A0B4E8ADA" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
@@ -754,6 +755,14 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="ft"><span class="ed">ينتهي 14/04/2028</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
+<a class="card" href="https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Swar/Get-2-tickets-to-Aquarabia" target="_blank" data-bank="rajhi" data-cat="سوار">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/August/web/Artboard-2.jpg?h=161&iar=0&w=361&hash=13AAA74F29493940278F26AA6DD4EE24" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">أكوارابيا</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 14/08/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
 <a class="card" href="https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Fashion-and-Cosmetics/1Pass" target="_blank" data-bank="rajhi" data-cat="الازياء والتجميل">
   <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/August/web/logo-01-(34).jpg?h=160&iar=0&w=380&hash=B3E472230A2F5E9B9B3FEA078032A496" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
@@ -1088,6 +1097,14 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="sn">ديتاليواوتو</div>
     <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span><span class="disc-tag">20%</span></div>
     <div class="ft"><span class="ed">ينتهي 11/02/2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Car-Services/Mismar23" target="_blank" data-bank="rajhi" data-cat="خدمة السيارات">
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/Jan2026/Ecom-Logo/mismar.jpg?h=160&iar=0&w=380&hash=F120EEC5EEAFADDF19DA80E6DC81718F" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">مسمار</div>
+    <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
+    <div class="ft"><span class="ed">ينتهي 19/08/2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Tahweel/Mezan-bank" target="_blank" data-bank="rajhi" data-cat="تحويل">
@@ -1595,7 +1612,7 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
   </div>
 </a>
 <a class="card" href="https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Mumzworld" target="_blank" data-bank="rajhi" data-cat="ARBRevamp">
-  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2024/aug/logo-28mumzw.jpg?h=160&iar=0&w=360&hash=EBE2C8EDACC0538FC99CEE73471F1BCF" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="ci"><img src="https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/August/back-to-school/BACKTOSCHOOL-20.jpg?h=161&iar=0&w=381&hash=76FB426176B0DA6AAE4D7E690358B42A" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
     <div class="sn">ممزورلد</div>
     <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span><span class="disc-tag">18%</span></div>
@@ -2112,6 +2129,558 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="sn">ResellerClub</div>
     <div class="card-meta"><span class="bb rajhi">مصرف الراجحي</span></div>
     <div class="ft"><span class="ed">ينتهي 30/12/2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Cars-Accessories-and-Services/Claro" target="_blank" data-bank="inma" data-cat="سيارات وخدمات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Claro.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">كلارو</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">50%</span></div>
+    <div class="ft"><span class="ed">ينتهي 23 يونيو 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Cars-Accessories-and-Services/Mismar" target="_blank" data-bank="inma" data-cat="سيارات وخدمات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Mismar1.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">مسمار</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">85%</span></div>
+    <div class="ft"><span class="ed">ينتهي 20 مايو 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Cars-Accessories-and-Services/Royal-Nano-for-car-services" target="_blank" data-bank="inma" data-cat="سيارات وخدمات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/royal-nano-v1.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">رويال نانو</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">50%</span></div>
+    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Cars-Accessories-and-Services/Stily" target="_blank" data-bank="inma" data-cat="سيارات وخدمات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Styily.jpg" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">ستايلي</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">30%</span></div>
+    <div class="ft"><span class="ed">ينتهي 30 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/E-commerce-websites/Airlao" target="_blank" data-bank="inma" data-cat="تجارة إلكترونية">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/AiraloV2.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">ايرالو</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">15 %</span></div>
+    <div class="ft"><span class="ed">ينتهي 15 مايو 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/E-commerce-websites/Airlao-Voucher" target="_blank" data-bank="inma" data-cat="تجارة إلكترونية">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/AiraloV2.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">قسيمة ايرالو</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">20 %</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/E-commerce-websites/GrintaHub" target="_blank" data-bank="inma" data-cat="تجارة إلكترونية">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/grintahub-400x400.jpg" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">غرينتاهب</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">10%</span></div>
+    <div class="ft"><span class="ed">ينتهي 30 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/E-commerce-websites/Hammah" target="_blank" data-bank="inma" data-cat="تجارة إلكترونية">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Hammah.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">همه</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">25%</span></div>
+    <div class="ft"><span class="ed">ينتهي 11 فبراير 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/E-commerce-websites/Hammah-Tech" target="_blank" data-bank="inma" data-cat="تجارة إلكترونية">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Hemah-Tech.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">همه تك</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">20%</span></div>
+    <div class="ft"><span class="ed">ينتهي 11 فبراير 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/E-commerce-websites/Huawei" target="_blank" data-bank="inma" data-cat="تجارة إلكترونية">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Huawei.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">هواوي</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">10%</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 مايو 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Entertainment/Billy-Beez" target="_blank" data-bank="inma" data-cat="عروض">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Billy-Beez.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">بيلي بيز</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">20%</span></div>
+    <div class="ft"><span class="ed">ينتهي 30 يونيو 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Entertainment/Bobs-Famous" target="_blank" data-bank="inma" data-cat="عروض">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Bobs-Famous.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">ببز فايمس</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">20%</span></div>
+    <div class="ft"><span class="ed">ينتهي 30 يونيو 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Entertainment/Doomidoo" target="_blank" data-bank="inma" data-cat="عروض">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Doomidoo.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">دوميدو</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي 10 يونيو 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Fashion-and-beauty/Alaseel" target="_blank" data-bank="inma" data-cat="أزياء وجمال">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Alaseel.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">الأصيل</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">20%</span></div>
+    <div class="ft"><span class="ed">ينتهي 11 يونيو 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Fashion-and-beauty/Alfakhera" target="_blank" data-bank="inma" data-cat="أزياء وجمال">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Alfakhera-00.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">الفاخرة</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">25%</span></div>
+    <div class="ft"><span class="ed">ينتهي 27 أبريل 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Fashion-and-beauty/Aljamal-Alraqi" target="_blank" data-bank="inma" data-cat="أزياء وجمال">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Aljamal-Alraqi.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">الجمال الراقي</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">15 %</span></div>
+    <div class="ft"><span class="ed">ينتهي 11 يونيو 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Fashion-and-beauty/Alkessaey" target="_blank" data-bank="inma" data-cat="أزياء وجمال">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Alkessaey-00.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">الكسائي</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">25%</span></div>
+    <div class="ft"><span class="ed">ينتهي 27 أبريل 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Fashion-and-beauty/Dalal-boutique" target="_blank" data-bank="inma" data-cat="أزياء وجمال">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Dalal.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">دلال بوتيك</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">35%</span></div>
+    <div class="ft"><span class="ed">ينتهي 1 يناير 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Fashion-and-beauty/Fab" target="_blank" data-bank="inma" data-cat="أزياء وجمال">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Feb.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">فاب</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">30%</span></div>
+    <div class="ft"><span class="ed">ينتهي 29 سبتمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Fashion-and-beauty/Five-Seasons" target="_blank" data-bank="inma" data-cat="أزياء وجمال">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Five-Seasons.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">فايف سيزون</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">20%</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Fashion-and-beauty/Sayyar" target="_blank" data-bank="inma" data-cat="أزياء وجمال">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Sayyar-Logo-PNG2.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">سيار</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">20%</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Fashion-and-beauty/Tasooma" target="_blank" data-bank="inma" data-cat="أزياء وجمال">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Tasooma2.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">تاسومة</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">30%</span></div>
+    <div class="ft"><span class="ed">ينتهي 29 سبتمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Furniture-Shops/Area25" target="_blank" data-bank="inma" data-cat="عروض">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Area25.jpg" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">ايريا 25</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">10%</span></div>
+    <div class="ft"><span class="ed">ينتهي 9 أبريل 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Health-and-Medical/Cote-nail-Spa" target="_blank" data-bank="inma" data-cat="صحة وطب">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/CotaSpa.jpg?la=ar&h=1280&w=1280&hash=D21042D85DAF94CB9AADA73012141FF2" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Cote nail Spa</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي 29 يناير 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Health-and-Medical/Ocean-Spa" target="_blank" data-bank="inma" data-cat="صحة وطب">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Ocean_Spa.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">أوشن سبا</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي 15 يونيو 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/International-Offers/Farfetch" target="_blank" data-bank="inma" data-cat="عروض دولية">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/farfetch.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">فارفيتش</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/International-Offers/VOGACLOSET" target="_blank" data-bank="inma" data-cat="عروض دولية">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/vogacloset.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">VOGACLOSET</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">10%</span></div>
+    <div class="ft"><span class="ed">ينتهي 30 سبتمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Jewelry-and-watches-and-perfumes/Abdulsamad-Alqurashi" target="_blank" data-bank="inma" data-cat="مجوهرات وعطور">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/ASQ.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">عبدالصمد القرشي</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">10%</span></div>
+    <div class="ft"><span class="ed">ينتهي 30 سبتمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Jewelry-and-watches-and-perfumes/Bazil" target="_blank" data-bank="inma" data-cat="مجوهرات وعطور">
+  <div class="ci"><img src="https://www.alinma.com/-/media/Winter-Offers/Colored/color_Bazil.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">$name</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">10%</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Jewelry-and-watches-and-perfumes/Fayendra" target="_blank" data-bank="inma" data-cat="مجوهرات وعطور">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Fayendra.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">فايندرا</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">35%</span></div>
+    <div class="ft"><span class="ed">ينتهي 10 يونيو 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/AGO" target="_blank" data-bank="inma" data-cat="مطاعم وحلويات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/Winter-Offers/Colored/agio_color.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">اجو</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">20%</span></div>
+    <div class="ft"><span class="ed">ينتهي 20 نوفمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Ani-and-Dani" target="_blank" data-bank="inma" data-cat="مطاعم وحلويات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Ani-and-Dani.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">آني وداني</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">10%</span></div>
+    <div class="ft"><span class="ed">ينتهي 30 يونيو 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Beefbar-Resturant" target="_blank" data-bank="inma" data-cat="مطاعم وحلويات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/Winter-Offers/Colored/color_Beefbar.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">مطعم بيف بار</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">20%</span></div>
+    <div class="ft"><span class="ed">ينتهي 20 نوفمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Calo-1" target="_blank" data-bank="inma" data-cat="مطاعم وحلويات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Calo_v2.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">كالو</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span></div>
+    <div class="ft"><span class="ed">ينتهي 30 يونيو 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Coya-Restaurant" target="_blank" data-bank="inma" data-cat="مطاعم وحلويات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/Winter-Offers/Colored/color_Coya.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">مطعم كويا</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">20%</span></div>
+    <div class="ft"><span class="ed">ينتهي 20 نوفمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Crazy-pizza" target="_blank" data-bank="inma" data-cat="مطاعم وحلويات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/Winter-Offers/Colored/color_Crazy-Pizza.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">كريزي بيتزا</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">20%</span></div>
+    <div class="ft"><span class="ed">ينتهي 20 نوفمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Kayzo-Restaurant" target="_blank" data-bank="inma" data-cat="مطاعم وحلويات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/Winter-Offers/Colored/color_KAYZO.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">مطعم كايزو</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">20%</span></div>
+    <div class="ft"><span class="ed">ينتهي 20 نوفمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/MYAZU-Resturant" target="_blank" data-bank="inma" data-cat="مطاعم وحلويات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/Winter-Offers/Colored/color_Myazu.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">مطعم ميازو</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">20%</span></div>
+    <div class="ft"><span class="ed">ينتهي 20 نوفمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Munus-chocolatier" target="_blank" data-bank="inma" data-cat="مطاعم وحلويات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/munus.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">مونوز شوكلاته</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي 29 يناير 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Nad-Chocolate" target="_blank" data-bank="inma" data-cat="مطاعم وحلويات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/nad.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">ناد للشكولاتة</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي 29 يناير 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Olive-Garden" target="_blank" data-bank="inma" data-cat="مطاعم وحلويات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Olive-Garden.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">اوليف جاردن</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Roasting-House" target="_blank" data-bank="inma" data-cat="مطاعم وحلويات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/RoastingHouse.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">بيت التحميص</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي 30 يونيو 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Robata-Riyadh--Restaurant" target="_blank" data-bank="inma" data-cat="مطاعم وحلويات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/Winter-Offers/Colored/color_Robata.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Robata Riyadh  Restaurant</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">20%</span></div>
+    <div class="ft"><span class="ed">ينتهي 20 نوفمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/San-Carlo-Cicchetti-Restaurant" target="_blank" data-bank="inma" data-cat="مطاعم وحلويات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/Winter-Offers/Colored/color_cicchetti.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">مطعم سان كارلو شيكيتي</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">20%</span></div>
+    <div class="ft"><span class="ed">ينتهي 20 نوفمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Shawarma-Classic" target="_blank" data-bank="inma" data-cat="مطاعم وحلويات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/ShawarmaClassic.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">شاورما كلاسيك</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي 30 يونيو 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Shawarma-House" target="_blank" data-bank="inma" data-cat="مطاعم وحلويات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/shawarma_house.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">بيت الشاورما</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">10%</span></div>
+    <div class="ft"><span class="ed">ينتهي 10 يونيو 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Signor-Sassi-Resturant" target="_blank" data-bank="inma" data-cat="مطاعم وحلويات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/Winter-Offers/Colored/color_Signor-Sassi.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">مطعم   فيلا سينيور ساسي</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">20%</span></div>
+    <div class="ft"><span class="ed">ينتهي 20 نوفمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Thats-chocolate" target="_blank" data-bank="inma" data-cat="مطاعم وحلويات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/That.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">ذاتس شوكلاتة</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي 29 يناير 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Urth-Caffe" target="_blank" data-bank="inma" data-cat="مطاعم وحلويات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/Winter-Offers/Colored/color_Urth-Caffe.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Urth Caffe</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي 20 نوفمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/Vara-Chocolate" target="_blank" data-bank="inma" data-cat="مطاعم وحلويات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Vara-_Ar/vara.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">فارا للشكولاتة</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي 29 يناير 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Restaurants-and-Sweets/susler" target="_blank" data-bank="inma" data-cat="مطاعم وحلويات">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/suslerV2.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">سيسلر</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي 20 أبريل 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Sport-and-Fitness/Padel-It" target="_blank" data-bank="inma" data-cat="عروض">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Padel_It.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">بادل ات</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">40%</span></div>
+    <div class="ft"><span class="ed">ينتهي 17 يونيو 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Travel-and-Tour/Aber-Hotels-New" target="_blank" data-bank="inma" data-cat="سفر وسياحة">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Aber.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">فنادق عابر</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Travel-and-Tour/Al-Muhaidb-Residence" target="_blank" data-bank="inma" data-cat="سفر وسياحة">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Muhaidb.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">المهيدب ريزدنس</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي 30 يناير 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Travel-and-Tour/Boudl-Hotels-New" target="_blank" data-bank="inma" data-cat="سفر وسياحة">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Boudl-LOGO.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">فنادق بودل</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Travel-and-Tour/Braira-Hotels-New" target="_blank" data-bank="inma" data-cat="سفر وسياحة">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/brairaV01.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">فنادق بريرا</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Travel-and-Tour/EWAA-Hotels" target="_blank" data-bank="inma" data-cat="سفر وسياحة">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Ewaa-Express.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">فنادق إيواء</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي 30 يناير 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Travel-and-Tour/Grand-Plaza-Hotels" target="_blank" data-bank="inma" data-cat="سفر وسياحة">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/GP.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">فنادق جراند بلازا</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي 30 يناير 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Travel-and-Tour/Jeeny" target="_blank" data-bank="inma" data-cat="سفر وسياحة">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/JeenyV2.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">جيني</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span></div>
+    <div class="ft"><span class="ed">ينتهي 30 سبتمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/Travel-and-Tour/Narcissus-Hotels-New" target="_blank" data-bank="inma" data-cat="سفر وسياحة">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Narcissus-logo.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">فنادق نارسس</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/100-Cashbacks-for-FT" target="_blank" data-bank="inma" data-cat="عروض الإنماء">
+  <div class="ci"><img src="https://www.alinma.com/-/media/Project/AlinmaRevamp/Portal/Hero-Slider/10CashBackbanner_600x450.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">%100 كاش باك على العملية الأولى لبطاقتكم</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">100%</span></div>
+    <div class="ft"><span class="ed">ينتهي 15 أغسطس 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/5-cashback-for-International-Transaction" target="_blank" data-bank="inma" data-cat="عروض الإنماء">
+  <div class="ci"><img src="https://www.alinma.com/-/media/Project/AlinmaRevamp/Portal/Hero-Slider/10CashBackbanner_600x450.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">%5 كاش باك لعملياتك الدولية</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">5%</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 أغسطس 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/Alsaif-Gallery" target="_blank" data-bank="inma" data-cat="عروض الإنماء">
+  <div class="ci"><img src="https://www.alinma.com/-/media/PointsCard/4192SR_BIG-40a0dbb3.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">قسّط مشترياتك من السيف جاليري بدون هامش ربح</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 أكتوبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/DISCOUNT-ON-VEHICLE-INSURANCE" target="_blank" data-bank="inma" data-cat="عروض الإنماء">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/DISCOUNT-ON-VEHICLE-INSURANCE.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">خصم حتى 10% على تأمين المركبات</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 أغسطس 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/Medical-Malpractice-Insurance" target="_blank" data-bank="inma" data-cat="عروض الإنماء">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/medical-insurance.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">تأمين الأخطاء الطبية</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">50%</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 أغسطس 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/SACO" target="_blank" data-bank="inma" data-cat="عروض الإنماء">
+  <div class="ci"><img src="https://www.alinma.com/-/media/PointsCard/SACO.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">قسّط مشترياتك من ساكو بدون هامش ربح</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/Transfer-internationally-and-win-a-gift" target="_blank" data-bank="inma" data-cat="عروض الإنماء">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/Transfer-internationally-and-win-a-gift.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">حوالة صادرة وهدية واردة!</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 أغسطس 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/Travel-Insurance" target="_blank" data-bank="inma" data-cat="عروض الإنماء">
+  <div class="ci"><img src="https://www.alinma.com/-/media/ExtraImages/travel-insurance.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">تأمين السفر</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">10%</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 أغسطس 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alinma.com/ar/Media-Campaigns/Stores/alinma-Products-and-Services-Offers/Winning-finance-Transfer-your-salary" target="_blank" data-bank="inma" data-cat="عروض الإنماء">
+  <div class="ci"><img src="https://www.alinma.com/-/media/Project/AlinmaRevamp/shared/Winning-finance-Transfer-your-salary02.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">تمويل يفوزك.. حول راتبك!</div>
+    <div class="card-meta"><span class="bb inma">مصرف الإنماء</span><span class="disc-tag">10%</span></div>
+    <div class="ft"><span class="ed">ينتهي 16 سبتمبر 2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://bsf.sa/arabic/personal/cards/offers/travel/emirates-holidays" target="_blank" data-bank="bsf" data-cat="سفر">
@@ -2906,6 +3475,14 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="ft"><span class="ed">ينتهي 31 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
+<a class="card" href="https://www.saib.com.sa/ar/aok-kitchen" target="_blank" data-bank="saib" data-cat="عروض أصيل">
+  <div class="ci"><img src="https://www.saib.com.sa/sites/default/files/2024-05/AOK-Kitchen.webp" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">أي او كي كيتشن</div>
+    <div class="card-meta"><span class="bb saib">البنك السعودي للاستثمار</span><span class="disc-tag">20%</span></div>
+    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
 <a class="card" href="https://www.saib.com.sa/ar/roka" target="_blank" data-bank="saib" data-cat="عروض أصيل">
   <div class="ci"><img src="https://www.saib.com.sa/sites/default/files/2024-05/Roka.webp" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
@@ -2935,7 +3512,7 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
   <div class="cb">
     <div class="sn">حياك لاونج</div>
     <div class="card-meta"><span class="bb saib">البنك السعودي للاستثمار</span><span class="disc-tag">30%</span></div>
-    <div class="ft"><span class="ed">ينتهي 31 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
+    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.saib.com.sa/ar/entrecote-cafe-de-paris" target="_blank" data-bank="saib" data-cat="عروض أصيل">
@@ -2991,7 +3568,7 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
   <div class="cb">
     <div class="sn">سان كارلو</div>
     <div class="card-meta"><span class="bb saib">البنك السعودي للاستثمار</span><span class="disc-tag">20%</span></div>
-    <div class="ft"><span class="ed">ينتهي 31/12/2026</span><span class="vl">عرض ←</span></div>
+    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.saib.com.sa/ar/kayzo" target="_blank" data-bank="saib" data-cat="عروض أصيل">
@@ -3007,7 +3584,7 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
   <div class="cb">
     <div class="sn">بيف بار</div>
     <div class="card-meta"><span class="bb saib">البنك السعودي للاستثمار</span><span class="disc-tag">20%</span></div>
-    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
+    <div class="ft"><span class="ed">ينتهي 31/12/2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.saib.com.sa/ar/coya" target="_blank" data-bank="saib" data-cat="عروض أصيل">
@@ -3023,7 +3600,7 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
   <div class="cb">
     <div class="sn">ارث كافيه</div>
     <div class="card-meta"><span class="bb saib">البنك السعودي للاستثمار</span><span class="disc-tag">15%</span></div>
-    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
+    <div class="ft"><span class="ed">ينتهي 31/12/2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.saib.com.sa/ar/ejadah" target="_blank" data-bank="saib" data-cat="عروض أصيل">
@@ -3031,7 +3608,7 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
   <div class="cb">
     <div class="sn">مركز إجادة للتخاطب والنطق</div>
     <div class="card-meta"><span class="bb saib">البنك السعودي للاستثمار</span><span class="disc-tag">15%</span></div>
-    <div class="ft"><span class="ed">ينتهي 31 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
+    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.saib.com.sa/ar/creative-closets" target="_blank" data-bank="saib" data-cat="عروض أصيل">
@@ -3095,7 +3672,7 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
   <div class="cb">
     <div class="sn">البـدر للنظارات</div>
     <div class="card-meta"><span class="bb saib">البنك السعودي للاستثمار</span><span class="disc-tag">20%</span></div>
-    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.saib.com.sa/ar/benihana" target="_blank" data-bank="saib" data-cat="عروض أصيل">
@@ -4322,7 +4899,7 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
   </div>
 </a>
-<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/42603" target="_blank" data-bank="jazira" data-cat="عروض">
+<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66708" target="_blank" data-bank="jazira" data-cat="عروض">
   <div class="ci"><img src="https://www.aljazirabank.com.sa/Portals/0/Images/offers/visa/Global_Blue_NEW_Banner-02_AR-EN_1200x409px_AR-1.jpg" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
     <div class="sn">عرض جلوبال بلو</div>
@@ -4330,23 +4907,7 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
   </div>
 </a>
-<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53770" target="_blank" data-bank="jazira" data-cat="عروض">
-  <div class="ci"><img src="https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/iHerb.jpg" onerror="this.remove()"><div class="cf">🏷️</div></div>
-  <div class="cb">
-    <div class="sn">أضف طاقة ليومك</div>
-    <div class="card-meta"><span class="bb jazira">بنك الجزيرة</span><span class="disc-tag">10%</span></div>
-    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
-  </div>
-</a>
-<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53828" target="_blank" data-bank="jazira" data-cat="عروض">
-  <div class="ci"><img src="https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/voga-closet.jpg" onerror="this.remove()"><div class="cf">🏷️</div></div>
-  <div class="cb">
-    <div class="sn">أضف لمسة لافتة إلى إطلالتك</div>
-    <div class="card-meta"><span class="bb jazira">بنك الجزيرة</span><span class="disc-tag">10%</span></div>
-    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
-  </div>
-</a>
-<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53769" target="_blank" data-bank="jazira" data-cat="عروض">
+<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66709" target="_blank" data-bank="jazira" data-cat="عروض">
   <div class="ci"><img src="https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/farfetch.jpg" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
     <div class="sn">FARFECTH</div>
@@ -4354,7 +4915,15 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
   </div>
 </a>
-<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53771" target="_blank" data-bank="jazira" data-cat="عروض">
+<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66710" target="_blank" data-bank="jazira" data-cat="عروض">
+  <div class="ci"><img src="https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/iHerb.jpg" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">أضف طاقة ليومك</div>
+    <div class="card-meta"><span class="bb jazira">بنك الجزيرة</span><span class="disc-tag">10%</span></div>
+    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66711" target="_blank" data-bank="jazira" data-cat="عروض">
   <div class="ci"><img src="https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/shein.jpg" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
     <div class="sn">SHEIN</div>
@@ -4362,26 +4931,106 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="ft"><span class="ed">ينتهي 30 سبتمبر 2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
-<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66633" target="_blank" data-bank="jazira" data-cat="عروض">
-  <div class="ci"><img src="https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/generic-banner.jpg" onerror="this.remove()"><div class="cf">🏷️</div></div>
+<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66712" target="_blank" data-bank="jazira" data-cat="عروض">
+  <div class="ci"><img src="https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/voga-closet.jpg" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">أضف لمسة لافتة إلى إطلالتك</div>
+    <div class="card-meta"><span class="bb jazira">بنك الجزيرة</span><span class="disc-tag">10%</span></div>
+    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66713" target="_blank" data-bank="jazira" data-cat="عروض">
+  <div class="ci"><img src="https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/london-eye.webp" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
     <div class="sn">London Eye</div>
     <div class="card-meta"><span class="bb jazira">بنك الجزيرة</span></div>
     <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
   </div>
 </a>
-<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66635" target="_blank" data-bank="jazira" data-cat="عروض">
-  <div class="ci"><img src="https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/generic-banner.jpg" onerror="this.remove()"><div class="cf">🏷️</div></div>
+<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66714" target="_blank" data-bank="jazira" data-cat="عروض">
+  <div class="ci"><img src="https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/madame-tussauds.webp" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
     <div class="sn">Madame Tussauds</div>
     <div class="card-meta"><span class="bb jazira">بنك الجزيرة</span></div>
     <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
   </div>
 </a>
-<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66637" target="_blank" data-bank="jazira" data-cat="عروض">
-  <div class="ci"><img src="https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/generic-banner.jpg" onerror="this.remove()"><div class="cf">🏷️</div></div>
+<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66715" target="_blank" data-bank="jazira" data-cat="عروض">
+  <div class="ci"><img src="https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/musee-du-louvre.webp" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
     <div class="sn">MUSÉE DU LOUVRE</div>
+    <div class="card-meta"><span class="bb jazira">بنك الجزيرة</span></div>
+    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66716" target="_blank" data-bank="jazira" data-cat="عروض">
+  <div class="ci"><img src="https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/viator.webp" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">VIATOR</div>
+    <div class="card-meta"><span class="bb jazira">بنك الجزيرة</span></div>
+    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66717" target="_blank" data-bank="jazira" data-cat="عروض">
+  <div class="ci"><img src="https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/the-bicester-collection.webp" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">THE BICESTER COLLECTION</div>
+    <div class="card-meta"><span class="bb jazira">بنك الجزيرة</span></div>
+    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66718" target="_blank" data-bank="jazira" data-cat="عروض">
+  <div class="ci"><img src="https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/legoland.webp" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">LEGOLAND</div>
+    <div class="card-meta"><span class="bb jazira">بنك الجزيرة</span></div>
+    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66719" target="_blank" data-bank="jazira" data-cat="عروض">
+  <div class="ci"><img src="https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/galeries-lafayette.webp" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">GALERIES LAFAYETTE</div>
+    <div class="card-meta"><span class="bb jazira">بنك الجزيرة</span></div>
+    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66720" target="_blank" data-bank="jazira" data-cat="عروض">
+  <div class="ci"><img src="https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/printemps.webp" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Printemps</div>
+    <div class="card-meta"><span class="bb jazira">بنك الجزيرة</span></div>
+    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66721" target="_blank" data-bank="jazira" data-cat="عروض">
+  <div class="ci"><img src="https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/la-vallee-village.webp" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">LA VALLÉE VILLAGE</div>
+    <div class="card-meta"><span class="bb jazira">بنك الجزيرة</span></div>
+    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66722" target="_blank" data-bank="jazira" data-cat="عروض">
+  <div class="ci"><img src="https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/ihg-hotel-resorts.webp" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">IHG HOTELS</div>
+    <div class="card-meta"><span class="bb jazira">بنك الجزيرة</span></div>
+    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66723" target="_blank" data-bank="jazira" data-cat="عروض">
+  <div class="ci"><img src="https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/el-corte-ingles.webp" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">El CORTE INGLÉS</div>
+    <div class="card-meta"><span class="bb jazira">بنك الجزيرة</span><span class="disc-tag">10%</span></div>
+    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66724" target="_blank" data-bank="jazira" data-cat="عروض">
+  <div class="ci"><img src="https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/booking-com.webp" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">BOOKING.COM</div>
     <div class="card-meta"><span class="bb jazira">بنك الجزيرة</span></div>
     <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
   </div>
@@ -4978,6 +5627,30 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="ft"><span class="ed">ينتهي 31 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
+<a class="card" href="https://www.alahli.com/ar/offers/redtag" target="_blank" data-bank="ahli" data-cat="Fashion">
+  <div class="ci"><img src="https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2024/11/redtag.png?h=220&iar=0&w=356&hash=FFCA4CEADC718EED1E7ECAEBCE726BFE" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">رد تاغ</div>
+    <div class="card-meta"><span class="bb ahli">البنك الأهلي السعودي</span><span class="disc-tag">14%</span></div>
+    <div class="ft"><span class="ed">ينتهي 3 نوفمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alahli.com/ar/offers/sun-and-sand-sports-2" target="_blank" data-bank="ahli" data-cat="التسوق">
+  <div class="ci"><img src="https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/sun-and-sand-sports.png?h=310&iar=0&w=300&hash=E39E75138450B3B3B9C5EC464FB0568D" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">الشمس والرمال للرياضة</div>
+    <div class="card-meta"><span class="bb ahli">البنك الأهلي السعودي</span></div>
+    <div class="ft"><span class="ed">ينتهي 31 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alahli.com/ar/offers/obeikan" target="_blank" data-bank="ahli" data-cat="عروض">
+  <div class="ci"><img src="https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/obeikan.png?h=310&iar=0&w=300&hash=49C5D223FFAB4CCACCFE581C1242281D" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">العبيكان للنشر</div>
+    <div class="card-meta"><span class="bb ahli">البنك الأهلي السعودي</span><span class="disc-tag">20%</span></div>
+    <div class="ft"><span class="ed">ينتهي 19 يوليو 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
 <a class="card" href="https://www.alahli.com/ar/offers/lucky-fish" target="_blank" data-bank="ahli" data-cat="دولي">
   <div class="ci"><img src="https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/lucky-fish.png?h=220&iar=0&w=356&hash=A7E6E97FA0F33C5AA8468FB93BBEE4DC" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
@@ -5026,12 +5699,20 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="ft"><span class="ed">ينتهي 15 أغسطس 2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
-<a class="card" href="https://www.alahli.com/ar/offers/sun-and-sand-sports-2" target="_blank" data-bank="ahli" data-cat="التسوق">
-  <div class="ci"><img src="https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/sun-and-sand-sports.png?h=310&iar=0&w=300&hash=E39E75138450B3B3B9C5EC464FB0568D" onerror="this.remove()"><div class="cf">🏷️</div></div>
+<a class="card" href="https://www.alahli.com/ar/offers/mirza" target="_blank" data-bank="ahli" data-cat="التسوق">
+  <div class="ci"><img src="https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2025/08/mirza-library.png?h=220&iar=0&w=356&hash=8039D6A3B7E9965F0A35EB71D7B88CF7" onerror="this.remove()"><div class="cf">🏷️</div></div>
   <div class="cb">
-    <div class="sn">الشمس والرمال للرياضة</div>
-    <div class="card-meta"><span class="bb ahli">البنك الأهلي السعودي</span></div>
-    <div class="ft"><span class="ed">ينتهي 31 ديسمبر 2026</span><span class="vl">عرض ←</span></div>
+    <div class="sn">مكتبة عبد الوهاب مرزا</div>
+    <div class="card-meta"><span class="bb ahli">البنك الأهلي السعودي</span><span class="disc-tag">15%</span></div>
+    <div class="ft"><span class="ed">ينتهي 20 يوليو 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.alahli.com/ar/offers/6-street" target="_blank" data-bank="ahli" data-cat="التسوق">
+  <div class="ci"><img src="https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2025/08/street6.png?h=221&iar=0&w=357&hash=B373B05C14A5FC385F4FCC1CBCC46B36" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">6th street</div>
+    <div class="card-meta"><span class="bb ahli">البنك الأهلي السعودي</span><span class="disc-tag">20%</span></div>
+    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.alahli.com/ar/offers/sala-karting" target="_blank" data-bank="ahli" data-cat="Leisure">
@@ -5216,14 +5897,6 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="sn">دايز</div>
     <div class="card-meta"><span class="bb enbd">بنك الإمارات دبي الوطني</span><span class="disc-tag">20%</span></div>
     <div class="ft"><span class="ed">ينتهي 10/09/2026</span><span class="vl">عرض ←</span></div>
-  </div>
-</a>
-<a class="card" href="https://www.emiratesnbd.com.sa/ar/deals/furniture/alshamasi-furniture" target="_blank" data-bank="enbd" data-cat="أثاث">
-  <div class="ci"><img src="https://cdn.emiratesnbd.com/plugins/cardprivileges/images/inner_images/alshammasi_furniture_logo.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
-  <div class="cb">
-    <div class="sn">Alshammasi Furniture</div>
-    <div class="card-meta"><span class="bb enbd">بنك الإمارات دبي الوطني</span><span class="disc-tag">25%</span></div>
-    <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.emiratesnbd.com.sa/ar/deals/dining/yy-chocolate-offer" target="_blank" data-bank="enbd" data-cat="مطاعم">
@@ -5504,6 +6177,30 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="sn">الملاحة</div>
     <div class="card-meta"><span class="bb arabi">البنك العربي الوطني</span></div>
     <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.sab.com/ar/personal/compare-credit-cards/credit-card-special-offers/dining-groceries/san-carlo-cichetti-tc0/" target="_blank" data-bank="sab" data-cat="المطاعم وأسواق التغذية">
+  <div class="ci"><img src="https://www.sab.com/content/dam/sabpws/personal/compare-credit-cards/special-offers/dining-and-groceries/san-carlo-cichetti-400x219.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">San Carlo Cichetti  - السعودية</div>
+    <div class="card-meta"><span class="bb sab">البنك السعودي الأول</span><span class="disc-tag">20%</span></div>
+    <div class="ft"><span class="ed">ينتهي يوليو 8, 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.sab.com/ar/personal/compare-credit-cards/credit-card-special-offers/dining-groceries/signor-sassi-tc0/" target="_blank" data-bank="sab" data-cat="المطاعم وأسواق التغذية">
+  <div class="ci"><img src="https://www.sab.com/content/dam/sabpws/personal/compare-credit-cards/special-offers/dining-and-groceries/signo-sassi-400x219.png" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">Signor Sassi - السعودية</div>
+    <div class="card-meta"><span class="bb sab">البنك السعودي الأول</span><span class="disc-tag">20%</span></div>
+    <div class="ft"><span class="ed">ينتهي يوليو 8, 2027</span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.sab.com/ar/personal/compare-credit-cards/credit-card-special-offers/shopping/lg-tc/" target="_blank" data-bank="sab" data-cat="التسوق">
+  <div class="ci"><img src="https://www.sab.com/content/dam/sabpws/personal/compare-credit-cards/special-offers/shopping/lg-400X219.jpg" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">إل جي</div>
+    <div class="card-meta"><span class="bb sab">البنك السعودي الأول</span><span class="disc-tag">10%</span></div>
+    <div class="ft"><span class="ed">ينتهي أغسطس 15, 2027</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://www.sab.com/ar/personal/compare-credit-cards/credit-card-special-offers/shopping/elegant-things-tc/" target="_blank" data-bank="sab" data-cat="نمط الحياة">
@@ -8240,6 +8937,14 @@ body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--tx);min-hei
     <div class="sn">فنادق ومنتجعات IHG</div>
     <div class="card-meta"><span class="bb sab">البنك السعودي الأول</span><span class="disc-tag">15%</span></div>
     <div class="ft"><span class="ed"></span><span class="vl">عرض ←</span></div>
+  </div>
+</a>
+<a class="card" href="https://stcbank.com.sa/web/guest/w/roastinghouse2" target="_blank" data-bank="stc" data-cat="عروض">
+  <div class="ci"><img src="https://stcbank.com.sa/documents/d/guest/roasting-house2" onerror="this.remove()"><div class="cf">🏷️</div></div>
+  <div class="cb">
+    <div class="sn">قهوتك بهللة من بيت التحميص!</div>
+    <div class="card-meta"><span class="bb stc">STC Bank</span></div>
+    <div class="ft"><span class="ed">ينتهي يسري العرض إلى 13 أغسطس 2026</span><span class="vl">عرض ←</span></div>
   </div>
 </a>
 <a class="card" href="https://stcbank.com.sa/web/guest/w/blt-cash" target="_blank" data-bank="stc" data-cat="عروض">
