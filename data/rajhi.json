@@ -9,7 +9,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Food-and-Beverage/Captain-chef",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "هنقرستيشن",
@@ -21,19 +21,31 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Food-and-Beverage/Hungerstation",
     "promo": "ARBPlus",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "غلوريا جينز",
+    "discount": "",
+    "category": "المأكولات والمشروبات",
+    "expiry": "18/08/2026",
+    "description": "اطلب قهوة اليوم من غلوريا جينز واحصل على الثانية مجاناً\r\nمع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 13 الى 19 اغسطس \r\n",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2025/gloria-Logo.jpg?h=160&iar=0&w=380&hash=FFB49E2045093BD476D67BF56084D166",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Food-and-Beverage/Gloria-Jeans-Thrusday",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "تكافل",
     "discount": "",
     "category": "مكافأة",
     "expiry": "30/12/2026",
-    "description": "برنامج مكافأة يوفر لك الآن سهولة كسب نقاط عن طريق تطبيق تكافل\r\nوالاستمتاع بتجربة استثنائية لم يسبق لها مثيل.\r\n\r\nيسري العرض حتى 31 ديسمبر 2026",
+    "description": "برنامج مكافأة يوفر لك الآن سهولة كسب نقاط عن طريق تطبيق تكافل أو تطبيق مصرف الراجحي\r\nوالاستمتاع بتجربة استثنائية لم يسبق لها مثيل.\r\n\r\nيسري العرض حتى 3...",
     "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/April-2026/logo-1-1.png?h=160&iar=0&w=380&hash=2B440A7A27633E6B430CB39312FC7253",
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Takaful",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "ليو جو",
@@ -45,7 +57,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Liu-Jo",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "كوتش",
@@ -57,7 +69,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Coach",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "تطبيق ماكوين",
@@ -69,7 +81,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/MacQueenapp",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "شوب كاش",
@@ -81,7 +93,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/ShopCash",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "ترينديول",
@@ -93,7 +105,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Trendyol",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "روسا كلارا",
@@ -105,7 +117,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Rosa-Clara",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "مستر مندوب",
@@ -117,7 +129,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Mr-Mandoob",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "الخطوط الجوية التركية - Miles&Smiles",
@@ -129,7 +141,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Turkish-Airlines-Miles-and-Smiles",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "قرينتا هب",
@@ -141,7 +153,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/GrintaHub",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "لولا كساديمونت",
@@ -153,7 +165,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Lola-Casademunt",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "Radisson Rewards",
@@ -165,7 +177,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/RdissonBlue",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "كيت سبيد",
@@ -177,7 +189,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Kate-Spade",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "ام سي ام",
@@ -189,7 +201,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/MCM",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "الدهام للساعات",
@@ -201,7 +213,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Aldaham-Watches",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "صيدليات وايتس",
@@ -213,7 +225,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Whites-Pharmacy",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "ياقوت",
@@ -225,7 +237,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Yaqoot",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "ميستيك",
@@ -237,7 +249,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Mystique",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "لي موجي",
@@ -249,7 +261,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Le-Moje",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "تطبيق شورى",
@@ -261,7 +273,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Shwra-App",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "حلال بوكينج",
@@ -273,7 +285,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/HalalBooking",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "فنادق و منتجعات IHG",
@@ -285,7 +297,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/IHG",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "ذا شفز",
@@ -297,7 +309,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/the-chefz-app",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "سنوي فورست",
@@ -309,19 +321,19 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/SNOWY",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "ذيب",
     "discount": "",
     "category": "مكافأة",
     "expiry": "30/12/2026",
-    "description": "الآن مكافاة تعطيك 15 نقاط لكل 1 ريال لدى فروع ذيب لتأجير السيارات \r\nبإستخدام رقم الجوال الخاص بك والمسجل لدى برنامج مكافأة!\r\n\r\nيسري العرض حتى 31 ديسمب...",
+    "description": "الآن مكافاة تعطيك 15 نقاط لكل 1  لدى فروع والتطبيق وموقع الإلكتروني لدى ذيب لتأجير السيارات\r\nبإستخدام رقم الجوال الخاص بك والمسجل لدى برنامج مكافأة! \r...",
     "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/Feb-2026/theeb/theeb.jpg?h=160&iar=0&w=380&hash=9FC76458685809C5F12DD3A30964CEDD",
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Theeb",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "حديقة الترامبولين المدقع",
@@ -333,7 +345,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Trampoline",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "تسديد فواتيرك عبر سداد يعطيك نقاط مكافأة!",
@@ -345,7 +357,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Sadad-gives-you-Mokafaa-loyalty-points-1",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "كول هان",
@@ -357,7 +369,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Cole-Haan",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "جيني",
@@ -366,10 +378,10 @@
     "expiry": "30/12/2026",
     "description": "الآن مكافأة تعطيك 4 نقاط لكل (1 ريال) لدى جيني باستخدام رقم الجوال الخاص بك والمسجل لدى برنامج مكافأة\r\n\r\nيسري العرض من 4 نوفمبر 2025 إلى 31 ديسمبر 202...",
     "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2025/Nov-2025/Jeeny/jeenyLogo.jpg?h=160&iar=0&w=380&hash=973E1B73E6253B9539BD71E83394E015",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Jeeny",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Jeeny-4",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "ماڤي",
@@ -381,7 +393,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Mavi",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "أميال فلاينق بلو",
@@ -393,7 +405,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Flying-Blue-miles",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "كميشيسِّما",
@@ -405,7 +417,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Camsicissima",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "زيميرلي",
@@ -417,7 +429,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Zimmerli",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "أستيري",
@@ -429,7 +441,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Asteri",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "أيرالو",
@@ -441,7 +453,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Airalo",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "سباركيز",
@@ -453,7 +465,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Sparkys",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "بترومين اكسبرس",
@@ -465,7 +477,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Petromin-Express",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "لومي",
@@ -477,7 +489,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Lumi-App",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "تطبيق جاهز",
@@ -489,7 +501,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/JAHEZ-App",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "نادي الإمتياز التابع للخطوط الجوية القطرية",
@@ -501,7 +513,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Qatar-Airways-Privilege-Club",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "تومارك",
@@ -513,7 +525,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Two-Mark",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "دليل ستور",
@@ -525,7 +537,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Daleel1",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "متاجر الشايع للساعات",
@@ -537,7 +549,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Alshaya-Watches-store",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "يلو",
@@ -549,7 +561,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Yelo",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "تطبيق حصيل",
@@ -561,7 +573,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Haseel",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "أسواق المزرعة",
@@ -573,7 +585,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/FARM-Supermarket",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "المفتاح لتأجير السيارات",
@@ -585,7 +597,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Key-Car-rental",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "نون",
@@ -597,7 +609,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/noon",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "المسافر",
@@ -609,7 +621,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Almosafer",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "بليمز",
@@ -621,7 +633,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Bleems",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "شاريول للساعات",
@@ -633,7 +645,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Charriol-for-Watches",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "زين",
@@ -645,7 +657,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Zain",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "نادي الخطوط الجوية البريطانية",
@@ -657,7 +669,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/British-Airways-Club",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "برايتلنج للساعات",
@@ -669,7 +681,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Breitling-for-Watches",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "الحصيني للساعات",
@@ -681,7 +693,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Alhussini-for-Watches",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "تطبيق ولاء ون",
@@ -693,7 +705,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/WalaOne",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "ون كارد",
@@ -705,7 +717,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/OneCard",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "اوميغا للساعات",
@@ -717,7 +729,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Omega-for-Watches",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "لونجين للساعات",
@@ -729,7 +741,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Longines-for-Watches",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "سعد الدين",
@@ -741,7 +753,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/SAADEDDIN-mokafaa",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "تطبيق سويتر",
@@ -753,7 +765,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Sweater-6",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "دليل",
@@ -765,7 +777,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Daleel",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "كيدز",
@@ -777,7 +789,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/qidz",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "متاجر الصنات للحقائب",
@@ -789,7 +801,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Al-Sannat-for-luggage",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "أيوا",
@@ -801,7 +813,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Eyewa-mokafaa",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "يو جت اجفت",
@@ -813,7 +825,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/YouGotaGift",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "فري ويل",
@@ -825,7 +837,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Mokafaa/Freywille",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "هيم سبا",
@@ -837,7 +849,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Health-and-Wellness/Him-Spa",
     "promo": "Raj30",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "حكيم عيون",
@@ -849,7 +861,19 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Health-and-Wellness/Hakeem-Oyoun",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "iHerb",
+    "discount": "40%",
+    "category": "الصحة",
+    "expiry": "19/08/2026",
+    "description": "استمتع بخصم حصري بنسبة 40% على تطبيق وموقع أيهيرب باستخدام بطاقتك.\r\n\r\nمن 18 حتى 20 أغسطس 2026 ",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/Feb-2026/iHerb/iHerb.jpg?h=160&iar=0&w=380&hash=DC96176B43C93818EC650E30E2EFCD13",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Health-and-Wellness/iHerb",
+    "promo": "40ARB",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "أكواريبيا",
@@ -861,7 +885,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Swar/Get-2-tickets-to-Aquarabia",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "1Pass",
@@ -873,7 +897,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Fashion-and-Cosmetics/1Pass",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "برينتمبس هوسمان",
@@ -885,7 +909,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Fashion-and-Cosmetics/Printemps-Haussmann",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "ان بار",
@@ -897,7 +921,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Fashion-and-Cosmetics/N-Bar",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "Artisrty",
@@ -909,7 +933,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Furniture-and-Home-Appliances/Artistry",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "ايريا 25",
@@ -921,7 +945,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Furniture-and-Home-Appliances/Area25",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "A2S",
@@ -933,7 +957,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Furniture-and-Home-Appliances/A2S",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "Sazar",
@@ -945,7 +969,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Furniture-and-Home-Appliances/Sazar",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "أجزاء للصناعة",
@@ -957,7 +981,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Furniture-and-Home-Appliances/Ajzaa",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "صن رول",
@@ -969,187 +993,19 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Furniture-and-Home-Appliances/Sun-Roll",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
-    "store": "منتجع رويال لازور",
-    "discount": "15%",
-    "category": "السفر والترفيه",
-    "expiry": "31/01/2027",
-    "description": "استمتع بخصم حتى 15% لدى منتجع رويال لازور\r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 01 فبراير 2026 حتى 01 فبراير 2027",
-    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/Feb-2026/LAZURE/LAZURE.jpg?h=160&iar=0&w=380&hash=35934CC22F4FCF3FC28FEFA84C1E35C2",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/LAZURE",
-    "promo": "ARB26",
-    "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
-  },
-  {
-    "store": "فندق المناخة روتانا المدينة",
-    "discount": "20%",
-    "category": "السفر والترفيه",
-    "expiry": "10/04/2027",
-    "description": "استمتع بخصم حتى 20%  لدى فندق المناخة روتانا المدينة\r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 12 ابريل 2026 الى 11 ابريل 2027 ",
-    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/April-2026/1920x960-01-(2).jpg?h=960&iar=0&w=1920&hash=13BD5725694F9448D2A5F343236EAFB5",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Al-Manakha-Rotana-Al-Madinah",
-    "promo": "",
-    "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
-  },
-  {
-    "store": "GigSky",
-    "discount": "30%",
-    "category": "السفر والترفيه",
-    "expiry": "12/04/2027",
-    "description": "مع بطاقات مصرف الراجحي الائتمانية ومسبقة الدفع\r\nابقَ على اتصال أينما كانت وجهتك مع شريحة eSIM المجانية من GigSky، واستمتع بخدمة إنترنت مجانية فور وصول...",
-    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/July2026/web/logo-01-(33).jpg?h=160&iar=0&w=380&hash=8619B3CF873A646DE1388558622AC756",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/GigSky",
-    "promo": "",
-    "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
-  },
-  {
-    "store": "دارينت",
-    "discount": "15%",
-    "category": "السفر والترفيه",
-    "expiry": "30/03/2027",
-    "description": "خصم يصل إلى 15% لعملاء مصرف الراجحي في دارينت\r\n\r\nيقدّم مصرف الراجحي بالتعاون مع دارينت تجربة حجز مميزة داخل المملكة، مع خصومات حصرية على مجموعة واسعة ...",
-    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/April-2026/Darent/Darent.png?h=160&iar=0&w=380&hash=7A93CBD3044F82B6754F0A529F1AAC18",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Darent",
-    "promo": "",
-    "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
-  },
-  {
-    "store": "Grab Transport",
-    "discount": "",
-    "category": "السفر والترفيه",
-    "expiry": "30/12/2026",
-    "description": "وفر حتى 80 بات تايلاندي لكل مشوار عند استخدام تطبيق Grab Transport في سفرك لتايلند.\r\nمع بطاقات مصرف الراجحي الائتمانية ومسبقة الدفع\r\n\r\nيسري العرض حتى ...",
-    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/May-2026/logo-01-(13).jpg?h=160&iar=0&w=380&hash=398618956102A74C081C63AF9C9259B7",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Grab-Transport",
-    "promo": "",
-    "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
-  },
-  {
-    "store": "عطلات السعودية",
+    "store": "Trip.com",
     "discount": "10%",
     "category": "السفر والترفيه",
-    "expiry": "14/08/2026",
-    "description": "استمتع بخصم حتى 10% مع عطلات السعودية\r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 2 الى 15 اغسطس ",
-    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/August/web/logo-01-(35).jpg?h=160&iar=0&w=380&hash=EAE62B9A8AD815FD8AA67DBB385A3280",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/SAUDIA-Holidays",
-    "promo": "ARB10",
+    "expiry": "30/08/2026",
+    "description": "استمتع بخصم حتى 10% لدى Trip.com\r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 14 الى 31اغسطس",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2025/jan/logo-trip.jpg?h=160&iar=0&w=380&hash=7A8F5522E1B76DDCC52E1286E926B7BD",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/TripCom",
+    "promo": "ARBH,  ARBF",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
-  },
-  {
-    "store": "المطار",
-    "discount": "10%",
-    "category": "السفر والترفيه",
-    "expiry": "30/12/2026",
-    "description": "استمتع بخصم حتى 10% لدى تطبيق المطار\r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 1 مايو إلى 31 ديسمبر 2026 ",
-    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2025/Dec-2025/almatar/almatar.jpg?h=160&iar=0&w=380&hash=7E8D6256EF713E010BF441E8C211FE8D",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/almatar",
-    "promo": "",
-    "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
-  },
-  {
-    "store": "متحف المستقبل",
-    "discount": "",
-    "category": "السفر والترفيه",
-    "expiry": "30/11/2027",
-    "description": "خصم 10٪ على تذاكر الدخول العامة مع وصول مضمون، وخصم 10٪ على تذاكر الرواد في متحف المستقبل.\r\nمع بطاقات مصرف الراجحي\r\n\r\nالعرض ساري من 1 ديسمبر 2025 حتى ...",
-    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2025/Dec-2025/Visa/MuseumLogo.jpg?h=160&iar=0&w=380&hash=D5DD571BD074286527944A0A8E0B33CB",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Museum-of-the-Future",
-    "promo": "",
-    "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
-  },
-  {
-    "store": "انتركونتيننتال",
-    "discount": "20%",
-    "category": "السفر والترفيه",
-    "expiry": "30/12/2026",
-    "description": "استمتع بخصم حتى 20% لدى فندق الأحساء انتركونتيننتال \r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 02 أبريل الى 31 ديسمبر 2026 ",
-    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/April-2026/1920x960-01-(1).jpg?h=960&iar=0&w=1920&hash=A4F575CCA756F8D1A2FA0A54E17F7645",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Al-Ahsa-InterContinental",
-    "promo": "",
-    "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
-  },
-  {
-    "store": "فندق AW",
-    "discount": "15%",
-    "category": "السفر والترفيه",
-    "expiry": "12/10/2026",
-    "description": "استمتع بخصم 15% لدى فندق AW\r\n مع بطاقات مصرف الراجحي.",
-    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2025/Nov-2025/AW/AWlogo.jpg?h=160&iar=0&w=380&hash=8C62A6C86D22DD81D8A3C9783C5F54FE",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/AW-Hotel",
-    "promo": "",
-    "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
-  },
-  {
-    "store": "مدينة الثلج",
-    "discount": "20%",
-    "category": "السفر والترفيه",
-    "expiry": "13/05/2027",
-    "description": "استمتع بخصم 20% على التذكرة الثانية  \r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 28 يونيو 2026 حتى مايو 14 2027",
-    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2024/seb/logo-03Snow-City.jpg?h=160&iar=0&w=380&hash=1FF710A869FBBACEA146F1A62B834C5B",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Snow-City",
-    "promo": "",
-    "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
-  },
-  {
-    "store": "MakeMyTrip",
-    "discount": "15%",
-    "category": "السفر والترفيه",
-    "expiry": "15/05/2027",
-    "description": "استمتع بخصومات حصرية على حجوزات السفر مع MakeMyTrip\r\nاحجز رحلتك القادمة باستخدام بطاقات مصرف الراجحي واستفد من خصومات حصرية على حجوزات الفنادق وتذاكر ...",
-    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/June-2026/web/make-my-trip-logo.jpg?h=160&iar=0&w=360&hash=86CD55088723FC0432274A6AC3F48907",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/MakeMyTrip",
-    "promo": "ARBMT",
-    "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
-  },
-  {
-    "store": "فندق كريستال أماكن",
-    "discount": "15%",
-    "category": "السفر والترفيه",
-    "expiry": "29/05/2027",
-    "description": "استمتع بخصم 15% لدى فندق كريستال أماكن \r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 7 يونيو 2026 الى 30 مايو 2027 \r\n",
-    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/June-2026/web/logo-01-(19).jpg?h=160&iar=0&w=380&hash=8501752D74647756C7FBA793626338AA",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Cristal-Amaken-Hotel",
-    "promo": "",
-    "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
-  },
-  {
-    "store": "فندق مداريم الرياض",
-    "discount": "15%",
-    "category": "السفر والترفيه",
-    "expiry": "29/12/2026",
-    "description": "استمتع بخصم 15% لدى فندق مداريم الرياض\r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من يوليو 20 الى 30 ديسمبر 2026",
-    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/Feb-2026/ramadan/Logo/Ramadan/logo-22.jpg?h=160&iar=0&w=380&hash=2B7F543DE90D6F30C754E162D8C9DFD0",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Madareem-Hotel",
-    "promo": "ARB15",
-    "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
-  },
-  {
-    "store": "كراون بلازا الرياض التخصصي",
-    "discount": "25%",
-    "category": "السفر والترفيه",
-    "expiry": "30/12/2026",
-    "description": "استمتع بخصم حتى 25% لدى كراون بلازا الرياض التخصصي \r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 05 مايو الى 31 ديسمبر 2026",
-    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/May-2026/Crowne-Plaza-Riyadh/Crowne-Plaza-Riyadh.jpg?h=160&iar=0&w=380&hash=05C4077C624309B9AC1F5A5CF8CD302D",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Crowne-Plaza-Riyadh",
-    "promo": "",
-    "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "Air France",
@@ -1161,67 +1017,91 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Air-France",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
-    "store": "منتجع Six Senses",
-    "discount": "",
-    "category": "السفر والترفيه",
-    "expiry": "29/09/2026",
-    "description": "استمتع بليلة مجانية مع كل ليلة مدفوعة لدى منتجع Six Senses الكثبان الجنوبية البحر الأحمر\r\nمع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 1 يونيو وحتى 30 سبت...",
-    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/June-2026/Six-Senses/Six-Senses.jpg?h=160&iar=0&w=380&hash=B072078AFF21AAAB8F6793385B688EE7",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Six-Senses-Southern-Dunes",
-    "promo": "",
-    "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
-  },
-  {
-    "store": "إيسبوت",
+    "store": "انتركونتيننتال",
     "discount": "20%",
     "category": "السفر والترفيه",
-    "expiry": "13/05/2027",
-    "description": "استمتع بخصم 20% لدى ايسبوت \r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 28 يونيو 2026 حتى مايو 14 2027",
-    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2024/seb/logo-01Espot.jpg?h=160&iar=0&w=380&hash=27595E624B7429F47A2E9AC657A38E2C",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Espot",
+    "expiry": "30/12/2026",
+    "description": "استمتع بخصم حتى 20% لدى فندق الأحساء انتركونتيننتال \r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 02 أبريل الى 31 ديسمبر 2026 ",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/April-2026/1920x960-01-(1).jpg?h=960&iar=0&w=1920&hash=A4F575CCA756F8D1A2FA0A54E17F7645",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Al-Ahsa-InterContinental",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
-    "store": "فوكس سينما",
-    "discount": "",
-    "category": "السفر والترفيه",
-    "expiry": "14/04/2027",
-    "description": "اشتر تذكرة واحصل على الثانية مجاناً لدى فوكس سينما\r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 15 ابريل 2026 حتى 15 ابريل 2027 ",
-    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/April-2026/Vox/Vox.jpg?h=160&iar=0&w=380&hash=6B8A8711ACF23076A20380DDE056BBC6",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/VOX-CINEMAS1",
-    "promo": "",
-    "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
-  },
-  {
-    "store": "موفي سينما",
-    "discount": "",
-    "category": "السفر والترفيه",
-    "expiry": "14/04/2027",
-    "description": "اشتر تذكرة واحصل على الثانية مجانا لدى موفي سينما\r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 15 ابريل 2026 حتى 15 ابريل 2027",
-    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/April-2026/Muvi/Muvi.jpg?h=160&iar=0&w=380&hash=121A271D0ECCDADA12881C68588CE06D",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Muvi-CINEMAS",
-    "promo": "",
-    "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
-  },
-  {
-    "store": "My Town",
+    "store": "فندق المناخة روتانا المدينة",
     "discount": "20%",
     "category": "السفر والترفيه",
-    "expiry": "13/05/2027",
-    "description": "استمتع خصم 20% على التذكرة الثانية\r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 28 يونيو 2026 حتى مايو 14 2027\r\n",
-    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2024/Blue-week/LogoMy-Town.jpg?h=160&iar=0&w=380&hash=B24F83E2F33C12954C94C796591DBC73",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/My-Town",
+    "expiry": "10/04/2027",
+    "description": "استمتع بخصم حتى 20%  لدى فندق المناخة روتانا المدينة\r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 12 ابريل 2026 الى 11 ابريل 2027 ",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/April-2026/1920x960-01-(2).jpg?h=960&iar=0&w=1920&hash=13BD5725694F9448D2A5F343236EAFB5",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Al-Manakha-Rotana-Al-Madinah",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "المطار",
+    "discount": "10%",
+    "category": "السفر والترفيه",
+    "expiry": "30/12/2026",
+    "description": "استمتع بخصم حتى 10% لدى تطبيق المطار\r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 1 مايو إلى 31 ديسمبر 2026 ",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2025/Dec-2025/almatar/almatar.jpg?h=160&iar=0&w=380&hash=7E8D6256EF713E010BF441E8C211FE8D",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/almatar",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "فندق AW",
+    "discount": "15%",
+    "category": "السفر والترفيه",
+    "expiry": "12/10/2026",
+    "description": "استمتع بخصم 15% لدى فندق AW\r\n مع بطاقات مصرف الراجحي.",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2025/Nov-2025/AW/AWlogo.jpg?h=160&iar=0&w=380&hash=8C62A6C86D22DD81D8A3C9783C5F54FE",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/AW-Hotel",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "فندق كريستال أماكن",
+    "discount": "15%",
+    "category": "السفر والترفيه",
+    "expiry": "29/05/2027",
+    "description": "استمتع بخصم 15% لدى فندق كريستال أماكن \r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 7 يونيو 2026 الى 30 مايو 2027 \r\n",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/June-2026/web/logo-01-(19).jpg?h=160&iar=0&w=380&hash=8501752D74647756C7FBA793626338AA",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Cristal-Amaken-Hotel",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "كراون بلازا الرياض التخصصي",
+    "discount": "25%",
+    "category": "السفر والترفيه",
+    "expiry": "30/12/2026",
+    "description": "استمتع بخصم حتى 25% لدى كراون بلازا الرياض التخصصي \r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 05 مايو الى 31 ديسمبر 2026",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/May-2026/Crowne-Plaza-Riyadh/Crowne-Plaza-Riyadh.jpg?h=160&iar=0&w=380&hash=05C4077C624309B9AC1F5A5CF8CD302D",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Crowne-Plaza-Riyadh",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "دارينت",
+    "discount": "15%",
+    "category": "السفر والترفيه",
+    "expiry": "30/03/2027",
+    "description": "خصم يصل إلى 15% لعملاء مصرف الراجحي في دارينت\r\n\r\nيقدّم مصرف الراجحي بالتعاون مع دارينت تجربة حجز مميزة داخل المملكة، مع خصومات حصرية على مجموعة واسعة ...",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/April-2026/Darent/Darent.png?h=160&iar=0&w=380&hash=7A93CBD3044F82B6754F0A529F1AAC18",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Darent",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "تجربة برج إيفل المثالية في باريس",
@@ -1233,43 +1113,79 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Eiffel-tower-experience",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
-    "store": "اكستريم زون",
-    "discount": "",
+    "store": "إيسبوت",
+    "discount": "20%",
     "category": "السفر والترفيه",
     "expiry": "13/05/2027",
-    "description": "استمتع بخصم %20 لدى اكستريم زون \r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 28 يونيو 2026 حتى مايو 14 2027\r\n",
-    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/July2026/web/logo-06-(2).jpg?h=160&iar=0&w=380&hash=3525344F57FDCFB94640A6CD69D1FC11",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Xtreme-zone",
+    "description": "استمتع بخصم 20% لدى ايسبوت \r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 28 يونيو 2026 حتى مايو 14 2027",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2024/seb/logo-01Espot.jpg?h=160&iar=0&w=380&hash=27595E624B7429F47A2E9AC657A38E2C",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Espot",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
-    "store": "تخط طوابير الانتظار في متحف اللوفر باريس",
+    "store": "GigSky",
+    "discount": "30%",
+    "category": "السفر والترفيه",
+    "expiry": "12/04/2027",
+    "description": "مع بطاقات مصرف الراجحي الائتمانية ومسبقة الدفع\r\nابقَ على اتصال أينما كانت وجهتك مع شريحة eSIM المجانية من GigSky، واستمتع بخدمة إنترنت مجانية فور وصول...",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/July2026/web/logo-01-(33).jpg?h=160&iar=0&w=380&hash=8619B3CF873A646DE1388558622AC756",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/GigSky",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "Grab Transport",
     "discount": "",
     "category": "السفر والترفيه",
-    "expiry": "30/12/2028",
-    "description": "مع بطاقات مصرف الراجحي إنفينيت الائتمانية \r\nتخطَّ طوابير الانتظار في متحف اللوفر – باريس\r\n\r\nاستمتع بتجربة ثقافية استثنائية مع دخول سريع إلى متحف اللوف...",
-    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/July2026/web/logo-01-(26).jpg?h=160&iar=0&w=380&hash=90E28DE83C59EE65E43C64A8573889F1",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Musee-du-Louvre",
+    "expiry": "30/12/2026",
+    "description": "وفر حتى 80 بات تايلاندي لكل مشوار عند استخدام تطبيق Grab Transport في سفرك لتايلند.\r\nمع بطاقات مصرف الراجحي الائتمانية ومسبقة الدفع\r\n\r\nيسري العرض حتى ...",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/May-2026/logo-01-(13).jpg?h=160&iar=0&w=380&hash=398618956102A74C081C63AF9C9259B7",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Grab-Transport",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
-    "store": "الخطوط الجوية القطرية",
+    "store": "منتجع رويال لازور",
     "discount": "15%",
     "category": "السفر والترفيه",
-    "expiry": "30/03/2027",
-    "description": "استمتع بخصم يصل إلى 15% لدى الخطوط الجوية القطرية\r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 1 أبريل 2026 وحتى 31 مارس 2027",
-    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2024/Blue-week/Logo-44.jpg?h=160&iar=0&w=380&hash=35991B6E3DAAA103E6F0CB6F40666B15",
-    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Qatar-Airways",
-    "promo": "ARG15",
+    "expiry": "31/01/2027",
+    "description": "استمتع بخصم حتى 15% لدى منتجع رويال لازور\r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 01 فبراير 2026 حتى 01 فبراير 2027",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/Feb-2026/LAZURE/LAZURE.jpg?h=160&iar=0&w=380&hash=35934CC22F4FCF3FC28FEFA84C1E35C2",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/LAZURE",
+    "promo": "ARB26",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "فندق مداريم الرياض",
+    "discount": "15%",
+    "category": "السفر والترفيه",
+    "expiry": "29/12/2026",
+    "description": "استمتع بخصم 15% لدى فندق مداريم الرياض\r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من يوليو 20 الى 30 ديسمبر 2026",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/Feb-2026/ramadan/Logo/Ramadan/logo-22.jpg?h=160&iar=0&w=380&hash=2B7F543DE90D6F30C754E162D8C9DFD0",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Madareem-Hotel",
+    "promo": "ARB15",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "MakeMyTrip",
+    "discount": "15%",
+    "category": "السفر والترفيه",
+    "expiry": "15/05/2027",
+    "description": "استمتع بخصومات حصرية على حجوزات السفر مع MakeMyTrip\r\nاحجز رحلتك القادمة باستخدام بطاقات مصرف الراجحي واستفد من خصومات حصرية على حجوزات الفنادق وتذاكر ...",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/June-2026/web/make-my-trip-logo.jpg?h=160&iar=0&w=360&hash=86CD55088723FC0432274A6AC3F48907",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/MakeMyTrip",
+    "promo": "ARBMT",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "بطاقة Marriott Bonvoy الائتمانية",
@@ -1281,7 +1197,187 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Marriott-Bonvoy-Offer",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "تخط طوابير الانتظار في متحف اللوفر باريس",
+    "discount": "",
+    "category": "السفر والترفيه",
+    "expiry": "30/12/2028",
+    "description": "مع بطاقات مصرف الراجحي إنفينيت الائتمانية \r\nتخطَّ طوابير الانتظار في متحف اللوفر – باريس\r\n\r\nاستمتع بتجربة ثقافية استثنائية مع دخول سريع إلى متحف اللوف...",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/July2026/web/logo-01-(26).jpg?h=160&iar=0&w=380&hash=90E28DE83C59EE65E43C64A8573889F1",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Musee-du-Louvre",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "متحف المستقبل",
+    "discount": "",
+    "category": "السفر والترفيه",
+    "expiry": "30/11/2027",
+    "description": "خصم 10٪ على تذاكر الدخول العامة مع وصول مضمون، وخصم 10٪ على تذاكر الرواد في متحف المستقبل.\r\nمع بطاقات مصرف الراجحي\r\n\r\nالعرض ساري من 1 ديسمبر 2025 حتى ...",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2025/Dec-2025/Visa/MuseumLogo.jpg?h=160&iar=0&w=380&hash=D5DD571BD074286527944A0A8E0B33CB",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Museum-of-the-Future",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "موفي سينما",
+    "discount": "",
+    "category": "السفر والترفيه",
+    "expiry": "14/04/2027",
+    "description": "اشتر تذكرة واحصل على الثانية مجانا لدى موفي سينما\r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 15 ابريل 2026 حتى 15 ابريل 2027",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/April-2026/Muvi/Muvi.jpg?h=160&iar=0&w=380&hash=121A271D0ECCDADA12881C68588CE06D",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Muvi-CINEMAS",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "My Town",
+    "discount": "20%",
+    "category": "السفر والترفيه",
+    "expiry": "13/05/2027",
+    "description": "استمتع خصم 20% على التذكرة الثانية\r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 28 يونيو 2026 حتى مايو 14 2027\r\n",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2024/Blue-week/LogoMy-Town.jpg?h=160&iar=0&w=380&hash=B24F83E2F33C12954C94C796591DBC73",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/My-Town",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "الخطوط الجوية القطرية",
+    "discount": "15%",
+    "category": "السفر والترفيه",
+    "expiry": "30/03/2027",
+    "description": "استمتع بخصم يصل إلى 15% لدى الخطوط الجوية القطرية\r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 1 أبريل 2026 وحتى 31 مارس 2027",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2024/Blue-week/Logo-44.jpg?h=160&iar=0&w=380&hash=35991B6E3DAAA103E6F0CB6F40666B15",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Qatar-Airways",
+    "promo": "ARG15",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "سفوري و فابي لاند",
+    "discount": "",
+    "category": "السفر والترفيه",
+    "expiry": "13/05/2027",
+    "description": "استمتع بـخصم على جميع الألعاب الجماعية بقيمة 59 ريال يوم الأربعاء من كل أسبوع للعلامة التجارية سفوري و فابي لاند.\r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري ال...",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2024/seb/logo-02Saffori-Land.jpg?h=160&iar=0&w=380&hash=7BECC3700641E42ECB834FCAC0D9A196",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Saffori-and-Faby-Land",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "عطلات السعودية",
+    "discount": "10%",
+    "category": "السفر والترفيه",
+    "expiry": "14/08/2026",
+    "description": "استمتع بخصم حتى 10% مع عطلات السعودية\r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 2 الى 15 اغسطس ",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/August/web/logo-01-(35).jpg?h=160&iar=0&w=380&hash=EAE62B9A8AD815FD8AA67DBB385A3280",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/SAUDIA-Holidays",
+    "promo": "ARB10",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "منتجع Six Senses",
+    "discount": "",
+    "category": "السفر والترفيه",
+    "expiry": "29/09/2026",
+    "description": "استمتع بليلة مجانية مع كل ليلة مدفوعة لدى منتجع Six Senses الكثبان الجنوبية البحر الأحمر\r\nمع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 1 يونيو وحتى 30 سبت...",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/June-2026/Six-Senses/Six-Senses.jpg?h=160&iar=0&w=380&hash=B072078AFF21AAAB8F6793385B688EE7",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Six-Senses-Southern-Dunes",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "مدينة الثلج",
+    "discount": "20%",
+    "category": "السفر والترفيه",
+    "expiry": "13/05/2027",
+    "description": "استمتع بخصم 20% على التذكرة الثانية  \r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 28 يونيو 2026 حتى مايو 14 2027",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2024/seb/logo-03Snow-City.jpg?h=160&iar=0&w=380&hash=1FF710A869FBBACEA146F1A62B834C5B",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Snow-City",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "فوكس سينما",
+    "discount": "",
+    "category": "السفر والترفيه",
+    "expiry": "14/04/2027",
+    "description": "اشتر تذكرة واحصل على الثانية مجاناً لدى فوكس سينما\r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 15 ابريل 2026 حتى 15 ابريل 2027 ",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/April-2026/Vox/Vox.jpg?h=160&iar=0&w=380&hash=6B8A8711ACF23076A20380DDE056BBC6",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/VOX-CINEMAS1",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "في أر",
+    "discount": "20%",
+    "category": "السفر والترفيه",
+    "expiry": "13/05/2027",
+    "description": "استمتع بخصم 20% لدى في أر \r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 28 يونيو 2026 حتى مايو 14 2027\r\n",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2024/seb/1920x960-02Xtreme-VR.jpg?h=960&iar=0&w=1920&hash=9F0503EFCC616EDAE9A421FB86FC8FA1",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/VR",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "اكستريم كارتنج",
+    "discount": "20%",
+    "category": "السفر والترفيه",
+    "expiry": "13/05/2027",
+    "description": "استمتع بخصم 20% لدى اكستريم كارتينج\r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 28 يونيو 2026 حتى مايو 14 2027\r\n",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2024/seb/logo-07Xtream-Karting.jpg?h=160&iar=0&w=380&hash=4F2D1BFAF562FBF75166FD251D356429",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Xtream-Karting",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "اكستريم بولينج",
+    "discount": "20%",
+    "category": "السفر والترفيه",
+    "expiry": "13/05/2027",
+    "description": "استمتع بخصم 20% لدى اكستريم بولينج \r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 28 يونيو 2026 حتى مايو 14 2027\r\n",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2024/seb/logo-04Xtreme-Bowling.jpg?h=160&iar=0&w=380&hash=19DC13DA8B1990A363812782C75DF40F",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Xtreme-Bowling",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "اكستريم جمب",
+    "discount": "20%",
+    "category": "السفر والترفيه",
+    "expiry": "13/05/2027",
+    "description": "استمتع بخصم 20% لدى اكستريم جمب \r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 28 يونيو 2026 حتى مايو 14 2027",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2024/seb/logo-06Xtreme-Jump.jpg?h=160&iar=0&w=380&hash=CF1E2C8FBAA6115D33127E16DB76EAC7",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Xtreme-Jump",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "اكستريم زون",
+    "discount": "",
+    "category": "السفر والترفيه",
+    "expiry": "13/05/2027",
+    "description": "استمتع بخصم %20 لدى اكستريم زون \r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 28 يونيو 2026 حتى مايو 14 2027\r\n",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/July2026/web/logo-06-(2).jpg?h=160&iar=0&w=380&hash=3525344F57FDCFB94640A6CD69D1FC11",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Travel-and-Entertainment/Xtreme-zone",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "ستايلي",
@@ -1293,7 +1389,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Car-Services/Stily",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "الفلاح لتأجير السيارات",
@@ -1305,7 +1401,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Car-Services/Alfalah",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "لومي للإطارات",
@@ -1317,7 +1413,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Car-Services/Lumi-Tire",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "سن جارد",
@@ -1329,7 +1425,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Car-Services/Sun-Gard",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "هيكسا باور الفلاح",
@@ -1341,7 +1437,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Car-Services/Hexa-Power-Alfalah",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "زيوكس",
@@ -1353,7 +1449,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Car-Services/Xeoex",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "ديتاليواوتو",
@@ -1365,7 +1461,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Car-Services/dettaglioAuto",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "مسمار",
@@ -1377,7 +1473,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Car-Services/Mismar23",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "ترانسفاست",
@@ -1389,7 +1485,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Tahweel/Transfast",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "Mezan bank",
@@ -1401,7 +1497,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Tahweel/Mezan-bank",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "حول واربح مع عجلة تحويل",
@@ -1413,7 +1509,19 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Tahweel/tahweel-wheel",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:07"
+  },
+  {
+    "store": "حول للهند أو باكستان أو إندونيسيا واربح!",
+    "discount": "",
+    "category": "تحويل",
+    "expiry": "16/09/2026",
+    "description": "حول للهند او باكستان او اندونيسيا باستخدام تحويل الراجحي وادخل السحب على جوائز مالية\r\n\r\nيسري عرض باكستان 14 اغسطس إلى 14 سبتمبر 2026\r\nيسري عرض الهند 1...",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/August-2026/Tahweel/Artboard-2-copy-100-1.jpg?h=161&iar=0&w=381&hash=66359371A38BF0238140D99D3EE7F69C",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Tahweel/tahweel",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:07"
   },
   {
     "store": "الجميح",
@@ -1425,7 +1533,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Finance-offers/Al-Jomaih-Yukon",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:08"
   },
   {
     "store": "التمويل التأجيري",
@@ -1437,7 +1545,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Finance-offers/autolease",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:08"
   },
   {
     "store": "شركة الجفالي للسيارات",
@@ -1449,7 +1557,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Finance-offers/Juffali-Automotive",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:08"
   },
   {
     "store": "العيسائي للسيارات",
@@ -1461,7 +1569,19 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Finance-offers/Alesayi",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:08"
+  },
+  {
+    "store": "شركة محمد يوسف ناغي للسيارات",
+    "discount": "0%",
+    "category": "عروض التمويل",
+    "expiry": "30/08/2026",
+    "description": "عرض مصرف الراجحي على التمويل التأجيري لسيارات  BMW (320i)\r\n\r\nتأجير السيارات بتحويل الراتب \r\n-دفعة أولى 0%\r\n-رسوم إدارية 0%  \r\n-الدفعة الأخيرة تصل الى ...",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/Feb-2026/Finance/BMW.png?h=161&iar=0&w=381&hash=42AB913C9DDCD6D79935FB8BDC91D724",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Finance-offers/Naghi",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:08"
   },
   {
     "store": "محمد الحبيب العقارية",
@@ -1473,7 +1593,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Finance-offers/Eyal-Sadayem",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:08"
   },
   {
     "store": "شراء المديونية",
@@ -1485,7 +1605,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Finance-offers/Buyout",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:08"
   },
   {
     "store": "نجيب اوتو 50/50",
@@ -1497,7 +1617,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Finance-offers/Najeeb-Auto-50",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:08"
   },
   {
     "store": "سير الشرق للسيارات",
@@ -1509,7 +1629,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Finance-offers/Serre-Alsharq-Motors",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:08"
   },
   {
     "store": "التمويل التأجيري 50/50",
@@ -1521,7 +1641,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Finance-offers/autolease-50",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:08"
   },
   {
     "store": "نجيب اوتو",
@@ -1533,7 +1653,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Finance-offers/Najeeb-Auto",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:08"
   },
   {
     "store": "عبدالله هاشم",
@@ -1545,7 +1665,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Finance-offers/Abdullah-Hashim",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:08"
   },
   {
     "store": "25 سيارة فوق المليون",
@@ -1557,7 +1677,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Others/25-Cars-with-the-Million",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:08"
   },
   {
     "store": "التمويل العقاري",
@@ -1569,7 +1689,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Others/Mortgage-loans",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:08"
   },
   {
     "store": "استمتع بكاش باك على عمليات الشرائية الإلكترونية",
@@ -1581,7 +1701,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Others/25-cashback-on-Online-Shopping",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:08"
   },
   {
     "store": "حوّل راتبك إلى مصرف الراجحي",
@@ -1593,7 +1713,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Others/Salary-Transfer",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:08"
   },
   {
     "store": "سكيل كورت اكاديمي",
@@ -1605,7 +1725,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Others/Skill-Court-Academy",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:08"
   },
   {
     "store": "تأمين السفر",
@@ -1617,7 +1737,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Others/Travel-Insurance",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:08"
   },
   {
     "store": "كاش باك على مقاضيك",
@@ -1629,7 +1749,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Others/Cashback-on-your-groceries",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:08"
   },
   {
     "store": "تساهيل",
@@ -1641,7 +1761,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Others/Tasaheal",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:08"
   },
   {
     "store": "كليات الخليج",
@@ -1653,7 +1773,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Others/Gulf-edu",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:08"
   },
   {
     "store": "فلوروز",
@@ -1665,7 +1785,19 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Others/Florose",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:08"
+  },
+  {
+    "store": "جوائز فلاي ناس ضمن عجلة حساب المليون",
+    "discount": "",
+    "category": "اخرى",
+    "expiry": "14/08/2026",
+    "description": "ادخر في حساب المليون ولف العجلة لفرصة الفوز بأميال ناسمايلز تصل الى 100 ألف في موقع طيران ناس.",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/about-alrajhi-bank/offers/Deals-and-discounts/2022/Nov-2022/Flynas/Flynas_logo.png?h=160&iar=0&w=360&hash=408A203F10C91FD1F192DFD436D092A7",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Others/flynas-Prizes",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:08"
   },
   {
     "store": "مدارس التعلم ثنائي اللغة",
@@ -1677,7 +1809,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Others/Bilingual-Learning-School",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:08"
   },
   {
     "store": "مدارس التعلم النموذجية الأهلية",
@@ -1689,7 +1821,19 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Others/Learning-School",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:11"
+    "_updated": "2026-08-14 04:08"
+  },
+  {
+    "store": "SYS",
+    "discount": "22%",
+    "category": "اخرى",
+    "expiry": "17/08/2026",
+    "description": "استمتع بخصم 22% لدى SYS \r\n مع بطاقات مصرف الراجحي.\r\n\r\nيسري العرض من 12 الى 18  اغسطس",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/August/web/380x260-copy-5.jpg?h=261&iar=0&w=381&hash=F0EA60EF5D13FA68B7F22BD36A63A628",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Others/SYS",
+    "promo": "ARB",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:08"
   },
   {
     "store": "بيت التحميص",
@@ -1701,7 +1845,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Roasting-House",
     "promo": "ARB20",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "باقات الأعمال للعملاء الحاليين",
@@ -1713,7 +1857,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Business-Finance/SME-existing",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "قولدن سنت",
@@ -1725,7 +1869,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Golden-Scent",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "دار الاميرات",
@@ -1737,7 +1881,19 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Dar-Alamirat",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
+  },
+  {
+    "store": "أنفق واربح",
+    "discount": "",
+    "category": "ARBRevamp",
+    "expiry": "13/11/2026",
+    "description": "اجعل كل عملية إنفاق لأعمالك أكثر قيمة مع بطاقات أعمال مصرف الراجحي.\r\n\r\nيمكن للعملاء الحاليين والجدد من حاملي بطاقة الأعمال الائتمانية وبطاقة الأعمال م...",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlRajhi/ARBRevamp/Offers/New-Offers/arb-media-center.png?h=256&iar=0&w=454&hash=E39E204E136DDEF4E1119252D7B5EAAC",
+    "link": "https://www.alrajhibank.com.sa/Business/Offers/Business-Finance/Chance-to-win-a-Land-Rover-Defender",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "51Talk",
@@ -1749,7 +1905,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/51Talk",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "سمارت",
@@ -1761,7 +1917,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Smart",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "مكعب",
@@ -1773,7 +1929,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Mokab",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "أبجد",
@@ -1785,7 +1941,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Abjjad",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "كيبلينج",
@@ -1797,7 +1953,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Kipling",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "تانيا",
@@ -1809,7 +1965,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Tania",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "بيرين",
@@ -1821,7 +1977,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Berain",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "مجموعة شاكر",
@@ -1833,7 +1989,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Shaker",
     "promo": "ARB10",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "مريول لارا",
@@ -1845,7 +2001,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Maryool-Lara",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "توم فورد",
@@ -1857,7 +2013,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Tom-Ford",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "نايكي",
@@ -1869,7 +2025,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Nike",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "مي ستور",
@@ -1881,7 +2037,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/MeStore",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "دسار",
@@ -1893,7 +2049,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Desar",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "توري بورش",
@@ -1905,7 +2061,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Tory-Burch",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "كالفن كلاين",
@@ -1917,7 +2073,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Calvin-Klein",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "هوكا",
@@ -1929,7 +2085,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Hoka",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "ليفايز",
@@ -1941,7 +2097,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Levis",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "مهارة",
@@ -1953,7 +2109,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Maharah",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "تومي هيلفيغر",
@@ -1965,7 +2121,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Tommy-Hilfiger",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "فاب",
@@ -1977,7 +2133,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/FAB",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "عالم سوني",
@@ -1989,7 +2145,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Sony-world",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "الضمانات الابتدائية",
@@ -2001,7 +2157,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Business-Finance/Bid-bond",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "إل جي",
@@ -2013,7 +2169,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/LG",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "كليان",
@@ -2025,7 +2181,19 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Kilian",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
+  },
+  {
+    "store": "هواوي",
+    "discount": "",
+    "category": "ARBRevamp",
+    "expiry": "30/08/2026",
+    "description": "اطلب جهاز HUAWEI Pura 90s  واحصل على هدية سماعة (Freebuds) مجانية.\r\n\r\nيسري العرض من 09 اغسطس حتى 31 اغسطس 2026",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/Feb-2026/Huawei/Huawei-logo.png?h=160&iar=0&w=380&hash=A4582AEC2DBF918759415AB6A650A63D",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Electronics/HUAWEI-Pura-90",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "تاسومة",
@@ -2037,7 +2205,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Tasooma",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "انترناشونال هاوس",
@@ -2049,7 +2217,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/International-House",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "نارس",
@@ -2061,7 +2229,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/NARS",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "دايسون",
@@ -2073,7 +2241,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Dyson",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "دلسي",
@@ -2085,7 +2253,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Delsey",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "وجوه",
@@ -2097,7 +2265,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Faces",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "سامسونج",
@@ -2109,7 +2277,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Samsung",
     "promo": "ARB26",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "ايستباك",
@@ -2121,7 +2289,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Eastpak",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "معرض الورد الذهبي للسيارات",
@@ -2133,7 +2301,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Business-Finance/ALWARD-ALDAHABI-for-Trucks-Company",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "فوغاكلوسيت",
@@ -2145,7 +2313,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/VogaCloset",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "بطاقة الأعمال مسبقة الدفع",
@@ -2157,7 +2325,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Business-Finance/Business-Prepaid-Card",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "كلاركس",
@@ -2169,7 +2337,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Clarks",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "ممزورلد",
@@ -2181,7 +2349,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Mumzworld",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "سواروفيسكي",
@@ -2193,7 +2361,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Swarovski",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "مايكل كورس",
@@ -2205,7 +2373,19 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Michael-Kors",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
+  },
+  {
+    "store": "نون MINUTES",
+    "discount": "30 %",
+    "category": "ARBRevamp",
+    "expiry": "29/08/2026",
+    "description": "مع بطاقات مصرف الراجحي الائتمانية..\r\n30 % خصم إضافي عند الشراء بقيمة 50 ريال وأكثر لدى نون MINUTES.\r\n\r\nيسري من 26   وحتى 30 أغسطس 2026. \r\n",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2024/Blue-week/Logo-131.jpg?h=160&iar=0&w=380&hash=20D46AC36F61753CA79C36337AA8B56E",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/noon-MINUTES",
+    "promo": "ARB30",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "سيار",
@@ -2217,7 +2397,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Sayyar",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Lacost",
@@ -2229,7 +2409,31 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Lacost",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
+  },
+  {
+    "store": "AliExpress",
+    "discount": "",
+    "category": "ARBRevamp",
+    "expiry": "20/08/2026",
+    "description": "أحصل على خصم 100 ريال عند الشراء بقيمة 400 ريال أو أكثر لدى تطبيق والموقع AliExpress الإلكتروني\r\n\r\nمن 17 وحتى 21 اغسطس 2026 \r\n",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2026/Feb-2026/Aliexpress/Aliexpress.jpg?h=160&iar=0&w=380&hash=124E8CB19E5941628F78B3C29173BAB9",
+    "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/AliExpress",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:09"
+  },
+  {
+    "store": "اكسترا",
+    "discount": "20%",
+    "category": "ARBRevamp",
+    "expiry": "28/08/2026",
+    "description": "20% خصم إضافي وحصري على مشترياتك لدى اكسترا \r\nمع بطاقات مصرف الراجحي الائتمانية ومسبقة الدفع للأعمال...\r\n \r\n\r\nيسري العرض من 25 إلى 29 أغسطس 2026\r\n",
+    "img": "https://www.alrajhibank.com.sa/-/media/Project/AlrajhiPWS/Shared/Home/Personal/Offers/2025/E-Com-Logos/L-01.jpg?h=160&iar=0&w=380&hash=917880A5D2D32338B335B4963CFE2F69",
+    "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/eXtra",
+    "promo": "",
+    "_bank": "rajhi",
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "الشمس والرمال للرياضة",
@@ -2241,7 +2445,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Back-To-School/Sun-and-Sand",
     "promo": "ARB",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "أميال الفرسان",
@@ -2253,7 +2457,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Summer-offers/AlFursan-Miles",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "0% هامش ربح ورسوم مع تساهيل",
@@ -2265,7 +2469,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Summer-offers/Tasaheal",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "رحلات نقل مجانية",
@@ -2277,7 +2481,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Summer-offers/international-ride-hailing",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "British Council",
@@ -2289,7 +2493,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/British-Council",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "اربح الذهب مع بطاقة سفر بلس!",
@@ -2301,7 +2505,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Summer-offers/Win-Gold-with-the-Travel-Plus-Card",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "استرداد نقدي على مشترياتك الدولية",
@@ -2313,7 +2517,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Summer-offers/10-cashback",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Trello by Holograph",
@@ -2325,7 +2529,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Trello-by-Holograph",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "GetYourGuide",
@@ -2337,7 +2541,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/GetYourGuide",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Google Ads by Quick Digital",
@@ -2349,7 +2553,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Google-Ads-by-Quick-Digital",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "ProfitBooks",
@@ -2361,7 +2565,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/ProfitBooks",
     "promo": "PBVISACEMEA30",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "X Ads by Quick Digital",
@@ -2373,7 +2577,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/X-Ads-by-Quick-Digital",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "الفرص",
@@ -2385,7 +2589,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Opportunity-Network",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Microsoft Azure by Holograph",
@@ -2397,7 +2601,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Microsoft-Azure-by-Holograph",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "SiteLock",
@@ -2409,7 +2613,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/SiteLock",
     "promo": "PVSL5",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "SocialPilot",
@@ -2421,7 +2625,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/SocialPilot",
     "promo": "VISACEMEA25",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Sanebox",
@@ -2433,7 +2637,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Sanebox",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Sprinto",
@@ -2445,7 +2649,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Sprinto",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Network Solutions",
@@ -2457,7 +2661,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Network-Solutions",
     "promo": "NEW30",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "pdfFiller",
@@ -2469,7 +2673,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/pdfFiller",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "بوت سبيس",
@@ -2481,7 +2685,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/BotSpace",
     "promo": "VISACEMEA50",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "ريجوس",
@@ -2493,7 +2697,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Regus",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "EngageBay",
@@ -2505,7 +2709,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/EngageBay",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "SignNow",
@@ -2517,7 +2721,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/SignNow",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "CodeGuard",
@@ -2529,7 +2733,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/CodeGuard",
     "promo": "PVCG5",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "فياتور",
@@ -2541,7 +2745,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Viator",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Crazy Domains",
@@ -2553,7 +2757,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Crazy-Domains",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "إكسوتيل",
@@ -2565,7 +2769,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Exotel",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Cflow",
@@ -2577,7 +2781,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Cflow",
     "promo": "CFLOW20VISA /CFLOW15VISA / CFLOW10VISA ",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Spaces",
@@ -2589,7 +2793,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Spaces",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Mailchimp by Refresh Ideas",
@@ -2601,7 +2805,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Mailchimp-by-Refresh-Ideas",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Noraya Furniture",
@@ -2613,7 +2817,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Noraya-Furniture",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Meta Ads by Quick Digital",
@@ -2625,7 +2829,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Meta-Ads-by-Quick-Digital",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Infobip",
@@ -2637,7 +2841,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Infobip",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "AirHelp",
@@ -2649,7 +2853,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/AirHelp",
     "promo": "VISA10",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Trafft",
@@ -2661,7 +2865,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Trafft",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Microsoft 365 by Holograph",
@@ -2673,7 +2877,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Microsoft-365-by-Holograph",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "مجلة هارفارد بزنس ريفيو",
@@ -2685,7 +2889,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Harvard-Business-Review",
     "promo": "RZPHBR20",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "GrabJobs",
@@ -2697,7 +2901,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/GrabJobs",
     "promo": "VISA60CEMEA",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "LinkedIn Ads by Quick Digital",
@@ -2709,7 +2913,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/LinkedIn-Ads-by-Quick-Digital",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "SkyRoam",
@@ -2721,7 +2925,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Skyroam",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Seventh Triangle (Shopify)",
@@ -2733,7 +2937,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Seventh-Triangle-Shopify",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Google Workspace by Holograph",
@@ -2745,7 +2949,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Google-Workspace-by-Holograph",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Adobe Acrobat by Holograph",
@@ -2757,7 +2961,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/AWS-via-Holograph",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "PandaDoc",
@@ -2769,7 +2973,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/PandaDoc",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Asset ICT",
@@ -2781,7 +2985,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Asset-ICT",
     "promo": "MANGRHBX854M",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Freedom",
@@ -2793,7 +2997,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Freedom",
     "promo": "VISA30",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "DocHub",
@@ -2805,7 +3009,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/DocHub",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "فالكون كلاود",
@@ -2817,7 +3021,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Falconcloud",
     "promo": "VISA_CEMEA",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "10% استرداد نقدي",
@@ -2829,7 +3033,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Summer-offers/10Percent-cashback",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "edX",
@@ -2841,7 +3045,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/edX",
     "promo": "VISA15",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Airalo",
@@ -2853,7 +3057,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Summer-offers/Airalo",
     "promo": "ARB20",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Future Learn",
@@ -2865,7 +3069,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Future-Learn",
     "promo": "FUTURELEARN20",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "GetSmarter",
@@ -2877,7 +3081,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/GetSmarter",
     "promo": "2UESGSVISA15",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "Google Cloud",
@@ -2889,7 +3093,7 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/Google-Cloud",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "احصل على نقاط مكافأة مضاعفة في سفرتك القادمة",
@@ -2901,7 +3105,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Summer-offers/Earn-Double-Mokafaa-Points",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "مليون نقطة مكافأة",
@@ -2913,7 +3117,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Summer-offers/mokafaa-lucky-draw",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "5% كاش باك",
@@ -2925,7 +3129,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Summer-offers/5-cashback",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "استرداد نقدي",
@@ -2937,7 +3141,7 @@
     "link": "https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers/Summer-offers/Cashback",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   },
   {
     "store": "ResellerClub",
@@ -2949,6 +3153,6 @@
     "link": "https://www.alrajhibank.com.sa/Business/Offers/Vissa-Offers/ResellerClub",
     "promo": "",
     "_bank": "rajhi",
-    "_updated": "2026-08-13 04:12"
+    "_updated": "2026-08-14 04:09"
   }
 ]
