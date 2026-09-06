@@ -9,7 +9,7 @@
     "link": "https://www.alahli.com/ar/dining-offers/coya",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:54"
+    "_updated": "2026-09-06 07:05"
   },
   {
     "store": "بيف بار",
@@ -21,7 +21,7 @@
     "link": "https://www.alahli.com/ar/dining-offers/beefbar",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:54"
+    "_updated": "2026-09-06 07:05"
   },
   {
     "store": "Kyazo By Myazu",
@@ -33,7 +33,7 @@
     "link": "https://www.alahli.com/ar/dining-offers/kayzo",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:54"
+    "_updated": "2026-09-06 07:05"
   },
   {
     "store": "Urth Caffe",
@@ -45,139 +45,7 @@
     "link": "https://www.alahli.com/ar/dining-offers/urth-caffe",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:54"
-  },
-  {
-    "store": "Agio",
-    "discount": "20%",
-    "category": "محلي",
-    "expiry": "19 يوليو 2027",
-    "description": "استمتع بخصم 20% من \" Agio\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/agio.jpg?h=500&iar=0&w=500&hash=03D92AC92F57E8D7F22DE5631F5FBDC4",
-    "link": "https://www.alahli.com/ar/dining-offers/agio",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:54"
-  },
-  {
-    "store": "JBR Perk - Ramada Hotel & Suites By Wyndham UAE",
-    "discount": "15%",
-    "category": "دولي",
-    "expiry": "31 ديسمبر 2026",
-    "description": "استمتع بخصم 15% في الإمارات من \"JBR Perk - Ramada Hotel & Suites By Wyndham\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/jbrdperk.png?h=220&iar=0&w=356&hash=D89AFD5C2ACB3549C89600B59453BE85",
-    "link": "https://www.alahli.com/ar/dining-offers/jbr-perk-ramada-hotel-uae",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:54"
-  },
-  {
-    "store": "Chicago Pizza UAE",
-    "discount": "10%",
-    "category": "دولي",
-    "expiry": "31 ديسمبر 2026",
-    "description": "استمتع بخصم 10% في الإمارات من \"Chicago Pizza\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/chicago.png?h=220&iar=0&w=356&hash=8C5BA1DE2832DF5BD5FD204265B821C5",
-    "link": "https://www.alahli.com/ar/dining-offers/chicago-pizza-uae",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:55"
-  },
-  {
-    "store": "Ginger Leaf - Jeddah Hilton",
-    "discount": "15%",
-    "category": "محلي",
-    "expiry": "31 ديسمبر 2026",
-    "description": "استمتع بخصم 15% من \"Ginger Leaf - Jeddah Hilton\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/ginger-leaf.png?h=220&iar=0&w=356&hash=0DB0F50F56E2C5F1091F8CBC51006F1F",
-    "link": "https://www.alahli.com/ar/dining-offers/ginger-leaf-jeddah-hilton",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:55"
-  },
-  {
-    "store": "Flavours Of India - Ramada Hotel & Suites UAE",
-    "discount": "",
-    "category": "دولي",
-    "expiry": "31 ديسمبر 2026",
-    "description": "",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/flavours-uae.png?h=220&iar=0&w=356&hash=FEAB3AF85AA7053433B42A866B04F67D",
-    "link": "https://www.alahli.com/ar/dining-offers/flavours-of-india-ramada-hotel-uae",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:55"
-  },
-  {
-    "store": "Crazy Pizza",
-    "discount": "20%",
-    "category": "محلي",
-    "expiry": "19 يوليو 2027",
-    "description": "استمتع بخصم 20% لدى مطعم \" Crazy Pizza \" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/crazy-pizza.jpg?h=500&iar=0&w=500&hash=61E9C980A67828BE03E9F7F91A83CAED",
-    "link": "https://www.alahli.com/ar/dining-offers/crazy-pizza",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:55"
-  },
-  {
-    "store": "Moksh Restaurant & Lounge",
-    "discount": "15%",
-    "category": "دولي",
-    "expiry": "31 ديسمبر 2026",
-    "description": "استمتع بخصم 15% من \"Moksh Restaurant & Lounge\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/moksh.png?h=220&iar=0&w=356&hash=7C0D46F03E00E269513C65F895B88311",
-    "link": "https://www.alahli.com/ar/dining-offers/moksh",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:55"
-  },
-  {
-    "store": "Freddy’s UAE",
-    "discount": "10%",
-    "category": "دولي",
-    "expiry": "31 ديسمبر 2026",
-    "description": "استمتع بخصم 10% في الإمارات من \"Freddy’s\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/freddys.png?h=220&iar=0&w=356&hash=ECA1EB3E76662C8C2993EC484E3867CB",
-    "link": "https://www.alahli.com/ar/dining-offers/freddys-uae",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:55"
-  },
-  {
-    "store": "Farsi Restaurant UAE",
-    "discount": "15%",
-    "category": "دولي",
-    "expiry": "31 ديسمبر 2026",
-    "description": "استمتع بخصم 15% من \" Farsi Restaurant\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/2024dec/farsi.png?h=220&iar=0&w=356&hash=F78589D33A84812FF8EEC03EC00B4BFC",
-    "link": "https://www.alahli.com/ar/dining-offers/farsi-restaurant-uae",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:55"
-  },
-  {
-    "store": "Fortune Cafe UAE",
-    "discount": "15%",
-    "category": "دولي",
-    "expiry": "31 ديسمبر 2026",
-    "description": "استمتع بخصم 15% في الإمارات من \"Fortune Cafe\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/fortune.png?h=220&iar=0&w=356&hash=38C607BD17226CEFFBDE37EDE827D4AF",
-    "link": "https://www.alahli.com/ar/dining-offers/fortune-cafe-uae",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:55"
-  },
-  {
-    "store": "Aromi - Waldorf Astoria",
-    "discount": "15%",
-    "category": "محلي",
-    "expiry": "19 يوليو 2027",
-    "description": "استمتع بخصم 15% من \"Aromi - Waldorf Astoria\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/aromi.png?h=220&iar=0&w=356&hash=4CDEE52FFEC931BFAC302E994711650C",
-    "link": "https://www.alahli.com/ar/dining-offers/aromi-waldorf-astoria",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:55"
+    "_updated": "2026-09-06 07:05"
   },
   {
     "store": "Lahore Darbar Restaurant UAE",
@@ -189,7 +57,7 @@
     "link": "https://www.alahli.com/ar/dining-offers/lahore-darbar-uae",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:55"
+    "_updated": "2026-09-06 07:05"
   },
   {
     "store": "MYAZU",
@@ -201,19 +69,19 @@
     "link": "https://www.alahli.com/ar/dining-offers/myazu",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:55"
+    "_updated": "2026-09-06 07:05"
   },
   {
-    "store": "Fez - Movenpick Restaurant",
-    "discount": "15%",
+    "store": "Agio",
+    "discount": "20%",
     "category": "محلي",
     "expiry": "19 يوليو 2027",
-    "description": "استمتع بخصم 15% لدى مطعم \"Fez\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/promotions/dining-program/movenpick.png?h=220&iar=0&w=356&hash=A6370139BF75D34F610628B7733F3620",
-    "link": "https://www.alahli.com/ar/dining-offers/fez-movenpick-restaurant",
+    "description": "استمتع بخصم 20% من \" Agio\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/agio.jpg?h=500&iar=0&w=500&hash=03D92AC92F57E8D7F22DE5631F5FBDC4",
+    "link": "https://www.alahli.com/ar/dining-offers/agio",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:55"
+    "_updated": "2026-09-06 07:05"
   },
   {
     "store": "Nalan Restaurant",
@@ -225,19 +93,19 @@
     "link": "https://www.alahli.com/ar/dining-offers/nalan",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:55"
+    "_updated": "2026-09-06 07:05"
   },
   {
-    "store": "L'auberge Palace Restaurant",
+    "store": "JBR Perk - Ramada Hotel & Suites By Wyndham UAE",
     "discount": "15%",
     "category": "دولي",
     "expiry": "31 ديسمبر 2026",
-    "description": "استمتع بخصم 15% من \"L'auberge Palace Restaurant\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/lauberge.png?h=220&iar=0&w=356&hash=54C6120AEB889403D33CE87F0D27214B",
-    "link": "https://www.alahli.com/ar/dining-offers/lauberge",
+    "description": "استمتع بخصم 15% في الإمارات من \"JBR Perk - Ramada Hotel & Suites By Wyndham\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/jbrdperk.png?h=220&iar=0&w=356&hash=D89AFD5C2ACB3549C89600B59453BE85",
+    "link": "https://www.alahli.com/ar/dining-offers/jbr-perk-ramada-hotel-uae",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:55"
+    "_updated": "2026-09-06 07:05"
   },
   {
     "store": "Cafe Vienna Plaza - Jeddah Hilton",
@@ -249,19 +117,19 @@
     "link": "https://www.alahli.com/ar/dining-offers/cafe-vienna-plaza-jeddah-hilton",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:55"
+    "_updated": "2026-09-06 07:05"
   },
   {
-    "store": "Signor Sassi",
-    "discount": "20%",
-    "category": "محلي",
-    "expiry": "19 يوليو 2027",
-    "description": "استمتع بخصم 20% من \" Signor Sassi\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/signor-sassi-riyadh.jpg?h=500&iar=0&w=500&hash=97BF2311AF2059B9B8C1A5EB18BD825F",
-    "link": "https://www.alahli.com/ar/dining-offers/signor-sassi",
+    "store": "Chicago Pizza UAE",
+    "discount": "10%",
+    "category": "دولي",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم 10% في الإمارات من \"Chicago Pizza\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/chicago.png?h=220&iar=0&w=356&hash=8C5BA1DE2832DF5BD5FD204265B821C5",
+    "link": "https://www.alahli.com/ar/dining-offers/chicago-pizza-uae",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:55"
+    "_updated": "2026-09-06 07:05"
   },
   {
     "store": "Robata",
@@ -273,55 +141,139 @@
     "link": "https://www.alahli.com/ar/dining-offers/robata",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:55"
+    "_updated": "2026-09-06 07:05"
   },
   {
-    "store": "نوى باتيو",
-    "discount": "10%",
+    "store": "Ginger Leaf - Jeddah Hilton",
+    "discount": "15%",
     "category": "محلي",
-    "expiry": "31 مايو 2027",
-    "description": "استمتع بخصم 10% من مطعم “نوى باتيو\" عند استخدام بطاقات SNB الائتمانية من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/2026/nawa.png?h=220&iar=0&w=356&hash=CC042DAD5DC76164182D30EF9AE92DA5",
-    "link": "https://www.alahli.com/ar/dining-offers/nawa-patio",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم 15% من \"Ginger Leaf - Jeddah Hilton\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/ginger-leaf.png?h=220&iar=0&w=356&hash=0DB0F50F56E2C5F1091F8CBC51006F1F",
+    "link": "https://www.alahli.com/ar/dining-offers/ginger-leaf-jeddah-hilton",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:55"
+    "_updated": "2026-09-06 07:06"
   },
   {
-    "store": "Fig & Leaf",
+    "store": "Flavours Of India - Ramada Hotel & Suites UAE",
+    "discount": "",
+    "category": "دولي",
+    "expiry": "31 ديسمبر 2026",
+    "description": "",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/flavours-uae.png?h=220&iar=0&w=356&hash=FEAB3AF85AA7053433B42A866B04F67D",
+    "link": "https://www.alahli.com/ar/dining-offers/flavours-of-india-ramada-hotel-uae",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:06"
+  },
+  {
+    "store": "Fez - Movenpick Restaurant",
+    "discount": "15%",
+    "category": "محلي",
+    "expiry": "19 يوليو 2027",
+    "description": "استمتع بخصم 15% لدى مطعم \"Fez\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/promotions/dining-program/movenpick.png?h=220&iar=0&w=356&hash=A6370139BF75D34F610628B7733F3620",
+    "link": "https://www.alahli.com/ar/dining-offers/fez-movenpick-restaurant",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:06"
+  },
+  {
+    "store": "Crazy Pizza",
     "discount": "20%",
     "category": "محلي",
-    "expiry": "31 مايو 2027",
-    "description": "استمتع بخصم 20% من مطعم “Fig & Leaf\" باستخدام بطاقات SNB الائتمانية",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/2025/05/742-snb-logos-04.jpg?h=220&iar=0&w=356&hash=81C1A3E790372D8C3971DA11C7A1F61B",
-    "link": "https://www.alahli.com/ar/dining-offers/fig-leaf",
+    "expiry": "19 يوليو 2027",
+    "description": "استمتع بخصم 20% لدى مطعم \" Crazy Pizza \" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/crazy-pizza.jpg?h=500&iar=0&w=500&hash=61E9C980A67828BE03E9F7F91A83CAED",
+    "link": "https://www.alahli.com/ar/dining-offers/crazy-pizza",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:55"
+    "_updated": "2026-09-06 07:06"
   },
   {
-    "store": "Le Petit Pontoise",
-    "discount": "",
+    "store": "L'auberge Palace Restaurant",
+    "discount": "15%",
     "category": "دولي",
-    "expiry": "31 مايو 2027",
-    "description": "استمتع بحلى مجاني من مطعم “Le Petit Pontoise\" باستخدام بطاقات SNB الائتمانية من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/le-petit-pontoise.jpg?h=220&iar=0&w=356&hash=BF838D54DB51175E8DC80F6AEF18473D",
-    "link": "https://www.alahli.com/ar/dining-offers/le-petit-pontoise",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم 15% من \"L'auberge Palace Restaurant\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/lauberge.png?h=220&iar=0&w=356&hash=54C6120AEB889403D33CE87F0D27214B",
+    "link": "https://www.alahli.com/ar/dining-offers/lauberge",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:55"
+    "_updated": "2026-09-06 07:06"
   },
   {
-    "store": "Ambassade d'Auvergne",
-    "discount": "",
+    "store": "Freddy’s UAE",
+    "discount": "10%",
     "category": "دولي",
-    "expiry": "31 مايو 2027",
-    "description": "استمتع بحلى مجاني من مطعم ”Ambassade d’Auvergne\" باستخدام بطاقات SNB الائتمانية من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/ambassade-dauvergne.jpg?h=220&iar=0&w=356&hash=5785825721D04A5276309B526A73595A",
-    "link": "https://www.alahli.com/ar/dining-offers/ambassade-dauvergne-paris",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم 10% في الإمارات من \"Freddy’s\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/freddys.png?h=220&iar=0&w=356&hash=ECA1EB3E76662C8C2993EC484E3867CB",
+    "link": "https://www.alahli.com/ar/dining-offers/freddys-uae",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:55"
+    "_updated": "2026-09-06 07:06"
+  },
+  {
+    "store": "Signor Sassi",
+    "discount": "20%",
+    "category": "محلي",
+    "expiry": "19 يوليو 2027",
+    "description": "استمتع بخصم 20% من \" Signor Sassi\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/signor-sassi-riyadh.jpg?h=500&iar=0&w=500&hash=97BF2311AF2059B9B8C1A5EB18BD825F",
+    "link": "https://www.alahli.com/ar/dining-offers/signor-sassi",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:06"
+  },
+  {
+    "store": "Moksh Restaurant & Lounge",
+    "discount": "15%",
+    "category": "دولي",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم 15% من \"Moksh Restaurant & Lounge\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/moksh.png?h=220&iar=0&w=356&hash=7C0D46F03E00E269513C65F895B88311",
+    "link": "https://www.alahli.com/ar/dining-offers/moksh",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:06"
+  },
+  {
+    "store": "Fortune Cafe UAE",
+    "discount": "15%",
+    "category": "دولي",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم 15% في الإمارات من \"Fortune Cafe\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/fortune.png?h=220&iar=0&w=356&hash=38C607BD17226CEFFBDE37EDE827D4AF",
+    "link": "https://www.alahli.com/ar/dining-offers/fortune-cafe-uae",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:06"
+  },
+  {
+    "store": "Farsi Restaurant UAE",
+    "discount": "15%",
+    "category": "دولي",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم 15% من \" Farsi Restaurant\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/2024dec/farsi.png?h=220&iar=0&w=356&hash=F78589D33A84812FF8EEC03EC00B4BFC",
+    "link": "https://www.alahli.com/ar/dining-offers/farsi-restaurant-uae",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:06"
+  },
+  {
+    "store": "Aromi - Waldorf Astoria",
+    "discount": "15%",
+    "category": "محلي",
+    "expiry": "19 يوليو 2027",
+    "description": "استمتع بخصم 15% من \"Aromi - Waldorf Astoria\" باستخدام بطاقات البنك الأهلي السعودي الائتمانية",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/dalilak/aromi.png?h=220&iar=0&w=356&hash=4CDEE52FFEC931BFAC302E994711650C",
+    "link": "https://www.alahli.com/ar/dining-offers/aromi-waldorf-astoria",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:06"
   },
   {
     "store": "سان كارلو شكيتي",
@@ -333,7 +285,7 @@
     "link": "https://www.alahli.com/ar/dining-offers/san-carlo-cicchetti",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:55"
+    "_updated": "2026-09-06 07:06"
   },
   {
     "store": "مجموعة الفردان",
@@ -345,19 +297,7 @@
     "link": "https://www.alahli.com/ar/offers/al-fardan",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
-  },
-  {
-    "store": "مجموعة فنادق إيواء",
-    "discount": "25%",
-    "category": "عروض الفنادق",
-    "expiry": "6 أبريل 2026",
-    "description": "استمتع بخصم 25% من مجموعة فنادق إيواء لعملاء إيليت و 20% لعملاء الوسام البلاتيني",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/05/ewaa-hotel-logo.png?h=310&iar=0&w=300&hash=5133DF25A7B56E9DA14B8EB141473078",
-    "link": "https://www.alahli.com/ar/offers/ewaa-hotels-group",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "مجوهرات فارسي",
@@ -369,7 +309,19 @@
     "link": "https://www.alahli.com/ar/offers/al-farsi-jewelry-wessam",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
+  },
+  {
+    "store": "مجموعة فنادق إيواء",
+    "discount": "25%",
+    "category": "عروض الفنادق",
+    "expiry": "6 أبريل 2026",
+    "description": "استمتع بخصم 25% من مجموعة فنادق إيواء لعملاء إيليت و 20% لعملاء الوسام البلاتيني",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/05/ewaa-hotel-logo.png?h=310&iar=0&w=300&hash=5133DF25A7B56E9DA14B8EB141473078",
+    "link": "https://www.alahli.com/ar/offers/ewaa-hotels-group",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "Suites and Horizon Club Suites* at selected Shangri-La hotels and resorts",
@@ -381,7 +333,7 @@
     "link": "https://www.alahli.com/ar/offers/shangri-la-hotels-and-resorts",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "فندق أنانتارا داون تاون دبي",
@@ -393,7 +345,7 @@
     "link": "https://www.alahli.com/ar/offers/anantara-downtown-dubai-hotel",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "Grand Hyatt Barcelona",
@@ -405,7 +357,7 @@
     "link": "https://www.alahli.com/ar/offers/grand-hyatt-barcelona",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "هنقرستيشن",
@@ -417,7 +369,7 @@
     "link": "https://www.alahli.com/ar/offers/hungerstation-new",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "وي كيب",
@@ -429,7 +381,7 @@
     "link": "https://www.alahli.com/ar/offers/wheekeep",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "IHG",
@@ -441,7 +393,7 @@
     "link": "https://www.alahli.com/ar/offers/ihg",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "فندق فوكو الرياض",
@@ -453,7 +405,7 @@
     "link": "https://www.alahli.com/ar/offers/voco-riyadh",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "درايف7",
@@ -465,7 +417,7 @@
     "link": "https://www.alahli.com/ar/offers/drive7",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "سالا ليزر تاغ",
@@ -477,7 +429,7 @@
     "link": "https://www.alahli.com/ar/offers/sala-lasertag",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "سالا سيتي",
@@ -489,31 +441,7 @@
     "link": "https://www.alahli.com/ar/offers/sala-city",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
-  },
-  {
-    "store": "Luxury Istanbul Yacht",
-    "discount": "10%",
-    "category": "عروض السفر",
-    "expiry": "18 مارس 2027",
-    "description": "استمتع بخصم 10% من  Luxury Istanbul Yachtعند استخدام بطاقات SNB من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/06/luxury-istanbul.png?h=220&iar=0&w=356&hash=05A97482D834AE7A92C076717199C321",
-    "link": "https://www.alahli.com/ar/offers/luxury-istanbul-yacht",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
-  },
-  {
-    "store": "The Untitled Project",
-    "discount": "10%",
-    "category": "Fashion",
-    "expiry": "31 ديسمبر 2026",
-    "description": "استمتع بخصم 10% من The Untitled Project عند استخدام بطاقات SNB من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/06/untitled-project.png?h=220&iar=0&w=356&hash=0DC6D92675BFD34E34431E2BA613EF68",
-    "link": "https://www.alahli.com/ar/offers/the-untitled-project",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "مجوهرات مصلي",
@@ -525,19 +453,7 @@
     "link": "https://www.alahli.com/ar/offers/musalli-jewelry",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
-  },
-  {
-    "store": "أوشن سبا",
-    "discount": "20%",
-    "category": "صحة",
-    "expiry": "1 فبراير 2027",
-    "description": "استمتع بخصم 20% من أوشن سبا داخل الفروع عند استخدام بطاقة لك أو بطاقات SNB الائتمانية ومدى من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2025/ocean-spa-logo.jpg?h=220&iar=0&w=350&hash=E975E941F3D74C2D71D2E28EBC884FB3",
-    "link": "https://www.alahli.com/ar/offers/ocean-spa",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "الدرع العربي للتأمين",
@@ -549,7 +465,19 @@
     "link": "https://www.alahli.com/ar/offers/arabian-shield-insurance",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
+  },
+  {
+    "store": "أوشن سبا",
+    "discount": "20%",
+    "category": "صحة",
+    "expiry": "1 فبراير 2027",
+    "description": "استمتع بخصم 20% من أوشن سبا داخل الفروع عند استخدام بطاقة لك أو بطاقات SNB الائتمانية ومدى من ماستركارد",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2025/ocean-spa-logo.jpg?h=220&iar=0&w=350&hash=E975E941F3D74C2D71D2E28EBC884FB3",
+    "link": "https://www.alahli.com/ar/offers/ocean-spa",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "مركز سجام لطب الأسنان",
@@ -561,7 +489,7 @@
     "link": "https://www.alahli.com/ar/offers/sijam-dental-center",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "شركة أول واحد لتأجير السيارات",
@@ -573,7 +501,7 @@
     "link": "https://www.alahli.com/ar/offers/first-one",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "شركة ماكوين للسياحة والسفر",
@@ -585,7 +513,7 @@
     "link": "https://www.alahli.com/ar/offers/macqueen-elite-offer",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "يلا هايك",
@@ -597,7 +525,7 @@
     "link": "https://www.alahli.com/ar/offers/yalla-hike",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "المليوري",
@@ -609,7 +537,7 @@
     "link": "https://www.alahli.com/ar/offers/il-migliore",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "GLAM MODA",
@@ -621,7 +549,7 @@
     "link": "https://www.alahli.com/ar/offers/glam-moda",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "بيتونيا",
@@ -633,7 +561,7 @@
     "link": "https://www.alahli.com/ar/offers/baytonia",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "بيت الشاورما",
@@ -645,7 +573,7 @@
     "link": "https://www.alahli.com/ar/offers/shawarma-house",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "موتا كافيه",
@@ -657,7 +585,7 @@
     "link": "https://www.alahli.com/ar/offers/mutas-cafe",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "Amazon Prime Offer",
@@ -669,7 +597,7 @@
     "link": "https://www.alahli.com/ar/offers/amazon-prime-offer",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "Vogacloset",
@@ -681,43 +609,7 @@
     "link": "https://www.alahli.com/ar/offers/vogaclosest",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
-  },
-  {
-    "store": "VIA Mon",
-    "discount": "15%",
-    "category": "التسوق",
-    "expiry": "31 ديسمبر 2026",
-    "description": "استمتع بخصم 15% من VIA Mon عند استخدام بطاقات SNB الائتمانية ومدى من ماستركارد باستخدام الرمز الترويجي SNB15",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/02/via-mon.png?h=220&iar=0&w=356&hash=71956BAD8BEC5A10DBFC9CC8A995C154",
-    "link": "https://www.alahli.com/ar/offers/via-mon",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
-  },
-  {
-    "store": "يلو لتأجير السيارات",
-    "discount": "10%",
-    "category": "تأجير السيارات",
-    "expiry": "1 مايو 2027",
-    "description": "خصم 10% من يلو لتأجير السيارات عند استخدام بطاقات SNB",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2025/07/iyelo-logo.png?h=220&iar=0&w=356&hash=216422BCF0E62E266531A81294DAA480",
-    "link": "https://www.alahli.com/ar/offers/yelo",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
-  },
-  {
-    "store": "كوفا",
-    "discount": "10%",
-    "category": "مطاعم",
-    "expiry": "31 يناير 2027",
-    "description": "استمتع بخصم 10% في فروع كوفا عند استخدام بطاقة لك أو بطاقات SNB الائتمانية ومدى من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/03/cova.png?h=310&iar=0&w=300&hash=7F51BB1AE988864E77EF58EBDD38A76A",
-    "link": "https://www.alahli.com/ar/offers/cova",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:56"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "Amani Boutique",
@@ -729,7 +621,79 @@
     "link": "https://www.alahli.com/ar/offers/amani-boutique",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:57"
+    "_updated": "2026-09-06 07:07"
+  },
+  {
+    "store": "يلو لتأجير السيارات",
+    "discount": "10%",
+    "category": "تأجير السيارات",
+    "expiry": "1 مايو 2027",
+    "description": "خصم 10% من يلو لتأجير السيارات عند استخدام بطاقات SNB",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2025/07/iyelo-logo.png?h=220&iar=0&w=356&hash=216422BCF0E62E266531A81294DAA480",
+    "link": "https://www.alahli.com/ar/offers/yelo",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:07"
+  },
+  {
+    "store": "VIA Mon",
+    "discount": "15%",
+    "category": "التسوق",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم 15% من VIA Mon عند استخدام بطاقات SNB الائتمانية ومدى من ماستركارد باستخدام الرمز الترويجي SNB15",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/02/via-mon.png?h=220&iar=0&w=356&hash=71956BAD8BEC5A10DBFC9CC8A995C154",
+    "link": "https://www.alahli.com/ar/offers/via-mon",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:07"
+  },
+  {
+    "store": "كوفا",
+    "discount": "10%",
+    "category": "مطاعم",
+    "expiry": "31 يناير 2027",
+    "description": "استمتع بخصم 10% في فروع كوفا عند استخدام بطاقة لك أو بطاقات SNB الائتمانية ومدى من ماستركارد",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/03/cova.png?h=310&iar=0&w=300&hash=7F51BB1AE988864E77EF58EBDD38A76A",
+    "link": "https://www.alahli.com/ar/offers/cova",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:07"
+  },
+  {
+    "store": "Luxury Istanbul Yacht",
+    "discount": "10%",
+    "category": "عروض السفر",
+    "expiry": "18 مارس 2027",
+    "description": "استمتع بخصم 10% من  Luxury Istanbul Yachtعند استخدام بطاقات SNB من ماستركارد",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/06/luxury-istanbul.png?h=220&iar=0&w=356&hash=05A97482D834AE7A92C076717199C321",
+    "link": "https://www.alahli.com/ar/offers/luxury-istanbul-yacht",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:07"
+  },
+  {
+    "store": "The Untitled Project",
+    "discount": "10%",
+    "category": "Fashion",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم 10% من The Untitled Project عند استخدام بطاقات SNB من ماستركارد",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/06/untitled-project.png?h=220&iar=0&w=356&hash=0DC6D92675BFD34E34431E2BA613EF68",
+    "link": "https://www.alahli.com/ar/offers/the-untitled-project",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:07"
+  },
+  {
+    "store": "نوى باتيو",
+    "discount": "20%",
+    "category": "مطاعم",
+    "expiry": "11 فبراير 2027",
+    "description": "استمتع بخصم 20% من فروع نوى باتيو عند استخدام بطاقات  SNB من ماستركارد",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/03/nawa.png?h=311&iar=0&w=301&hash=8DA624F18664C142763EA7F9D425C3E5",
+    "link": "https://www.alahli.com/ar/offers/nawa-patio",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "مطعم عثمانلي",
@@ -741,7 +705,7 @@
     "link": "https://www.alahli.com/ar/offers/osmanly",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:57"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "فلاي إن",
@@ -753,355 +717,7 @@
     "link": "https://www.alahli.com/ar/offers/flyin",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:57"
-  },
-  {
-    "store": "لالو إسطنبول",
-    "discount": "15%",
-    "category": "مطاعم",
-    "expiry": "30 مارس 2027",
-    "description": "استمتع بخصم 15% في مطعم لالو إسطنبول عند استخدام بطاقات SNB من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/03/lalou.png?h=220&iar=0&w=356&hash=7B01E29FE65AEF1C0FA59EFC2BF57282",
-    "link": "https://www.alahli.com/ar/offers/lalou",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:57"
-  },
-  {
-    "store": "Lucky Fish",
-    "discount": "12%",
-    "category": "دولي",
-    "expiry": "31 ديسمبر 2026",
-    "description": "استمتع بخصم 12% على إجمالي الفاتورة في مطعم Lucky Fish عند استخدام بطاقات SNB من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/lucky-fish.png?h=220&iar=0&w=356&hash=A7E6E97FA0F33C5AA8468FB93BBEE4DC",
-    "link": "https://www.alahli.com/ar/offers/lucky-fish",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:57"
-  },
-  {
-    "store": "Tashas",
-    "discount": "10%",
-    "category": "مطاعم",
-    "expiry": "1 يناير 2027",
-    "description": "استمتع بخصم 10% من  Tashasعند استخدام بطاقات SNB الائتمانية من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/tashas.png?h=220&iar=0&w=356&hash=F8F4421A21DCE5AF410B6A69D1B82A07",
-    "link": "https://www.alahli.com/ar/offers/tashas",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:57"
-  },
-  {
-    "store": "Ferns N Petals",
-    "discount": "18%",
-    "category": "التسوق",
-    "expiry": "31 ديسمبر 2026",
-    "description": "استمتع بخصم 18% في متاجر إف ان بي  عند الدفع ببطاقات SNB  الائتمانية، بطاقات مدى، أو بطاقات \"لك\" من ماستركارد.",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2025/08/ferns-n-petals.png?h=220&iar=0&w=356&hash=56D28F744F76D099062632EAC5C92C7D",
-    "link": "https://www.alahli.com/ar/offers/ferns-n-petals",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:57"
-  },
-  {
-    "store": "VIP Car Rental",
-    "discount": "30%",
-    "category": "تأجير السيارات",
-    "expiry": "14 أبريل 2027",
-    "description": "لعملاء إيليت والوسام البلاتيني خصم 30% من شركة VIP Car Rental عند استخدام بطاقات SNB الائتمانية ومدى أو لك من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2025/07/vip-logo.png?h=220&iar=0&w=356&hash=E23FA83C466A2B2231CC3D4B078E3C2D",
-    "link": "https://www.alahli.com/ar/offers/vip-car-rental",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:57"
-  },
-  {
-    "store": "ISIM Egypt",
-    "discount": "10%",
-    "category": "عروض السفر",
-    "expiry": "1 يناير 2027",
-    "description": "استمتع بخصم 10% من ISIM Egypt على جميع الفئات عند استخدام بطاقات SNB من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/isim-egypt.png?h=220&iar=0&w=356&hash=6A81E74112829F922953D755EE33DE22",
-    "link": "https://www.alahli.com/ar/offers/isim-egypt",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:57"
-  },
-  {
-    "store": "مدارس الحمراء المميزة العالمية",
-    "discount": "30%",
-    "category": "Education",
-    "expiry": "10 يونيو 2027",
-    "description": "استمتع بخصم 30% من مدارس الحمراء المميزة العالمية لعملاء إيليت والوسام البلاتيني.",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/al-hamra-international-schools.png?h=220&iar=0&w=356&hash=ECD3A5F25E940DBBE552B7DA8C2687D7",
-    "link": "https://www.alahli.com/ar/offers/al-hamra-international-schools",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:57"
-  },
-  {
-    "store": "Bob's Famous",
-    "discount": "20%",
-    "category": "Leisure",
-    "expiry": "11 سبتمبر 2026",
-    "description": "استمتع بخصم 20% من  Bob’s Famousعند استخدام بطاقات SNB من ماستركارد استخدم الرمز الترويجي: SNB20",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/bobs.png?h=220&iar=0&w=356&hash=2C3ED22B78C903DBB9B03D387B3077F0",
-    "link": "https://www.alahli.com/ar/offers/bobs-famous",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:57"
-  },
-  {
-    "store": "مختارات زيد",
-    "discount": "20%",
-    "category": "مطاعم",
-    "expiry": "1 نوفمبر 2026",
-    "description": "استمتع بخصم 20% من مختارات زيد عند استخدام بطاقات SNB من ماستركارد (بطاقة لك أو بطاقات SNB الائتمانية ومدى من ماستركارد)",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/03/collection-of-zaid.png?h=220&iar=0&w=356&hash=DC90832B023271C14A4030A8B9D7788D",
-    "link": "https://www.alahli.com/ar/offers/collection-of-zaid",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:57"
-  },
-  {
-    "store": "فنادق فاسبند",
-    "discount": "10%",
-    "category": "عروض الفنادق",
-    "expiry": "",
-    "description": "عرض حصري من فنادق فاسبند! استمتع بخصم 10% على أسعار الغرف عند الدفع باستخدام بطاقات SNB من ماستركارد. احجز الآن واستفد من هذا العرض المميز لإقامة فاخر...",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/fassbind-1.png?h=220&iar=0&w=356&hash=34F46643BE1534ADF1D551D7EBDD1D3B",
-    "link": "https://www.alahli.com/ar/offers/fassbind-hotels",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:57"
-  },
-  {
-    "store": "مطعم  قصة مصرية",
-    "discount": "12%",
-    "category": "مطاعم",
-    "expiry": "21 أكتوبر 2026",
-    "description": "استمتع بخصم 12% لدى مطعم  قصة مصرية  عند الدفع باستخدام بطاقات  SNB من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/egyption-story.png?h=220&iar=0&w=356&hash=8D6600AA5A152385DB70D792F6388471",
-    "link": "https://www.alahli.com/ar/offers/egyptian-story",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:57"
-  },
-  {
-    "store": "الكسائي",
-    "discount": "20%",
-    "category": "Fashion",
-    "expiry": "25 يونيو 2027",
-    "description": "استمتع بخصم 20% لدى الكسائي لعملاء إيليت والوسام البلاتيني، حاملي بطاقات مدى والبطاقات الائتمانية وبطاقة لك.",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/alkessaey.png?h=220&iar=0&w=356&hash=A58DA832F5854F60A81B25C1222757DC",
-    "link": "https://www.alahli.com/ar/offers/alkessaey",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:57"
-  },
-  {
-    "store": "لومار",
-    "discount": "35%",
-    "category": "Fashion",
-    "expiry": "25 يوليو 2027",
-    "description": "استمتع بخصم 35% لعملاء إيليت والوسام البلاتيني , حاملي بطاقة مدى أو البطاقة الائتمانية وبطاقة لك.",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/lomar.png?h=220&iar=0&w=356&hash=9EA668630FB50E05ECDE38DE61B73DEF",
-    "link": "https://www.alahli.com/ar/offers/lomar",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:57"
-  },
-  {
-    "store": "الفاخرة للخياطة الرجالية",
-    "discount": "25%",
-    "category": "Fashion",
-    "expiry": "17 يونيو 2027",
-    "description": "لعملاء إيليت والوسام البلاتيني تسوق بخصم 25% من الفاخرة للخياطة الرجالية",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/alfakhera.png?h=220&iar=0&w=356&hash=86EC329E6DCB5F74A1008C6FE13119E3",
-    "link": "https://www.alahli.com/ar/offers/alfakhira",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:57"
-  },
-  {
-    "store": "Virgin Connect Roam Travel eSIM",
-    "discount": "20%",
-    "category": "عروض",
-    "expiry": "31 ديسمبر 2026",
-    "description": "استمتع بخصم 20% من Virgin Connect Roam عند استخدام بطاقات SNB الائتمانية من ماستركارد خدمة الشريحة الإلكترونية للسفر",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/virgin.png?h=220&iar=0&w=356&hash=B2931D674DB80CC84BDC419F28E3C577",
-    "link": "https://www.alahli.com/ar/offers/virgin-connect-roam-travel-esim",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:57"
-  },
-  {
-    "store": "العبيكان للنشر",
-    "discount": "20%",
-    "category": "عروض",
-    "expiry": "19 يوليو 2027",
-    "description": "استمتع بخصم 20% لدى العبيكان للنشر عند استخدام بطاقة SNB من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/obeikan.png?h=310&iar=0&w=300&hash=49C5D223FFAB4CCACCFE581C1242281D",
-    "link": "https://www.alahli.com/ar/offers/obeikan",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:57"
-  },
-  {
-    "store": "مكتبة عبد الوهاب مرزا",
-    "discount": "15%",
-    "category": "التسوق",
-    "expiry": "20 يوليو 2027",
-    "description": "استمتع بخصم 15% من مكتبة عبدالوهاب مرزا  عند استخدام بطاقات SNB من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2025/08/mirza-library.png?h=220&iar=0&w=356&hash=8039D6A3B7E9965F0A35EB71D7B88CF7",
-    "link": "https://www.alahli.com/ar/offers/mirza",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:57"
-  },
-  {
-    "store": "مدرسة Aldenham School - Riyadh",
-    "discount": "52%",
-    "category": "Education",
-    "expiry": "20 نوفمبر 2026",
-    "description": "استمتع بعرض حصري من مدرسة Aldenham School, Riyadh واحصل على خصم 52% على رسوم التسجيل عند الدفع باستخدام بطاقات SNB من ماستركارد سجّل أبناءك الآن وادفع...",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/08/aldenham-school.png?h=221&iar=0&w=357&hash=42B63EA5B331196A27350DD02A0F0764",
-    "link": "https://www.alahli.com/ar/offers/aldenham-school",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:57"
-  },
-  {
-    "store": "كيدزانيا",
-    "discount": "15%",
-    "category": "ترفيه",
-    "expiry": "31 ديسمبر 2026",
-    "description": "استمتع بخصم 15% من KidZania عند استخدام بطاقات SNB الائتمانية من ماستركارد استخدم الرمز: MC26",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/08/kidzania.png?h=221&iar=0&w=356&hash=2751B9EC20FCA0B28DB147C37EC84E93",
-    "link": "https://www.alahli.com/ar/offers/kidzania",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:57"
-  },
-  {
-    "store": "الشمس والرمال للرياضة",
-    "discount": "",
-    "category": "التسوق",
-    "expiry": "31 ديسمبر 2026",
-    "description": "استمتع بخصم يصل إلى %20 من الشمس والرمال للرياضة عند استخدام بطاقات SNB من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/sun-and-sand-sports.png?h=310&iar=0&w=300&hash=E39E75138450B3B3B9C5EC464FB0568D",
-    "link": "https://www.alahli.com/ar/offers/sun-and-sand-sports-2",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:57"
-  },
-  {
-    "store": "مكتبة البوادي",
-    "discount": "10%",
-    "category": "التسوق",
-    "expiry": "23 يوليو 2027",
-    "description": "استمتع بخصم 10% من مكتبة البوادي عند استخدام بطاقات SNB من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/08/al-bawadi-library.png?h=221&iar=0&w=357&hash=9EA23F91D458D6F2D22FAA4F80C3C55B",
-    "link": "https://www.alahli.com/ar/offers/al-bawadi-library",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:58"
-  },
-  {
-    "store": "ستايلي",
-    "discount": "30%",
-    "category": "Fashion",
-    "expiry": "25 سبتمبر 2026",
-    "description": "استمتع بخصم 30% من ستايلي عند استخدام بطاقات SNB الائتمانية و لك من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2025/07/styli.png?h=220&iar=0&w=357&hash=891B01D0024DE4845B6566CBBD5BF9CB",
-    "link": "https://www.alahli.com/ar/offers/styli",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:58"
-  },
-  {
-    "store": "Farfetch",
-    "discount": "20%",
-    "category": "التسوق",
-    "expiry": "8 سبتمبر 2026",
-    "description": "استمتع بخصم 20% من \" Farfetch \" باستخدام بطاقات SNB الائتمانية و لك من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2025/08/farfetch.png?h=220&iar=0&w=356&hash=1AA172B8C1B9EE957B75002330B0A465",
-    "link": "https://www.alahli.com/ar/offers/farfetch",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:58"
-  },
-  {
-    "store": "رد تاغ",
-    "discount": "15%",
-    "category": "Fashion",
-    "expiry": "3 نوفمبر 2026",
-    "description": "استمتع بخصم 15% من ريد تاغ عند استخدام بطاقات SNB من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2024/11/redtag.png?h=220&iar=0&w=356&hash=FFCA4CEADC718EED1E7ECAEBCE726BFE",
-    "link": "https://www.alahli.com/ar/offers/redtag",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:58"
-  },
-  {
-    "store": "واحة المعرفة",
-    "discount": "10%",
-    "category": "عروض",
-    "expiry": "22 يوليو 2027",
-    "description": "استمتع بخصم 10% من واحة المعرفة عند استخدام بطاقات SNB  من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/08/waha.png?h=221&iar=0&w=357&hash=3221E7E524B0A287A5BAC0E7E8CE9B28",
-    "link": "https://www.alahli.com/ar/offers/waha-al-mareefa",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:58"
-  },
-  {
-    "store": "قولدن سنت",
-    "discount": "10%",
-    "category": "عروض",
-    "expiry": "31 ديسمبر 2026",
-    "description": "استمتع بخصم 10% من \" قولدن سنت\" باستخدام بطاقات SNB",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/golden-scent.png?h=220&iar=0&w=365&hash=2D95BDABB0104A4C962539B02C2035CC",
-    "link": "https://www.alahli.com/ar/offers/golden-scent",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:58"
-  },
-  {
-    "store": "منتجع إنتركونتيننتال البحر الأحمر",
-    "discount": "20%",
-    "category": "عروض الفنادق",
-    "expiry": "31 ديسمبر 2026",
-    "description": "استمتع بخصم 20% في منتجع إنتركونتيننتال البحر الأحمر، حصريًا لعملاء إيليت.",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/08/intercontinental-the-red-sea-resort.png?h=220&iar=0&w=356&hash=53E5F076D7103F0C3F914C15148315EC",
-    "link": "https://www.alahli.com/ar/offers/intercontinental-the-red-sea-resort",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:58"
-  },
-  {
-    "store": "آني و داني",
-    "discount": "15 %",
-    "category": "مطاعم",
-    "expiry": "31 ديسمبر 2026",
-    "description": "استمتع بخصم 15 % من آني وداني لعملاء إيليت والوسام البلاتيني باستخدام كود SNB15",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/09/aani-dani-ar.png?h=220&iar=0&w=356&hash=1917B37ADEBBB25E2DE1BF978D956538",
-    "link": "https://www.alahli.com/ar/offers/aani-and-dani",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:58"
-  },
-  {
-    "store": "سويتر",
-    "discount": "30%",
-    "category": "خدمات السيارات",
-    "expiry": "07 يوليو 2027",
-    "description": "استمتع بخصم 30% من سويتر لعملاء إيليت والوسام البلاتيني من SNB",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/08/sweater.png?h=220&iar=0&w=356&hash=3D90C0D829CC1F2786DB6BA8A5FB4DFB",
-    "link": "https://www.alahli.com/ar/offers/sweater",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:58"
+    "_updated": "2026-09-06 07:07"
   },
   {
     "store": "TAMO",
@@ -1113,31 +729,295 @@
     "link": "https://www.alahli.com/ar/offers/tamo",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:58"
+    "_updated": "2026-09-06 07:07"
   },
   {
-    "store": "Skill Court Academy",
-    "discount": "35%",
-    "category": "نادي",
-    "expiry": "6 يونيو 2027",
-    "description": "استمتع بخصم 35% من  Skill Court Academy عند استخدام بطاقات SNB من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/09/skill-court-academy.png?h=221&iar=0&w=357&hash=5DAD5618AE7B300640AC9EEB99E7626F",
-    "link": "https://www.alahli.com/ar/offers/skill-court-academy",
+    "store": "لالو إسطنبول",
+    "discount": "15%",
+    "category": "مطاعم",
+    "expiry": "30 مارس 2027",
+    "description": "استمتع بخصم 15% في مطعم لالو إسطنبول عند استخدام بطاقات SNB من ماستركارد",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/03/lalou.png?h=220&iar=0&w=356&hash=7B01E29FE65AEF1C0FA59EFC2BF57282",
+    "link": "https://www.alahli.com/ar/offers/lalou",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:58"
+    "_updated": "2026-09-06 07:07"
   },
   {
-    "store": "مكتبة جرير",
-    "discount": "20%",
+    "store": "Ferns N Petals",
+    "discount": "18%",
     "category": "التسوق",
-    "expiry": "6 سبتمبر 2026",
-    "description": "استمتع بخصم 20% من \"مكتبة جرير\" باستخدام بطاقات SNB الائتمانية و لك من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2024/jarir-300x310.jpg?h=310&iar=0&w=300&hash=3D1CF2D3AB17306C6963CA00328BE7F2",
-    "link": "https://www.alahli.com/ar/offers/jarir-bookstore",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم 18% في متاجر إف ان بي  عند الدفع ببطاقات SNB  الائتمانية، بطاقات مدى، أو بطاقات \"لك\" من ماستركارد.",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2025/08/ferns-n-petals.png?h=220&iar=0&w=356&hash=56D28F744F76D099062632EAC5C92C7D",
+    "link": "https://www.alahli.com/ar/offers/ferns-n-petals",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:58"
+    "_updated": "2026-09-06 07:07"
+  },
+  {
+    "store": "ISIM Egypt",
+    "discount": "10%",
+    "category": "عروض السفر",
+    "expiry": "1 يناير 2027",
+    "description": "استمتع بخصم 10% من ISIM Egypt على جميع الفئات عند استخدام بطاقات SNB من ماستركارد",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/isim-egypt.png?h=220&iar=0&w=356&hash=6A81E74112829F922953D755EE33DE22",
+    "link": "https://www.alahli.com/ar/offers/isim-egypt",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:07"
+  },
+  {
+    "store": "Bob's Famous",
+    "discount": "20%",
+    "category": "Leisure",
+    "expiry": "11 سبتمبر 2026",
+    "description": "استمتع بخصم 20% من  Bob’s Famousعند استخدام بطاقات SNB من ماستركارد استخدم الرمز الترويجي: SNB20",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/bobs.png?h=220&iar=0&w=356&hash=2C3ED22B78C903DBB9B03D387B3077F0",
+    "link": "https://www.alahli.com/ar/offers/bobs-famous",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:08"
+  },
+  {
+    "store": "مختارات زيد",
+    "discount": "20%",
+    "category": "مطاعم",
+    "expiry": "1 نوفمبر 2026",
+    "description": "استمتع بخصم 20% من مختارات زيد عند استخدام بطاقات SNB من ماستركارد (بطاقة لك أو بطاقات SNB الائتمانية ومدى من ماستركارد)",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/03/collection-of-zaid.png?h=220&iar=0&w=356&hash=DC90832B023271C14A4030A8B9D7788D",
+    "link": "https://www.alahli.com/ar/offers/collection-of-zaid",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:08"
+  },
+  {
+    "store": "فنادق فاسبند",
+    "discount": "10%",
+    "category": "عروض الفنادق",
+    "expiry": "",
+    "description": "عرض حصري من فنادق فاسبند! استمتع بخصم 10% على أسعار الغرف عند الدفع باستخدام بطاقات SNB من ماستركارد. احجز الآن واستفد من هذا العرض المميز لإقامة فاخر...",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/fassbind-1.png?h=220&iar=0&w=356&hash=34F46643BE1534ADF1D551D7EBDD1D3B",
+    "link": "https://www.alahli.com/ar/offers/fassbind-hotels",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:08"
+  },
+  {
+    "store": "مطعم  قصة مصرية",
+    "discount": "12%",
+    "category": "مطاعم",
+    "expiry": "21 أكتوبر 2026",
+    "description": "استمتع بخصم 12% لدى مطعم  قصة مصرية  عند الدفع باستخدام بطاقات  SNB من ماستركارد",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/egyption-story.png?h=220&iar=0&w=356&hash=8D6600AA5A152385DB70D792F6388471",
+    "link": "https://www.alahli.com/ar/offers/egyptian-story",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:08"
+  },
+  {
+    "store": "الكسائي",
+    "discount": "20%",
+    "category": "Fashion",
+    "expiry": "25 يونيو 2027",
+    "description": "استمتع بخصم 20% لدى الكسائي لعملاء إيليت والوسام البلاتيني، حاملي بطاقات مدى والبطاقات الائتمانية وبطاقة لك.",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/alkessaey.png?h=220&iar=0&w=356&hash=A58DA832F5854F60A81B25C1222757DC",
+    "link": "https://www.alahli.com/ar/offers/alkessaey",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:08"
+  },
+  {
+    "store": "لومار",
+    "discount": "35%",
+    "category": "Fashion",
+    "expiry": "25 يوليو 2027",
+    "description": "استمتع بخصم 35% لعملاء إيليت والوسام البلاتيني , حاملي بطاقة مدى أو البطاقة الائتمانية وبطاقة لك.",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/lomar.png?h=220&iar=0&w=356&hash=9EA668630FB50E05ECDE38DE61B73DEF",
+    "link": "https://www.alahli.com/ar/offers/lomar",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:08"
+  },
+  {
+    "store": "Virgin Connect Roam Travel eSIM",
+    "discount": "20%",
+    "category": "عروض",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم 20% من Virgin Connect Roam عند استخدام بطاقات SNB الائتمانية من ماستركارد خدمة الشريحة الإلكترونية للسفر",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/virgin.png?h=220&iar=0&w=356&hash=B2931D674DB80CC84BDC419F28E3C577",
+    "link": "https://www.alahli.com/ar/offers/virgin-connect-roam-travel-esim",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:08"
+  },
+  {
+    "store": "رد تاغ",
+    "discount": "15%",
+    "category": "Fashion",
+    "expiry": "3 نوفمبر 2026",
+    "description": "استمتع بخصم 15% من ريد تاغ عند استخدام بطاقات SNB من ماستركارد",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2024/11/redtag.png?h=220&iar=0&w=356&hash=FFCA4CEADC718EED1E7ECAEBCE726BFE",
+    "link": "https://www.alahli.com/ar/offers/redtag",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:08"
+  },
+  {
+    "store": "العبيكان للنشر",
+    "discount": "20%",
+    "category": "عروض",
+    "expiry": "19 يوليو 2027",
+    "description": "استمتع بخصم 20% لدى العبيكان للنشر عند استخدام بطاقة SNB من ماستركارد",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/obeikan.png?h=310&iar=0&w=300&hash=49C5D223FFAB4CCACCFE581C1242281D",
+    "link": "https://www.alahli.com/ar/offers/obeikan",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:08"
+  },
+  {
+    "store": "سويتر",
+    "discount": "30%",
+    "category": "خدمات السيارات",
+    "expiry": "07 يوليو 2027",
+    "description": "استمتع بخصم 30% من سويتر لعملاء إيليت والوسام البلاتيني من SNB",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/08/sweater.png?h=220&iar=0&w=356&hash=3D90C0D829CC1F2786DB6BA8A5FB4DFB",
+    "link": "https://www.alahli.com/ar/offers/sweater",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:08"
+  },
+  {
+    "store": "Lucky Fish",
+    "discount": "12%",
+    "category": "دولي",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم 12% على إجمالي الفاتورة في مطعم Lucky Fish عند استخدام بطاقات SNB من ماستركارد",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/lucky-fish.png?h=220&iar=0&w=356&hash=A7E6E97FA0F33C5AA8468FB93BBEE4DC",
+    "link": "https://www.alahli.com/ar/offers/lucky-fish",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:08"
+  },
+  {
+    "store": "Tashas",
+    "discount": "10%",
+    "category": "مطاعم",
+    "expiry": "1 يناير 2027",
+    "description": "استمتع بخصم 10% من  Tashasعند استخدام بطاقات SNB الائتمانية من ماستركارد",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/tashas.png?h=220&iar=0&w=356&hash=F8F4421A21DCE5AF410B6A69D1B82A07",
+    "link": "https://www.alahli.com/ar/offers/tashas",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:08"
+  },
+  {
+    "store": "VIP Car Rental",
+    "discount": "30%",
+    "category": "تأجير السيارات",
+    "expiry": "14 أبريل 2027",
+    "description": "لعملاء إيليت والوسام البلاتيني خصم 30% من شركة VIP Car Rental عند استخدام بطاقات SNB الائتمانية ومدى أو لك من ماستركارد",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2025/07/vip-logo.png?h=220&iar=0&w=356&hash=E23FA83C466A2B2231CC3D4B078E3C2D",
+    "link": "https://www.alahli.com/ar/offers/vip-car-rental",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:08"
+  },
+  {
+    "store": "مدارس الحمراء المميزة العالمية",
+    "discount": "30%",
+    "category": "Education",
+    "expiry": "10 يونيو 2027",
+    "description": "استمتع بخصم 30% من مدارس الحمراء المميزة العالمية لعملاء إيليت والوسام البلاتيني.",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/al-hamra-international-schools.png?h=220&iar=0&w=356&hash=ECD3A5F25E940DBBE552B7DA8C2687D7",
+    "link": "https://www.alahli.com/ar/offers/al-hamra-international-schools",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:08"
+  },
+  {
+    "store": "الفاخرة للخياطة الرجالية",
+    "discount": "25%",
+    "category": "Fashion",
+    "expiry": "17 يونيو 2027",
+    "description": "لعملاء إيليت والوسام البلاتيني تسوق بخصم 25% من الفاخرة للخياطة الرجالية",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/alfakhera.png?h=220&iar=0&w=356&hash=86EC329E6DCB5F74A1008C6FE13119E3",
+    "link": "https://www.alahli.com/ar/offers/alfakhira",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:08"
+  },
+  {
+    "store": "مكتبة عبد الوهاب مرزا",
+    "discount": "15%",
+    "category": "التسوق",
+    "expiry": "20 يوليو 2027",
+    "description": "استمتع بخصم 15% من مكتبة عبدالوهاب مرزا  عند استخدام بطاقات SNB من ماستركارد",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2025/08/mirza-library.png?h=220&iar=0&w=356&hash=8039D6A3B7E9965F0A35EB71D7B88CF7",
+    "link": "https://www.alahli.com/ar/offers/mirza",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:08"
+  },
+  {
+    "store": "مدرسة Aldenham School - Riyadh",
+    "discount": "52%",
+    "category": "Education",
+    "expiry": "20 نوفمبر 2026",
+    "description": "استمتع بعرض حصري من مدرسة Aldenham School, Riyadh واحصل على خصم 52% على رسوم التسجيل عند الدفع باستخدام بطاقات SNB من ماستركارد سجّل أبناءك الآن وادفع...",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/08/aldenham-school.png?h=221&iar=0&w=357&hash=42B63EA5B331196A27350DD02A0F0764",
+    "link": "https://www.alahli.com/ar/offers/aldenham-school",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:08"
+  },
+  {
+    "store": "كيدزانيا",
+    "discount": "15%",
+    "category": "ترفيه",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم 15% من KidZania عند استخدام بطاقات SNB الائتمانية من ماستركارد استخدم الرمز: MC26",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/08/kidzania.png?h=221&iar=0&w=356&hash=2751B9EC20FCA0B28DB147C37EC84E93",
+    "link": "https://www.alahli.com/ar/offers/kidzania",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:08"
+  },
+  {
+    "store": "منتجع إنتركونتيننتال البحر الأحمر",
+    "discount": "20%",
+    "category": "عروض الفنادق",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم 20% في منتجع إنتركونتيننتال البحر الأحمر، حصريًا لعملاء إيليت.",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/08/intercontinental-the-red-sea-resort.png?h=220&iar=0&w=356&hash=53E5F076D7103F0C3F914C15148315EC",
+    "link": "https://www.alahli.com/ar/offers/intercontinental-the-red-sea-resort",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:08"
+  },
+  {
+    "store": "الشمس والرمال للرياضة",
+    "discount": "",
+    "category": "التسوق",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم يصل إلى %20 من الشمس والرمال للرياضة عند استخدام بطاقات SNB من ماستركارد",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/sun-and-sand-sports.png?h=310&iar=0&w=300&hash=E39E75138450B3B3B9C5EC464FB0568D",
+    "link": "https://www.alahli.com/ar/offers/sun-and-sand-sports-2",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:08"
+  },
+  {
+    "store": "مكتبة البوادي",
+    "discount": "10%",
+    "category": "التسوق",
+    "expiry": "23 يوليو 2027",
+    "description": "استمتع بخصم 10% من مكتبة البوادي عند استخدام بطاقات SNB من ماستركارد",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/08/al-bawadi-library.png?h=221&iar=0&w=357&hash=9EA23F91D458D6F2D22FAA4F80C3C55B",
+    "link": "https://www.alahli.com/ar/offers/al-bawadi-library",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:08"
   },
   {
     "store": "سالا كارتنق",
@@ -1149,7 +1029,7 @@
     "link": "https://www.alahli.com/ar/offers/sala-karting",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:58"
+    "_updated": "2026-09-06 07:08"
   },
   {
     "store": "بيلي بيز",
@@ -1161,19 +1041,7 @@
     "link": "https://www.alahli.com/ar/offers/billy-beez",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:58"
-  },
-  {
-    "store": "SLS Barcelona",
-    "discount": "20%",
-    "category": "عروض الفنادق",
-    "expiry": "2 فبراير 2027",
-    "description": "استمتع بخصم حتى 20% في SLS Barcelona عند استخدام بطاقات SNB الائتمانية ومدى أو لك من ماستركارد",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/sls-barcelona.jpg?h=220&iar=0&w=356&hash=1BDFF009AFB4EA2314239BFC3401AD77",
-    "link": "https://www.alahli.com/ar/offers/sls-barcelona",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:58"
+    "_updated": "2026-09-06 07:08"
   },
   {
     "store": "كريم",
@@ -1185,7 +1053,7 @@
     "link": "https://www.alahli.com/ar/offers/careem",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:58"
+    "_updated": "2026-09-06 07:08"
   },
   {
     "store": "فنادق LeCrans",
@@ -1197,7 +1065,7 @@
     "link": "https://www.alahli.com/ar/offers/lecrans-hotels",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:58"
+    "_updated": "2026-09-06 07:09"
   },
   {
     "store": "Wafi Gourmet",
@@ -1209,7 +1077,7 @@
     "link": "https://www.alahli.com/ar/offers/wafi-gourmet",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:58"
+    "_updated": "2026-09-06 07:09"
   },
   {
     "store": "نباتاتي",
@@ -1221,7 +1089,7 @@
     "link": "https://www.alahli.com/ar/offers/nabataty",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:58"
+    "_updated": "2026-09-06 07:09"
   },
   {
     "store": "Mohalla",
@@ -1233,7 +1101,7 @@
     "link": "https://www.alahli.com/ar/offers/mohalla",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:58"
+    "_updated": "2026-09-06 07:09"
   },
   {
     "store": "Akira Back - دبي",
@@ -1245,7 +1113,7 @@
     "link": "https://www.alahli.com/ar/offers/akira-back-dubai",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:58"
+    "_updated": "2026-09-06 07:09"
   },
   {
     "store": "Namu",
@@ -1257,7 +1125,7 @@
     "link": "https://www.alahli.com/ar/offers/namu",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:58"
+    "_updated": "2026-09-06 07:09"
   },
   {
     "store": "Heathrow Express",
@@ -1269,7 +1137,7 @@
     "link": "https://www.alahli.com/ar/offers/heathrow-express",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:58"
+    "_updated": "2026-09-06 07:09"
   },
   {
     "store": "المسافر",
@@ -1281,7 +1149,7 @@
     "link": "https://www.alahli.com/ar/offers/almosafer-2",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:59"
+    "_updated": "2026-09-06 07:09"
   },
   {
     "store": "كوستا في مطارات دبي",
@@ -1293,7 +1161,7 @@
     "link": "https://www.alahli.com/ar/offers/costa-dubai-airports",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:59"
+    "_updated": "2026-09-06 07:09"
   },
   {
     "store": "فندق NH مطار جنيف",
@@ -1305,7 +1173,19 @@
     "link": "https://www.alahli.com/ar/offers/nh-geneva-airport-hotel",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:59"
+    "_updated": "2026-09-06 07:09"
+  },
+  {
+    "store": "SLS Barcelona",
+    "discount": "20%",
+    "category": "عروض الفنادق",
+    "expiry": "2 فبراير 2027",
+    "description": "استمتع بخصم حتى 20% في SLS Barcelona عند استخدام بطاقات SNB الائتمانية ومدى أو لك من ماستركارد",
+    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/sls-barcelona.jpg?h=220&iar=0&w=356&hash=1BDFF009AFB4EA2314239BFC3401AD77",
+    "link": "https://www.alahli.com/ar/offers/sls-barcelona",
+    "promo": "",
+    "_bank": "ahli",
+    "_updated": "2026-09-06 07:09"
   },
   {
     "store": "عيادات نوا",
@@ -1317,7 +1197,7 @@
     "link": "https://www.alahli.com/ar/offers/noa-clinic",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:59"
+    "_updated": "2026-09-06 07:09"
   },
   {
     "store": "لولو هايبر ماركت",
@@ -1329,7 +1209,7 @@
     "link": "https://www.alahli.com/ar/offers/lulu-hypermarket",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:59"
+    "_updated": "2026-09-06 07:09"
   },
   {
     "store": "سكوات وولف",
@@ -1341,18 +1221,6 @@
     "link": "https://www.alahli.com/ar/offers/squatwolf",
     "promo": "",
     "_bank": "ahli",
-    "_updated": "2026-09-05 06:59"
-  },
-  {
-    "store": "صالون لمسات",
-    "discount": "15%",
-    "category": "صحة",
-    "expiry": "21 يوليو 2027",
-    "description": "استمتع بخصم 15% من صالون لمسات عند استخدام بطاقات SNB",
-    "img": "https://www.alahli.com/-/media/project/snb/snb-web/credit-card-promotions-images/logo-listing/2026/07/lamasat.png?h=220&iar=0&w=356&hash=388A66BBD0783ED571F9D7306002C34D",
-    "link": "https://www.alahli.com/ar/offers/lamasat-salons",
-    "promo": "",
-    "_bank": "ahli",
-    "_updated": "2026-09-05 06:59"
+    "_updated": "2026-09-06 07:09"
   }
 ]
