@@ -1,363 +1,39 @@
 [
   {
-    "store": "مدارس أوك وود العالمية",
-    "discount": "40%",
+    "store": "مجوهرات الإبريز",
+    "discount": "50%",
     "category": "عروض",
     "expiry": "",
-    "description": "40%",
-    "img": "https://www.riyadbank.com/documents/20121/0/Oak.jpg/7aedbd18-6e68-4e15-e08f-3eeef1c47be1",
-    "link": "https://www.riyadbank.com/oakwood-international-schools",
+    "description": "خصم 50%",
+    "img": "https://www.riyadbank.com/documents/20121/0/EBREEZ Jewelry logo.jpeg/0d8fce93-6a76-d95f-0127-fbd6d8c32f78",
+    "link": "https://www.riyadbank.com/ebreez-jewelry",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
-    "store": "Jahez",
-    "discount": "",
+    "store": "جايلا",
+    "discount": "30%",
     "category": "عروض",
     "expiry": "",
-    "description": "أشتراك برايم",
-    "img": "https://www.riyadbank.com/documents/20121/0/Jahez.png/8e5813a7-495c-a990-54c0-93d8d86e4dd1",
-    "link": "https://www.riyadbank.com/spin-and-win",
+    "description": "خصم 30%",
+    "img": "https://www.riyadbank.com/documents/20121/0/Jayla.jpeg/1ae09b84-376a-68e1-be07-20f9c57b48f5",
+    "link": "https://www.riyadbank.com/jayla",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
-    "store": "خدمة ركن السيارات",
-    "discount": "",
+    "store": "أيا عباية",
+    "discount": "30%",
     "category": "عروض",
     "expiry": "",
-    "description": "خدمة ركن السيارات مجانًا حول المملكة!",
-    "img": "https://www.riyadbank.com/documents/20121/0/Airport Transfer_Visual-01_Bottom Sheet_686x400.jpg/84f433b5-d9a6-4ef4-73a1-df0bc9e423f5",
-    "link": "https://www.riyadbank.com/free-valet-parking",
+    "description": "خصم 30%",
+    "img": "https://www.riyadbank.com/documents/20121/0/aya.png/7fe11c45-7481-095f-b043-6c491a5475c6",
+    "link": "https://www.riyadbank.com/aya-abaya",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "ابدأ رحلتك براحة!",
-    "discount": "",
-    "category": "عروض",
-    "expiry": "",
-    "description": "خدمات توصيل مجانية",
-    "img": "https://www.riyadbank.com/documents/20121/0/Airport Transfer_Visual-02_Bottom Sheet_686x400.jpg/c918b8ea-9e9c-a596-92ca-bfa832b65376",
-    "link": "https://www.riyadbank.com/start-your-trip-with-ease",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "لولو هايبرماركت",
-    "discount": "15%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "15%",
-    "img": "https://www.riyadbank.com/documents/20121/0/lulu-hypermarket_tcm8-20769.jpg/d6666bae-bc16-452c-b3b6-5a932deeff8e",
-    "link": "https://www.riyadbank.com/lulu-market-bts-offer",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "Shein",
-    "discount": "15%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "15%",
-    "img": "https://www.riyadbank.com/documents/20121/0/sheinS.png/78ec6d9b-c52d-86e4-f63e-51bc747cd7a9",
-    "link": "https://www.riyadbank.com/shein",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "Voga Closet",
-    "discount": "10%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "10%",
-    "img": "https://www.riyadbank.com/documents/20121/0/Voga closet.jpg/24b8bde9-2cd4-6645-f90b-c201f4d37503",
-    "link": "https://www.riyadbank.com/vogacloset3",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "دار الاميرات",
-    "discount": "15%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "15%",
-    "img": "https://www.riyadbank.com/documents/20121/0/DarAlamiratBTSArtboard.jpg/21f7d07f-be33-51dc-fa62-3a02d5e14969",
-    "link": "https://www.riyadbank.com/dar-almairat",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "مريول الحر",
-    "discount": "10%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "10%",
-    "img": "https://www.riyadbank.com/documents/20121/0/0000-846 _ Riyad Bank _ BTS HURUNI Uniform3_Artboard 1 copy 9 20-08-2026 13_50_22_003.png/35517379-3461-77fb-f767-28c98a9f9aa4",
-    "link": "https://www.riyadbank.com/huruni-uniform",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "مدارس نخيل الكثبان العالمية",
-    "discount": "40%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "40%",
-    "img": "https://www.riyadbank.com/documents/20121/0/0000-852 _ Riyad Bank _ BTS School Offers _Artboard 1 copy 9 20-08-2026 11_59_07_235.jpg/d245152b-7f33-be06-14a1-60fc1d84ec21",
-    "link": "https://www.riyadbank.com/dunes-palms-international-schools",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "farfetch",
-    "discount": "",
-    "category": "عروض",
-    "expiry": "",
-    "description": "خصم يصل الى 500 ر..س",
-    "img": "https://www.riyadbank.com/documents/20121/0/Farfetch_tcm8-21157.jpg/66b5d38c-0cbd-98df-fd3b-52c1c9a00331",
-    "link": "https://www.riyadbank.com/max",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "بدون رسوم!",
-    "discount": "",
-    "category": "عروض",
-    "expiry": "",
-    "description": "مستردة!",
-    "img": "https://www.riyadbank.com/documents/20121/0/CCwaived.jpg/d0680961-2f3c-48fe-0b2f-3a9bbeb988f6",
-    "link": "https://www.riyadbank.com/summer-campaign-offers-spend-get",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "كيابي",
-    "discount": "15%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "15%",
-    "img": "https://www.riyadbank.com/documents/20121/0/Untitled-4 copy-07.jpg/7833e171-5c30-cb42-8190-f5a9d55ffd66",
-    "link": "https://www.riyadbank.com/kiabi",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "نادي انترفل بلس",
-    "discount": "20%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "20%",
-    "img": "https://www.riyadbank.com/documents/20121/0/Untitled-4 copy-07.jpg/7833e171-5c30-cb42-8190-f5a9d55ffd66",
-    "link": "https://www.riyadbank.com/interval-plus-gym1",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "همّه تك",
-    "discount": "20%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "20%",
-    "img": "https://www.riyadbank.com/documents/20121/0/Hema_Artboard 1 copy 10 10-08-2026 14_08_43_228.png/a2ef4df5-2690-0866-2cf8-df870ce5ac2f",
-    "link": "hemah-tech",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "بارفوا",
-    "discount": "15%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "15%",
-    "img": "https://www.riyadbank.com/documents/20121/0/Untitled-4 copy-07.jpg/7833e171-5c30-cb42-8190-f5a9d55ffd66",
-    "link": "https://www.riyadbank.com/parfois",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "دلة",
-    "discount": "20%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "20%",
-    "img": "https://www.riyadbank.com/documents/20121/0/Untitled-4 copy-07.jpg/7833e171-5c30-cb42-8190-f5a9d55ffd66",
-    "link": "https://www.riyadbank.com/dallah",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "قولدن روز",
-    "discount": "15%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "15%",
-    "img": "https://www.riyadbank.com/documents/20121/0/Untitled-4 copy-07.jpg/7833e171-5c30-cb42-8190-f5a9d55ffd66",
-    "link": "https://www.riyadbank.com/golden-rose",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "بورصة كباب",
-    "discount": "20%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "20%",
-    "img": "https://www.riyadbank.com/documents/20121/0/Untitled-4 copy-07.jpg/7833e171-5c30-cb42-8190-f5a9d55ffd66",
-    "link": "https://www.riyadbank.com/bursa-kebap-evi",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "نوار سينما",
-    "discount": "20%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "20%",
-    "img": "https://www.riyadbank.com/documents/20121/0/Untitled-4 copy-07.jpg/7833e171-5c30-cb42-8190-f5a9d55ffd66",
-    "link": "https://www.riyadbank.com/noir-cinema",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "بيتزا بياتسا",
-    "discount": "20%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "20%",
-    "img": "https://www.riyadbank.com/documents/20121/0/Untitled-4 copy-07.jpg/7833e171-5c30-cb42-8190-f5a9d55ffd66",
-    "link": "https://www.riyadbank.com/pizza-plazza",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "اكسسواريز",
-    "discount": "15%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "15%",
-    "img": "https://www.riyadbank.com/documents/20121/0/Untitled-4 copy-07.jpg/7833e171-5c30-cb42-8190-f5a9d55ffd66",
-    "link": "https://www.riyadbank.com/accessorize",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "مجوهرات عبدالله الأريش",
-    "discount": "0%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "0%",
-    "img": "https://www.riyadbank.com/documents/20121/0/Abdullah AlArbash Jewelry Logo.jpg/d1efb8a5-e216-8262-010a-67d09411119f",
-    "link": "https://www.riyadbank.com/abdullah-alarbash-jewelry",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "وكف",
-    "discount": "15%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "15%",
-    "img": "https://www.riyadbank.com/documents/20121/0/Wacafe Logo.jpg/c3fbfb6b-e42e-241d-8b71-b2f83f820901",
-    "link": "https://www.riyadbank.com/wacafe",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "دربي",
-    "discount": "15%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "15%",
-    "img": "https://www.riyadbank.com/documents/20121/0/Drabi Logo.jpg/fcd4dbc1-2029-8027-b8a7-b01825714c52",
-    "link": "https://www.riyadbank.com/darbi",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "جلام مودا",
-    "discount": "20%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "20%",
-    "img": "https://www.riyadbank.com/documents/20121/0/Glam Moda.png/abf081ce-497a-7fb0-50cc-592c7da9901e",
-    "link": "https://www.riyadbank.com/glam-moda",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "سيلين",
-    "discount": "10%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "10%",
-    "img": "https://www.riyadbank.com/documents/20121/0/Discount.png/0b4d3ad6-5456-3484-4cd6-f4568ae984ab",
-    "link": "https://www.riyadbank.com/selene-offer",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "ايريا25",
-    "discount": "10%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "10%",
-    "img": "https://www.riyadbank.com/documents/20121/0/Area25 LOGO.jpg/aecfcc8e-a159-ba59-4ede-c1544ae9c4b0",
-    "link": "https://www.riyadbank.com/area25",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "Message of change Training Center",
-    "discount": "20%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "خصم 20%",
-    "img": "https://www.riyadbank.com/documents/20121/0/Message of change Training Center LOGO.png/f5936d15-fba6-1c4d-bc6f-85cf6e1e78a4",
-    "link": "https://www.riyadbank.com/message-of-change-training-center",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
-  },
-  {
-    "store": "Kiar",
-    "discount": "15%",
-    "category": "عروض",
-    "expiry": "",
-    "description": "خصم 15%",
-    "img": "https://www.riyadbank.com/documents/20121/0/Screenshot 2025-11-03 163339.png/de13be16-9eec-4d80-8780-7eb5002c40d5",
-    "link": "https://www.riyadbank.com/kiar-store",
-    "promo": "",
-    "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "SYS",
@@ -369,7 +45,319 @@
     "link": "https://www.riyadbank.com/sys",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "موج فون",
+    "discount": "30%",
+    "category": "عروض",
+    "expiry": "",
+    "description": "خصم 30%",
+    "img": "https://www.riyadbank.com/documents/20121/0/moog.png/4575d9d2-b651-801a-7c4d-9140992653bc",
+    "link": "https://www.riyadbank.com/moog-phone",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "مجوهرات بن طالب",
+    "discount": "45%",
+    "category": "عروض",
+    "expiry": "",
+    "description": "45%",
+    "img": "https://www.riyadbank.com/documents/20121/0/Bin Talib Jewelry.png/d0d159db-6d45-323e-4514-c089240bd861",
+    "link": "https://www.riyadbank.com/bin-talib-jewelry",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "فايندرا",
+    "discount": "25%",
+    "category": "عروض",
+    "expiry": "",
+    "description": "25%",
+    "img": "https://www.riyadbank.com/documents/20121/0/Fayendra.jpeg/78d9ece7-8f62-c2d6-342c-62d59182c874",
+    "link": "https://www.riyadbank.com/fayendra",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "لمسات للتزيين النسائي",
+    "discount": "20%",
+    "category": "عروض",
+    "expiry": "",
+    "description": "20%",
+    "img": "https://www.riyadbank.com/documents/20121/0/Lamasat Spa1.jpeg/e43f4ed0-4913-db67-c8d0-48d6ec7b0d74",
+    "link": "https://www.riyadbank.com/lamasat-spa",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "هيكسا باور",
+    "discount": "50%",
+    "category": "عروض",
+    "expiry": "",
+    "description": "50%",
+    "img": "https://www.riyadbank.com/documents/20121/0/HexaPower.jpeg/71d3363c-7c2e-3205-bf71-d1e36aa8e7f7",
+    "link": "https://www.riyadbank.com/hexa-power",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "مدارس أوك وود العالمية",
+    "discount": "40%",
+    "category": "عروض",
+    "expiry": "",
+    "description": "40%",
+    "img": "https://www.riyadbank.com/documents/20121/0/Oak.jpg/7aedbd18-6e68-4e15-e08f-3eeef1c47be1",
+    "link": "https://www.riyadbank.com/oakwood-international-schools",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "Jahez",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "",
+    "description": "أشتراك برايم",
+    "img": "https://www.riyadbank.com/documents/20121/0/Jahez.png/8e5813a7-495c-a990-54c0-93d8d86e4dd1",
+    "link": "https://www.riyadbank.com/spin-and-win",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "خدمة ركن السيارات",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "",
+    "description": "خدمة ركن السيارات مجانًا حول المملكة!",
+    "img": "https://www.riyadbank.com/documents/20121/0/Airport Transfer_Visual-01_Bottom Sheet_686x400.jpg/84f433b5-d9a6-4ef4-73a1-df0bc9e423f5",
+    "link": "https://www.riyadbank.com/free-valet-parking",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "ابدأ رحلتك براحة!",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "",
+    "description": "خدمات توصيل مجانية",
+    "img": "https://www.riyadbank.com/documents/20121/0/Airport Transfer_Visual-02_Bottom Sheet_686x400.jpg/c918b8ea-9e9c-a596-92ca-bfa832b65376",
+    "link": "https://www.riyadbank.com/start-your-trip-with-ease",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "لولو هايبرماركت",
+    "discount": "15%",
+    "category": "عروض",
+    "expiry": "",
+    "description": "15%",
+    "img": "https://www.riyadbank.com/documents/20121/0/lulu-hypermarket_tcm8-20769.jpg/d6666bae-bc16-452c-b3b6-5a932deeff8e",
+    "link": "https://www.riyadbank.com/lulu-market-bts-offer",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "Shein",
+    "discount": "15%",
+    "category": "عروض",
+    "expiry": "",
+    "description": "15%",
+    "img": "https://www.riyadbank.com/documents/20121/0/sheinS.png/78ec6d9b-c52d-86e4-f63e-51bc747cd7a9",
+    "link": "https://www.riyadbank.com/shein",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "Voga Closet",
+    "discount": "10%",
+    "category": "عروض",
+    "expiry": "",
+    "description": "10%",
+    "img": "https://www.riyadbank.com/documents/20121/0/Voga closet.jpg/24b8bde9-2cd4-6645-f90b-c201f4d37503",
+    "link": "https://www.riyadbank.com/vogacloset3",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "دار الاميرات",
+    "discount": "15%",
+    "category": "عروض",
+    "expiry": "",
+    "description": "15%",
+    "img": "https://www.riyadbank.com/documents/20121/0/DarAlamiratBTSArtboard.jpg/21f7d07f-be33-51dc-fa62-3a02d5e14969",
+    "link": "https://www.riyadbank.com/dar-almairat",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "مريول الحر",
+    "discount": "10%",
+    "category": "عروض",
+    "expiry": "",
+    "description": "10%",
+    "img": "https://www.riyadbank.com/documents/20121/0/0000-846 _ Riyad Bank _ BTS HURUNI Uniform3_Artboard 1 copy 9 20-08-2026 13_50_22_003.png/35517379-3461-77fb-f767-28c98a9f9aa4",
+    "link": "https://www.riyadbank.com/huruni-uniform",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "مدارس نخيل الكثبان العالمية",
+    "discount": "40%",
+    "category": "عروض",
+    "expiry": "",
+    "description": "40%",
+    "img": "https://www.riyadbank.com/documents/20121/0/0000-852 _ Riyad Bank _ BTS School Offers _Artboard 1 copy 9 20-08-2026 11_59_07_235.jpg/d245152b-7f33-be06-14a1-60fc1d84ec21",
+    "link": "https://www.riyadbank.com/dunes-palms-international-schools",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "farfetch",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "",
+    "description": "خصم يصل الى 500 ر..س",
+    "img": "https://www.riyadbank.com/documents/20121/0/Farfetch_tcm8-21157.jpg/66b5d38c-0cbd-98df-fd3b-52c1c9a00331",
+    "link": "https://www.riyadbank.com/max",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "بدون رسوم!",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "",
+    "description": "مستردة!",
+    "img": "https://www.riyadbank.com/documents/20121/0/CCwaived.jpg/d0680961-2f3c-48fe-0b2f-3a9bbeb988f6",
+    "link": "https://www.riyadbank.com/summer-campaign-offers-spend-get",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "همّه تك",
+    "discount": "20%",
+    "category": "عروض",
+    "expiry": "",
+    "description": "20%",
+    "img": "https://www.riyadbank.com/documents/20121/0/Hema_Artboard 1 copy 10 10-08-2026 14_08_43_228.png/a2ef4df5-2690-0866-2cf8-df870ce5ac2f",
+    "link": "hemah-tech",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "مجوهرات عبدالله الأريش",
+    "discount": "0%",
+    "category": "عروض",
+    "expiry": "",
+    "description": "0%",
+    "img": "https://www.riyadbank.com/documents/20121/0/Abdullah AlArbash Jewelry Logo.jpg/d1efb8a5-e216-8262-010a-67d09411119f",
+    "link": "https://www.riyadbank.com/abdullah-alarbash-jewelry",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "وكف",
+    "discount": "15%",
+    "category": "عروض",
+    "expiry": "",
+    "description": "15%",
+    "img": "https://www.riyadbank.com/documents/20121/0/Wacafe Logo.jpg/c3fbfb6b-e42e-241d-8b71-b2f83f820901",
+    "link": "https://www.riyadbank.com/wacafe",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "دربي",
+    "discount": "15%",
+    "category": "عروض",
+    "expiry": "",
+    "description": "15%",
+    "img": "https://www.riyadbank.com/documents/20121/0/Drabi Logo.jpg/fcd4dbc1-2029-8027-b8a7-b01825714c52",
+    "link": "https://www.riyadbank.com/darbi",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "جلام مودا",
+    "discount": "20%",
+    "category": "عروض",
+    "expiry": "",
+    "description": "20%",
+    "img": "https://www.riyadbank.com/documents/20121/0/Glam Moda.png/abf081ce-497a-7fb0-50cc-592c7da9901e",
+    "link": "https://www.riyadbank.com/glam-moda",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "سيلين",
+    "discount": "10%",
+    "category": "عروض",
+    "expiry": "",
+    "description": "10%",
+    "img": "https://www.riyadbank.com/documents/20121/0/Discount.png/0b4d3ad6-5456-3484-4cd6-f4568ae984ab",
+    "link": "https://www.riyadbank.com/selene-offer",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "ايريا25",
+    "discount": "10%",
+    "category": "عروض",
+    "expiry": "",
+    "description": "10%",
+    "img": "https://www.riyadbank.com/documents/20121/0/Area25 LOGO.jpg/aecfcc8e-a159-ba59-4ede-c1544ae9c4b0",
+    "link": "https://www.riyadbank.com/area25",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "Message of change Training Center",
+    "discount": "20%",
+    "category": "عروض",
+    "expiry": "",
+    "description": "خصم 20%",
+    "img": "https://www.riyadbank.com/documents/20121/0/Message of change Training Center LOGO.png/f5936d15-fba6-1c4d-bc6f-85cf6e1e78a4",
+    "link": "https://www.riyadbank.com/message-of-change-training-center",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
+  },
+  {
+    "store": "Kiar",
+    "discount": "15%",
+    "category": "عروض",
+    "expiry": "",
+    "description": "خصم 15%",
+    "img": "https://www.riyadbank.com/documents/20121/0/Screenshot 2025-11-03 163339.png/de13be16-9eec-4d80-8780-7eb5002c40d5",
+    "link": "https://www.riyadbank.com/kiar-store",
+    "promo": "",
+    "_bank": "riyadh",
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "همّه",
@@ -381,7 +369,7 @@
     "link": "https://www.riyadbank.com/hemah",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "لــيــم",
@@ -393,7 +381,7 @@
     "link": "https://www.riyadbank.com/leem",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "مركز رسالة تغيير للتدريب",
@@ -405,7 +393,7 @@
     "link": "https://www.riyadbank.com/message-of-change-training-center",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "المطار",
@@ -417,7 +405,7 @@
     "link": "https://www.riyadbank.com/almatar",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "الفلتر الذهبي",
@@ -429,7 +417,7 @@
     "link": "https://www.riyadbank.com/golden-filter",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "موفنبيك",
@@ -441,7 +429,7 @@
     "link": "https://www.riyadbank.com/movenpick-l-residences",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "ورويك",
@@ -453,7 +441,7 @@
     "link": "https://www.riyadbank.com/warwick-hotel",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "فندق المنى كريم",
@@ -465,7 +453,7 @@
     "link": "https://www.riyadbank.com/almuna-kareem-hotel",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "وسن",
@@ -477,7 +465,7 @@
     "link": "https://www.riyadbank.com/wassan-sleep-capsules",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "مقهى ومحمصة سيكا",
@@ -489,7 +477,7 @@
     "link": "https://www.riyadbank.com/sica-cafe-roastery",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "مقهى لابيت",
@@ -501,7 +489,7 @@
     "link": "https://www.riyadbank.com/llabate-cafe",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "Soil",
@@ -513,7 +501,7 @@
     "link": "https://www.riyadbank.com/soil1",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "نادي نكست الرياضي",
@@ -525,7 +513,7 @@
     "link": "https://www.riyadbank.com/next-wellness-club",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "أرضيات الفارس",
@@ -537,7 +525,7 @@
     "link": "https://www.riyadbank.com/alfares-floors1",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "لاسوران بيوتي سبا",
@@ -549,7 +537,7 @@
     "link": "https://www.riyadbank.com/lasuran-beauty-spa",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "اليزيه الطبي",
@@ -561,7 +549,7 @@
     "link": "https://www.riyadbank.com/elyzee-medical",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "محمصة سيكا",
@@ -573,7 +561,7 @@
     "link": "https://www.riyadbank.com/sica-café-roastery",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "لابيت كافيه",
@@ -585,7 +573,7 @@
     "link": "https://www.riyadbank.com/llabate-café",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "اورا",
@@ -597,7 +585,7 @@
     "link": "https://www.riyadbank.com/aura1",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "صالون سيلينا التجميلي",
@@ -609,7 +597,7 @@
     "link": "https://www.riyadbank.com/seleina-beauty-salon",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "عيادات سافي لطب الاسنان",
@@ -621,7 +609,7 @@
     "link": "https://www.riyadbank.com/Savvy-Dental-Clinics",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "حضانة حدائق الأطفال",
@@ -633,7 +621,7 @@
     "link": "https://www.riyadbank.com/kids-gardens-preschool",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "عيادات لايف ويز",
@@ -645,7 +633,7 @@
     "link": "https://www.riyadbank.com/life-way-s-clinic",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "مستشفى محمد الدوسري",
@@ -657,7 +645,7 @@
     "link": "https://www.riyadbank.com/muhammad-al-dosari-hospital",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "مستشفى اليوسف",
@@ -669,7 +657,7 @@
     "link": "https://www.riyadbank.com/al-youssef-hospital",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "الترا شيلد",
@@ -681,7 +669,7 @@
     "link": "https://www.riyadbank.com/ultra-shield",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "محمصة الرياض",
@@ -693,7 +681,7 @@
     "link": "https://www.riyadbank.com/arriyadh-roaster",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "عيادات دكتور لاونج",
@@ -705,7 +693,7 @@
     "link": "https://www.riyadbank.com/drs-lounge-clinic",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "شركة الرقي المتطورة لخدمة صف السيارات",
@@ -717,7 +705,7 @@
     "link": "https://www.riyadbank.com/advanced-prestige-valley-cars",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "دانولا",
@@ -729,7 +717,7 @@
     "link": "https://www.riyadbank.com/donella",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   },
   {
     "store": "فلورينا",
@@ -741,6 +729,6 @@
     "link": "https://www.riyadbank.com/florina-15-v2",
     "promo": "",
     "_bank": "riyadh",
-    "_updated": "2026-09-08 07:10"
+    "_updated": "2026-09-09 07:16"
   }
 ]
