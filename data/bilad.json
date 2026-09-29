@@ -9,19 +9,31 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Turkish-Airlines-Offer-with-Bank-Albilad.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-09-28 08:24"
+    "_updated": "2026-09-29 08:02"
   },
   {
-    "store": "عرض البلاد مع تطبيق المطار",
-    "discount": "20%",
+    "store": "رسوم الإصدار للسنة الأولى علينا !",
+    "discount": "",
     "category": "عروض",
     "expiry": "4 نوفمبر 2004",
-    "description": "احصل على خصم 20٪ على حجوزات الفنادق الدولية، وخصم 10٪ على حجوزات الطيران الدولية عند الدفع باستخدام بطاقات تمكين بلس وبطاقات ترافل باس الائتمانية,يسري...",
+    "description": "استمتع بتجربة سفر أكثر تميزاً مع بطاقات ترافل باس، وتمتع باسترداد رسوم البطاقة السنوية للسنة الأولى فقط غير شاملة قيمة الضريبة المضافة عند تحقيق شرط ا...",
     "img": "",
-    "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Almatar-Offer-with-Bank-Albilad.aspx",
+    "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Travel-Pass-Card-offer.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-09-28 08:25"
+    "_updated": "2026-09-29 08:03"
+  },
+  {
+    "store": "عرض هنقرستيشن مع بطاقات البلاد",
+    "discount": "30%",
+    "category": "عروض",
+    "expiry": "30 أكتوبر 2026",
+    "description": "استمتع بخصم 30%مع بطاقات البلاد و هنقرستيشن",
+    "img": "",
+    "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/hungerstation-with-albilad-card.aspx",
+    "promo": "",
+    "_bank": "bilad",
+    "_updated": "2026-09-29 08:03"
   },
   {
     "store": "كل استخدام يقربك من الجائزة الكبرى",
@@ -33,7 +45,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/offer-summer-Travel-Pass-Tamkeen-plus-credit-cards.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-09-28 08:25"
+    "_updated": "2026-09-29 08:03"
   },
   {
     "store": "عرض Farfetch مع بطاقات البلاد",
@@ -45,7 +57,7 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Farfetch-Offer.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-09-28 08:25"
+    "_updated": "2026-09-29 08:04"
   },
   {
     "store": "عرض شاي سدرة",
@@ -57,18 +69,6 @@
     "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/Sedra-tea.aspx",
     "promo": "",
     "_bank": "bilad",
-    "_updated": "2026-09-28 08:26"
-  },
-  {
-    "store": "وفر أكثر مع بطاقات البلاد",
-    "discount": "",
-    "category": "عروض",
-    "expiry": "4 نوفمبر 2004",
-    "description": "استمتع بالعديد من العروض والكوبونات مع بطاقات بنك البلاد",
-    "img": "",
-    "link": "https://www.bankalbilad.com.sa/ar/personal/cards/offers/Pages/buy-one-get-one-free.aspx",
-    "promo": "",
-    "_bank": "bilad",
-    "_updated": "2026-09-28 08:26"
+    "_updated": "2026-09-29 08:04"
   }
 ]
