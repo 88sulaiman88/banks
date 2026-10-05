@@ -6,10 +6,10 @@
     "expiry": "30/06/2025",
     "description": "استمتع بخصم 20% في متاجر  ديڤانو للمفروشات عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام: يسري هذا العرض على المشتري...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/OpenContent/Files/10381/divanofurniture_logo.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61033",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69178",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "ايليقنت ثنقز",
@@ -18,10 +18,10 @@
     "expiry": "01/05/2026",
     "description": "استمتع بخصم 10% لدى  ايليقنت ثنقز عبر الإنترنت باستخدام الرمز الترويجي BAJ10 الشروط والأحكام يسري هذا العرض عبر الإنترنت على الموقع الالكتروني https:/...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/OpenContent/Files/10381/elegant_things.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61087",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69232",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "الحميضي",
@@ -30,22 +30,58 @@
     "expiry": "1 مايو 2028",
     "description": "خصم 50% من ساعات الحميضي عند التسوّق عبر المتجر الإلكتروني. الشروط والأحكام لا يمكن الجمع بين هذا العرض وأي عروض أو خصومات أخرى. العرض خاضع لتوفر المن...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/humaidi.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/64188",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69391",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
-    "store": "7 عباية",
-    "discount": "12%",
+    "store": "ليتل فلورا",
+    "discount": "20%",
     "category": "تسوق",
-    "expiry": "9 يوليو 2027",
-    "description": "استمتع بخصم 12% لدى 7 عباية عبر الموقع الإلكتروني باستخدام الرمز الترويجي ajb12 عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحك...",
-    "img": "https://www.aljazirabank.com.sa/Portals/0/OpenContent/Files/10381/7_abaya_logo.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61091",
+    "expiry": "10/8/2027",
+    "description": "استمتع بخصم%20  لدى ليتل فلورا عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام يسري هذا العرض عند الدفع باستخدام بطاقا...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/little-flora.jpg",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69417",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "زعتر وزيت",
+    "discount": "15%",
+    "category": "المطاعم",
+    "expiry": "10/8/2027",
+    "description": "استمتع بخصم %15 لدى زعتر و زيت عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام يسري هذا العرض عند الدفع باستخدام بطاقا...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/zaatar.jpg",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69421",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "ايفوري فاشون",
+    "discount": "15%",
+    "category": "تسوق",
+    "expiry": "28/7/2027",
+    "description": "استمتع بخصم%15  لدى ايفوري فاشون عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام يسري هذا العرض عند الدفع باستخدام بطا...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/ivory.png",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69422",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "ليليز بيكري",
+    "discount": "15%",
+    "category": "المطاعم",
+    "expiry": "22/7/2027",
+    "description": "استمتع بخصم %15 لدى ليليز بيكري عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام يسري هذا العرض عند الدفع باستخدام بطاق...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/lilys-bakery.jpg",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69423",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "مزرود",
@@ -54,22 +90,22 @@
     "expiry": "9 يوليو 2027",
     "description": "استمتع بخصم 10% لدى مزرود عبر الموقع الإلكتروني باستخدام الرمز الترويجي ajb10 عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحكام...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/mazrood.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/67899",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69409",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
-    "store": "آجو",
-    "discount": "20%",
-    "category": "المطاعم",
-    "expiry": "08/07/2027",
-    "description": "استمتع بخصم 20% لدى أجيو عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية. الشروط والأحكام يسري هذا العرض من الأحد إلى الخميس فقط. يسري هذا العرض من ا...",
-    "img": "https://www.aljazirabank.com.sa/Portals/0/OpenContent/Files/10381/agio_logo.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61121",
+    "store": "7 عباية",
+    "discount": "12%",
+    "category": "تسوق",
+    "expiry": "9 يوليو 2027",
+    "description": "استمتع بخصم 12% لدى 7 عباية عبر الموقع الإلكتروني باستخدام الرمز الترويجي ajb12 عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحك...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/OpenContent/Files/10381/7_abaya_logo.png",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69410",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "مطعم بيف بار",
@@ -78,10 +114,10 @@
     "expiry": "08/07/2027",
     "description": "استمتع بخصم 20% لدى بيف بار عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية. الشروط والأحكام يسري هذا العرض يومياً. يسري هذا العرض طوال اليوم. يجب عل...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/OpenContent/Files/10381/beefbar_logo.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/60991",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69136",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "كويا الرياض",
@@ -90,10 +126,10 @@
     "expiry": "08/07/2027",
     "description": "استمتع بخصم 20% لدى كويا الرياض عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية. الشروط والأحكام يسري هذا العرض يومياً. يسري هذا العرض طوال اليوم. يج...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/OpenContent/Files/10381/coya_logo.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/60992",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69137",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "كريزي بيتزا",
@@ -102,46 +138,10 @@
     "expiry": "08/07/2027",
     "description": "استمتع بخصم 20% لدى كريزي بيتزا في فروع عود سكوير، نورث يارد، والخبر عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية. الشروط والأحكام يسري هذا العرض ...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/OpenContent/Files/10381/crazypizz_logo.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/60993",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69138",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
-  },
-  {
-    "store": "كايزو",
-    "discount": "20%",
-    "category": "المطاعم",
-    "expiry": "08/07/2027",
-    "description": "استمتع بخصم 20% لدى كايزو عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية. الشروط والأحكام يسري هذا العرض من الأحد إلى الخميس فقط. يسري هذا العرض من ...",
-    "img": "https://www.aljazirabank.com.sa/Portals/0/OpenContent/Files/10381/kayzo_logo.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/60999",
-    "promo": "",
-    "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
-  },
-  {
-    "store": "مطعم ميازو",
-    "discount": "20%",
-    "category": "المطاعم",
-    "expiry": "08/07/2027",
-    "description": "استمتع بخصم 20% لدى ميازو عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية. الشروط والأحكام يسري هذا العرض من الأحد إلى الخميس. يسري هذا العرض من السا...",
-    "img": "https://www.aljazirabank.com.sa/Portals/0/OpenContent/Files/10381/myazu_logo.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61001",
-    "promo": "",
-    "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
-  },
-  {
-    "store": "روباتا",
-    "discount": "20%",
-    "category": "المطاعم",
-    "expiry": "08/07/2027",
-    "description": "استمتع بخصم 20% لدى روباتا عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية. الشروط والأحكام يسري هذا العرض من الأحد إلى الخميس فقط. يسري هذا العرض من...",
-    "img": "https://www.aljazirabank.com.sa/Portals/0/OpenContent/Files/10381/robata_logo.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61000",
-    "promo": "",
-    "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "مطعم سان كارلو شكيتي",
@@ -150,10 +150,46 @@
     "expiry": "08/07/2027",
     "description": "استمتع بخصم 20% لدى سان كارلو تشيكيتي عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية. الشروط والأحكام يسري هذا العرض من الأحد إلى الخميس. يسري هذا ا...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/OpenContent/Files/10381/sancarlochicchetti_logo.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/60994",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69139",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "كايزو",
+    "discount": "20%",
+    "category": "المطاعم",
+    "expiry": "08/07/2027",
+    "description": "استمتع بخصم 20% لدى كايزو عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية. الشروط والأحكام يسري هذا العرض من الأحد إلى الخميس فقط. يسري هذا العرض من ...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/OpenContent/Files/10381/kayzo_logo.png",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69144",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "روباتا",
+    "discount": "20%",
+    "category": "المطاعم",
+    "expiry": "08/07/2027",
+    "description": "استمتع بخصم 20% لدى روباتا عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية. الشروط والأحكام يسري هذا العرض من الأحد إلى الخميس فقط. يسري هذا العرض من...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/OpenContent/Files/10381/robata_logo.png",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69145",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "مطعم ميازو",
+    "discount": "20%",
+    "category": "المطاعم",
+    "expiry": "08/07/2027",
+    "description": "استمتع بخصم 20% لدى ميازو عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية. الشروط والأحكام يسري هذا العرض من الأحد إلى الخميس. يسري هذا العرض من السا...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/OpenContent/Files/10381/myazu_logo.png",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69146",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "مطعم سينور ساسي",
@@ -162,10 +198,10 @@
     "expiry": "08/07/2027",
     "description": "استمتع بخصم 20% لدى سينيور ساسي عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية. الشروط والأحكام يسري هذا العرض من الأحد إلى الخميس. يسري هذا العرض م...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/OpenContent/Files/10381/signorsassi_logo.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61002",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69147",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "إيرث كافيه",
@@ -174,10 +210,22 @@
     "expiry": "08/07/2027",
     "description": "استمتع بخصم 15% لدى إيرث كافيه عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية. الشروط والأحكام: يسري هذا العرض من الأحد إلى الخميس. يسري هذا العرض م...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/OpenContent/Files/10381/urthcaffe_logo.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61003",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69148",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "آجو",
+    "discount": "20%",
+    "category": "المطاعم",
+    "expiry": "08/07/2027",
+    "description": "استمتع بخصم 20% لدى أجيو عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية. الشروط والأحكام يسري هذا العرض من الأحد إلى الخميس فقط. يسري هذا العرض من ا...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/OpenContent/Files/10381/agio_logo.png",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69266",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "كوستا كوفي",
@@ -186,10 +234,22 @@
     "expiry": "1 يوليو 2027",
     "description": "استمتع بخصم 20% في مقهى كوستا كوفي عند الدفع ببطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام: لا يوجد حد أدنى لقيمة الإنفاق للاستفادة من...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/OpenContent/Files/10381/costacoffee_logo.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61032",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69177",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "چاناش",
+    "discount": "15%",
+    "category": "المطاعم",
+    "expiry": "25/7/2027",
+    "description": "استمتع بخصم %15 لدى چاناش عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام يسري هذا العرض عند الدفع باستخدام بطاقات بنك...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/ganache.jpg",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69420",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "نمو لايف",
@@ -198,10 +258,10 @@
     "expiry": "23 يونيو 2027",
     "description": "استمتع بخصم 30% عبر تطبيق نمو باستخدام الرمز الترويجي ajb30 عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحكام يسري هذا العرض عن...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/numo.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/67610",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69395",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "أوفردوز كوفي",
@@ -210,10 +270,10 @@
     "expiry": "23/06/2027",
     "description": "استمتع بخصم 15% في فروع أوفردوز كوفي عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام يسري هذا العرض عند الدفع باستخدام...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/overdose.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/67612",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69396",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "مود لاب",
@@ -222,82 +282,22 @@
     "expiry": "1 يونيو 2027",
     "description": "استمتع بخصم 15% لدى مود لاب في الفروع عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحكام يسري هذا العرض عند الدفع باستخدام بطاقا...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/moodlab.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/67606",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69393",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
-    "store": "هُنّ أكتيف",
-    "discount": "15%",
+    "store": "ليزي بوي",
+    "discount": "30%",
     "category": "تسوق",
-    "expiry": "01/06/2027",
-    "description": "استمتع بخصم 15% لدى هُنّ أكتيف عند استخدام رمز الخصم ajb15 على الموقع الإلكتروني، والدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحكا...",
-    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/hunn.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/68569",
+    "expiry": "1 يونيو 2027",
+    "description": "استمتع بخصم 30% لدى ليزي بوي عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحكام يسري هذا العرض عند الدفع باستخدام بطاقات بنك الج...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/lazboy.jpg",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69412",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
-  },
-  {
-    "store": "آيل ستوديو",
-    "discount": "10%",
-    "category": "صحة و جمال",
-    "expiry": "22 مايو 2027",
-    "description": "استمتع بخصم 10% لدى  آيل ستودي وعند الدفع باستخدام بطاقات بنك الجزيرة (بطاقات الائتمان أو مدى). الشروط والأحكام يسري هذا العرض فقط عند الدفع باستخدام ...",
-    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/isle-studio.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61254",
-    "promo": "",
-    "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
-  },
-  {
-    "store": "بورتر هاوس",
-    "discount": "15%",
-    "category": "المطاعم",
-    "expiry": "22 مايو 2027",
-    "description": "استمتع بخصم 15% في مطعم بورتر هاوس عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام يسري هذا العرض فقط عند الدفع باستخد...",
-    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/porter-house.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61237",
-    "promo": "",
-    "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
-  },
-  {
-    "store": "‎‏ نافل الوادي سبا – فندق باب سمحان الدرعية",
-    "discount": "15%",
-    "category": "صحة و جمال",
-    "expiry": "22 مايو 2027",
-    "description": "استمتع بخصم 15% في نافل الوادي سبا عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام يسري هذا العرض فقط عند الدفع باستخد...",
-    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/nafel-al-wadi-spa.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61234",
-    "promo": "",
-    "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
-  },
-  {
-    "store": "هيدرالايت",
-    "discount": "25%",
-    "category": "تسوق",
-    "expiry": "22 مايو 2027",
-    "description": "استمتع بخصم 25% على منتجات هيدرالايت عبر الإنترنت باستخدام كود الخصم ajb25 عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى الشروط والأحكام يسر...",
-    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/hyrdralyte-ar.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61246",
-    "promo": "",
-    "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
-  },
-  {
-    "store": "باب سمحان، فندق من مجموعة لاكشري كوليكشن، الدرعية",
-    "discount": "15%",
-    "category": "السفر و السياحة",
-    "expiry": "22 مايو 2027",
-    "description": "استمتع بخصم 15% في فندق باب سمحان، الدرعية على الغرف والمأكولات والمشروبات عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأ...",
-    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/bab-samhan.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61248",
-    "promo": "",
-    "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "مجوهرات الكوهجي",
@@ -306,10 +306,82 @@
     "expiry": "22 مايو 2027",
     "description": "استمتع بخصم 15% لدى مجوهرات كوهجي باستخدام رمز الخصم ajbk15 عبر الموقع الإلكتروني وفي الفروع عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقا...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/kooheji-jewellery.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61230",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69375",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "‎‏ نافل الوادي سبا – فندق باب سمحان الدرعية",
+    "discount": "15%",
+    "category": "صحة و جمال",
+    "expiry": "22 مايو 2027",
+    "description": "استمتع بخصم 15% في نافل الوادي سبا عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام يسري هذا العرض فقط عند الدفع باستخد...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/nafel-al-wadi-spa.jpg",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69379",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "بورتر هاوس",
+    "discount": "15%",
+    "category": "المطاعم",
+    "expiry": "22 مايو 2027",
+    "description": "استمتع بخصم 15% في مطعم بورتر هاوس عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام يسري هذا العرض فقط عند الدفع باستخد...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/porter-house.jpg",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69381",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "هيدرالايت",
+    "discount": "25%",
+    "category": "تسوق",
+    "expiry": "22 مايو 2027",
+    "description": "استمتع بخصم 25% على منتجات هيدرالايت عبر الإنترنت باستخدام كود الخصم ajb25 عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى الشروط والأحكام يسر...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/hyrdralyte-ar.png",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69384",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "باب سمحان، فندق من مجموعة لاكشري كوليكشن، الدرعية",
+    "discount": "15%",
+    "category": "السفر و السياحة",
+    "expiry": "22 مايو 2027",
+    "description": "استمتع بخصم 15% في فندق باب سمحان، الدرعية على الغرف والمأكولات والمشروبات عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأ...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/bab-samhan.png",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69385",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "آيل ستوديو",
+    "discount": "10%",
+    "category": "صحة و جمال",
+    "expiry": "22 مايو 2027",
+    "description": "استمتع بخصم 10% لدى  آيل ستودي وعند الدفع باستخدام بطاقات بنك الجزيرة (بطاقات الائتمان أو مدى). الشروط والأحكام يسري هذا العرض فقط عند الدفع باستخدام ...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/isle-studio.png",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69388",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "كراما يوغا",
+    "discount": "10%",
+    "category": "صحة و جمال",
+    "expiry": "14/5/2027",
+    "description": "استمتع بخصم%10  في فروع كراما يوغا عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام يسري هذا العرض عند الدفع باستخدام ب...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/karama-yoga.jpg",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69416",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "لأريبيــا",
@@ -318,10 +390,10 @@
     "expiry": "10 مايو 2027",
     "description": "استمتع بخصم 10% لدى لارابيا عبر الموقع الإلكتروني باستخدام الرمز الترويجي ajb10 عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحك...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/larabia.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/67895",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69407",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "بيت ناصر",
@@ -330,10 +402,22 @@
     "expiry": "06/05/2027",
     "description": "استمتع بخصم 15% لدى بيت ناصر عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام يسري هذا العرض عند الدفع باستخدام بطاقات ...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/bait-nasser.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/67885",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69402",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "فيلا ماماز (تراس البجيري)",
+    "discount": "10%",
+    "category": "المطاعم",
+    "expiry": "06/05/2027",
+    "description": "استمتع بخصم 10% لدى فيلا ماماز الرياض عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام يسري هذا العرض عند الدفع باستخدا...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/villa-mamas.jpg",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69413",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "نيلز كونسبت",
@@ -342,10 +426,10 @@
     "expiry": "4 مايو 2027",
     "description": "استمتع بخصم 10% لدى نيلز كونسبت عند الحجز عبر الإنترنت باستخدام الرمز الترويجي ajb10 والدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأ...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/nails-concept.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/67608",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69394",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "شانتي شوكولاتة",
@@ -354,10 +438,10 @@
     "expiry": "2 مايو 2027",
     "description": "استمتع بخصم 10% لدى شانتي شوكولاتة عبر الإنترنت باستخدام الرمز الترويجي ajb10، أو في الفروع عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. ا...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/chante.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/67891",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69405",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "لافيرا شوكولاتة",
@@ -366,10 +450,10 @@
     "expiry": "2 مايو 2027",
     "description": "استمتع بخصم 10% لدى لافيرا شوكولاتة عبر الموقع الإلكتروني باستخدام الرمز الترويجي ajb10 ، أو في الفروع عند الدفع باستخدام بطاقات بنك الجزيرة الائتماني...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/laveira.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/67896",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69408",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "منتجات لاوني",
@@ -378,10 +462,10 @@
     "expiry": "30 ابريل 2027",
     "description": "خصم 30% على منتجات لاوني عند التسوّق عبر الموقع الإلكتروني لشروط والأحكام العرض متاح فقط لحاملي بطاقات بنك الجزيرة يتم استخدام كود خصم مقدم من البنك ع...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/lawni.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66529",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69392",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "بريت أ مانجيه السعودية",
@@ -390,10 +474,10 @@
     "expiry": "19 أبريل 2027",
     "description": "استمتع بترقية مجانية لحجم القهوة لدى بريت أمانجيه السعودية عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحكام يسري هذا العرض عند...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/pret-a-manger.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/67614",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69397",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "قرمز",
@@ -402,10 +486,10 @@
     "expiry": "15 أبريل 2027",
     "description": "استمتع بخصم 10% لدى قرمز عبر الموقع الإلكتروني باستخدام الرمز الترويجي ajb10 ، أو في الفرع عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. ال...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/qormuz.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/67616",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69398",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "سيلينا سبا",
@@ -414,10 +498,10 @@
     "expiry": "21 أبريل 2027",
     "description": "استمتع بخصم 10% لدى سيلينا سبا عند الحجز عبر الإنترنت باستخدام الرمز الترويجي ajb10 والدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأح...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/selena-spa.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/67620",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69400",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "فورميه ويلنس",
@@ -426,10 +510,10 @@
     "expiry": "14 أبريل 2027",
     "description": "استمتع بخصم 15% في فورميه ويلنس عند الدفع بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام هذا العرض صالح فقط عند الدفع باستخدام بطاقات بن...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/forme-wellness.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61252",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69387",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "منتجع نوفا الرياض",
@@ -438,10 +522,10 @@
     "expiry": "12 مارس 2027",
     "description": "استمتع بخصم يصل إلى 15% على الإقامة والمأكولات والمشروبات في منتجع نوفا بالرياض عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية. الشروط والأحكام يسري...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/nofa-riyadh.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61235",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69380",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "كارميه شوكولاتة",
@@ -450,10 +534,10 @@
     "expiry": "8 مارس 2027",
     "description": "استمتع بخصم 10% لدى كارميه شوكولاتة عبر الموقع الإلكتروني باستخدام الرمز الترويجي ajb10 ، أو في الفروع عند الدفع باستخدام بطاقات بنك الجزيرة الائتماني...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/carmey.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/67889",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69404",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "إف 45 للتدريب مركز لياقة بدنية (برج المملكة)",
@@ -462,10 +546,10 @@
     "expiry": "5 مارس 2027",
     "description": "استمتع بخصم 10% في إف 45 للتدريب مركز لياقة بدنية (برج المملكة) عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام هذا ال...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/F45-training-kingdom-tower.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61250",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69386",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "غونَايْدِن الرياض",
@@ -474,10 +558,10 @@
     "expiry": "12 فبراير 2027",
     "description": "استمتع بخصم 15% لدى غونيدين عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحكام يسري هذا العرض فقط عند الدفع باستخدام بطاقات بنك ...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/gunaydin.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61200",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69345",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "حـلانا غـير",
@@ -486,22 +570,10 @@
     "expiry": "05/02/2027",
     "description": "استمتع بخصم 20% في حـلانا غـير عند الطلب أونلاين باستخدام كود الخصم ajb20 ، أو داخل المتجر عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات ...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/hallana-gher.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61192",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69337",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
-  },
-  {
-    "store": "مطعم طنط",
-    "discount": "10%",
-    "category": "المطاعم",
-    "expiry": "05/02/2027",
-    "description": "استمتع بخصم 10% في مطعم طنط عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام هذا العرض صالح فقط عند الدفع باستخدام بطاق...",
-    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/tante.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61181",
-    "promo": "",
-    "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "إسبوزا السعودية",
@@ -510,10 +582,10 @@
     "expiry": "5 فبراير 2027",
     "description": "استمتع بخصم 20% لدى إسبوزا السعودية (داخل المتجر وعبر الإنترنت) باستخدام الرمز الترويجي ajb20 عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاق...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/Esposa.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61199",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69344",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "هوشو",
@@ -522,22 +594,10 @@
     "expiry": "31 يناير 2027",
     "description": "استمتع بخصم 10% على إجمالي الفاتورة في هوشو عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام هذا العرض صالح فقط عند الد...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/hocho.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61193",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69338",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
-  },
-  {
-    "store": "سارابيث",
-    "discount": "15%",
-    "category": "المطاعم",
-    "expiry": "31 يناير 2027",
-    "description": "استمتع بخصم 15% لدى سارابيث عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحكام يسري هذا العرض فقط عند الدفع باستخدام بطاقات بنك ...",
-    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/sarabeths.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61210",
-    "promo": "",
-    "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "كوفا",
@@ -546,10 +606,22 @@
     "expiry": "31 يناير 2027",
     "description": "استمتع بخصم 10% لدى كوفا عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحكام يسري هذا العرض فقط عند الدفع باستخدام بطاقات بنك الج...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/cova.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61196",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69341",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "سارابيث",
+    "discount": "15%",
+    "category": "المطاعم",
+    "expiry": "31 يناير 2027",
+    "description": "استمتع بخصم 15% لدى سارابيث عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحكام يسري هذا العرض فقط عند الدفع باستخدام بطاقات بنك ...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/sarabeths.jpg",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69355",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "أسماك سيتي",
@@ -558,10 +630,10 @@
     "expiry": "31/01/2027",
     "description": "استمتع بخصم 10% لدى أسماك سيتي عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام يسري هذا العرض عند الدفع باستخدام بطاقا...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/asmak-city.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/67621",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69401",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "مركز بايوفيت",
@@ -570,10 +642,10 @@
     "expiry": "31/01/2027",
     "description": "استمتع بخصومات تصل إلى 25% لدى مركز بايوفيت عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام يسري هذا العرض عند الدفع ب...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/biofit.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/67887",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69403",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "معمول بوكيه",
@@ -582,10 +654,10 @@
     "expiry": "31 يناير 2027",
     "description": "استمتع بخصم 15% لدى مامول بوكيه في الفروع عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحكام يسري هذا العرض عند الدفع باستخدام ب...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/mamool-bokeh.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/68561",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69411",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "نبيلة ناظر",
@@ -594,10 +666,10 @@
     "expiry": "22 يناير 2027",
     "description": "استمتع بخصم بنسبة 15% لدى نبيلة ناظر في المتاجر وعبر الإنترنت عند استخدام كود الخصم ajb15 والدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. الشروط...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/nabila-nazer.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61207",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69352",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "حلّاب 1881",
@@ -606,10 +678,10 @@
     "expiry": "18 يناير 2027",
     "description": "استمتع بخصم 10% لدى حلّاب 1881 عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحكام يسري هذا العرض فقط عند الدفع باستخدام بطاقات ب...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/hallab.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61201",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69346",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "نيو باي نوماد",
@@ -618,10 +690,10 @@
     "expiry": "10/01/2027",
     "description": "استمتع بخصم 20% في  نيو باي نوماد خلال شهر رمضان عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى الشروط والأحكام هذا العرض صالح فقط عند...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/nomad.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61161",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69306",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "بينج",
@@ -630,10 +702,10 @@
     "expiry": "",
     "description": "استمتع بخصم 15% لدى بينج باستخدام بطاقتك البنكية من بنك الجزيرة الشروط والأحكام تسري مزايا هذه الشراكة على عملاء البنك، ويُمنح العملاء خصماً خاصاً على...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/binge.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61422",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69390",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "ميموزا جدة",
@@ -642,22 +714,10 @@
     "expiry": "04/01/2027",
     "description": "استمتع بخصم 20% في ميموزا جدة عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية. الشروط والأحكام هذا العرض صالح فقط عند الدفع باستخدام بطاقات بنك الجزي...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/mimosa.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61194",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69339",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
-  },
-  {
-    "store": "نادي ألفا إيليت للياقة البدنية",
-    "discount": "15%",
-    "category": "صحة و جمال",
-    "expiry": "31 ديسمبر 2026",
-    "description": "استمتع بخصم 15% لدى نادي ألفا إيليت للياقة البدنية على جميع الاشتراكات عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية. الشروط والأحكام يسري هذا العر...",
-    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/alpha-elite.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61227",
-    "promo": "",
-    "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "عبايات أوساجي",
@@ -666,10 +726,22 @@
     "expiry": "31 ديسمبر 2026",
     "description": "استمتع بخصم 15% لدى  عبايات أوساجي في المتجر أو عبر الإنترنت عند استخدام كود الخصم ajb15 أثناء الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. ال...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/ossagi-abaya.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61209",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69354",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "نادي ألفا إيليت للياقة البدنية",
+    "discount": "15%",
+    "category": "صحة و جمال",
+    "expiry": "31 ديسمبر 2026",
+    "description": "استمتع بخصم 15% لدى نادي ألفا إيليت للياقة البدنية على جميع الاشتراكات عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية. الشروط والأحكام يسري هذا العر...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/alpha-elite.jpg",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69372",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "فندق ومنتجع شانغريلا جدة",
@@ -678,10 +750,10 @@
     "expiry": "31 ديسمبر 2026",
     "description": "استمتع بخصم 15% في فندق ومنتجع شانغريلا جدة عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحكام يسري هذا العرض فقط عند الدفع باست...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/shangri-la-jeddah.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61240",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69382",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "سامسونايت السعودية",
@@ -690,10 +762,10 @@
     "expiry": "31 ديسمبر 2026",
     "description": "استمتع بخصم 15% لدى سامسونايت السعودية عبر الموقع الإلكتروني باستخدام الرمز الترويجي ajb15 عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. ال...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/samsonite.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/67618",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69399",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "عطور ثروة",
@@ -702,10 +774,34 @@
     "expiry": "24 ديسمبر 2026",
     "description": "استمتع بخصم 35% لدى عطور ثروة في المتجر وعبر الإنترنت عند استخدام كود الخصم ajb35 أثناء الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى الشروط وال...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/tharwah-perfume.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61212",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69357",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "ميزون صفقة",
+    "discount": "10%",
+    "category": "تسوق",
+    "expiry": "20/12/2026",
+    "description": "استمتع بخصم 10% من ميزون صفقة عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام يسري هذا العرض عند الدفع باستخدام بطاقات...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/maison-safqa.jpg",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69418",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "كرمزن لاونج",
+    "discount": "10%",
+    "category": "المطاعم",
+    "expiry": "15/12/2026",
+    "description": "استمتع بخصم %10 في كرمزن لاونج عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام يسري هذا العرض عند الدفع باستخدام بطاقا...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/crimson-lounge.jpg",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69415",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "بالا دي ٧",
@@ -714,10 +810,10 @@
     "expiry": "01/12/2026",
     "description": "استمتع بخصم 15٪ في بالا دي 7 باستخدام الرمز الترويجي ajb15 في التطبيق عند الدفع ببطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام هذا العر...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/pala-de7.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61167",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69312",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "روزميزون",
@@ -726,10 +822,22 @@
     "expiry": "",
     "description": "استمتع بخصم 15% في  روزميزون عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام هذا العرض صالح فقط عند الدفع باستخدام بطا...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/rose-maison.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61184",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69329",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "أون تايم",
+    "discount": "10%",
+    "category": "تسوق",
+    "expiry": "1/12/2026",
+    "description": "استمتع بخصم % 10من أون تايم عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية. الشروط والأحكام يسري هذا العرض فقط عند الدفع باستخدام بطاقات بنك الجزيرة...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/ontime.jpg",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69419",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "ألوفت هوتيل – كورتيارد من ماريوت العليا",
@@ -738,34 +846,22 @@
     "expiry": "30 نوفمبر 2026",
     "description": "استمتع بخصم يصل إلى 20% لدى فندق كورتيارد من ماريوت العليا على الغرف والمأكولات والمشروبات عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات ...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/courtyard.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61226",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69371",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
-    "store": "كرِمزُن صالة",
+    "store": "مطعم طنط",
     "discount": "10%",
     "category": "المطاعم",
-    "expiry": "20 نوفمبر 2026",
-    "description": "استمتع بخصم 10% لدى كرِمزُن صالة عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحكام يسري هذا العرض فقط عند الدفع باستخدام بطاقات...",
-    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/crimson-lounge.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61197",
+    "expiry": "27/11/2026",
+    "description": "استمتع بخصم 10% طنط عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام يسري هذا العرض عند الدفع باستخدام بطاقات بنك الجزي...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/tante.png",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69414",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
-  },
-  {
-    "store": "وكالة الأهرام للسفر والسياحة",
-    "discount": "15%",
-    "category": "السفر و السياحة",
-    "expiry": "23/07/2026",
-    "description": "استمتع بخصم 15٪ في وكالة الاهرام للسفر والسياحة عند الدفع ببطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام هذا العرض صالح فقط عند الدفع ب...",
-    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/atc.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61165",
-    "promo": "",
-    "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "بالا",
@@ -774,10 +870,22 @@
     "expiry": "19/11/2026",
     "description": "استمتع بخصم 10% في متجر بالا عبر الانترنت باستخدام كود الخصم ajb10 عند الدفع ببطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحكام هذا العرض صالح فقط...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/bala.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61156",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69301",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "وكالة الأهرام للسفر والسياحة",
+    "discount": "15%",
+    "category": "السفر و السياحة",
+    "expiry": "23/07/2026",
+    "description": "استمتع بخصم 15٪ في وكالة الاهرام للسفر والسياحة عند الدفع ببطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام هذا العرض صالح فقط عند الدفع ب...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/atc.png",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69310",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "نينجو",
@@ -786,10 +894,10 @@
     "expiry": "19/11/2026",
     "description": "استمتع بخصم 10% في نينجو عبر الانترنت باستخدام كود الخصم ajb10 على الموقع الالكتروني عند الدفع ببطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحكام ...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/ninjoo.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61177",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69322",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "فولد ريفورمر",
@@ -798,10 +906,10 @@
     "expiry": "19/11/2026",
     "description": "استمتع بخصم 10% في فولد ريفورمر عبر الانترنت باستخدام كود الخصم ajb10 على الموقع الالكتروني عند الدفع ببطاقات بنك الجزيرة الائتمانية أو مدى. الشروط وا...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/fold.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61179",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69324",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "العيسائي للاطفال",
@@ -810,10 +918,10 @@
     "expiry": "5 نوفمبر 2026",
     "description": "استمتع بخصم 10% لدى العيسائي للأطفال عبر الانترنت باستخدام كود الخصم ajb10 عند الدفع ببطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحكام يسري هذا ا...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/alesayi-kids.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61225",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69370",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "دار زيد",
@@ -822,10 +930,10 @@
     "expiry": "02/11/2026",
     "description": "استمتع بخصم 15٪ في دار زايد عند الدفع ببطاقات الائتمانية من بنك الجزيرة أو بطاقات مدى. الشروط والأحكام ذا العرض صالح فقط عند الدفع باستخدام بطاقات بنك...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/maison-de--zaid.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61157",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69302",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "زد",
@@ -834,10 +942,10 @@
     "expiry": "02/11/2026",
     "description": "استمتع بخصم 10٪ في زد عند الدفع ببطاقات الائتمانية من بنك الجزيرة أو بطاقات مدى. الشروط والأحكام هذا العرض صالح فقط عند الدفع باستخدام بطاقات بنك الجز...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/zed.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61162",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69307",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "فوكو الرياض",
@@ -846,10 +954,10 @@
     "expiry": "2 نوفمبر 2026",
     "description": "استمتع بخصم يصل الى 20% على الغرف والاجنحة وعلى المأكولات والمشروبات في فندق فوكو الرياض حسب التوافر عند الدفع اون لاين ببطاقات بنك الجزيرة الائتمانية...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/voco.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61183",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69328",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "شاي ســدرة",
@@ -858,10 +966,10 @@
     "expiry": "01/11/2026",
     "description": "استمتع بخصم 10٪ في فرع شاي سدرة عند الدفع ببطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام هذا العرض صالح فقط عند الدفع باستخدام بطاقات ب...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/sedra-tea-.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61164",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69309",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "وافي غورميه",
@@ -870,10 +978,10 @@
     "expiry": "1 نوفمبر 2026",
     "description": "استمتع بخصم 15% في وافي غورميه على الأصناف المعتمدة من الطعام عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام هذا العر...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/wafi.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61187",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69332",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "نامو",
@@ -882,22 +990,10 @@
     "expiry": "1 نوفمبر 2026",
     "description": "استمتع بخصم 15% في نامو على الأصناف المعتمدة من الطعام عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام هذا العرض صالح ...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/namu.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61188",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69333",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
-  },
-  {
-    "store": "ديب لاب كافيه",
-    "discount": "15%",
-    "category": "المطاعم",
-    "expiry": "31 أكتوبر 2026",
-    "description": "استمتع بخصم 15% لدى فروع ديب لاب كافيه عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام يسري هذا العرض فقط عند الدفع با...",
-    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/diplab-cafe.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61228",
-    "promo": "",
-    "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "كومفيليغانس",
@@ -906,10 +1002,22 @@
     "expiry": "31/10/2026",
     "description": "استمتع بخصم 15% على موقع كومفيليغانس باستخدام الرمز الترويجي ajb15 عند الدفع ببطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحكام هذا العرض صالح فقط...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/comfelegance.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61178",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69323",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "ديب لاب كافيه",
+    "discount": "15%",
+    "category": "المطاعم",
+    "expiry": "31 أكتوبر 2026",
+    "description": "استمتع بخصم 15% لدى فروع ديب لاب كافيه عند الدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشروط والأحكام يسري هذا العرض فقط عند الدفع با...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/diplab-cafe.jpg",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69373",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "سوشيا",
@@ -918,10 +1026,10 @@
     "expiry": "26/10/2026",
     "description": "استمتع بخصم 20% في فروع سوشيا عند الدفع ببطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحكام هذا العرض صالح فقط عند الدفع باستخدام بطاقات بنك الجزير...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/suchia.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61158",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69303",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "يلا هايك",
@@ -930,10 +1038,10 @@
     "expiry": "26/10/2026",
     "description": "استمتع بخصم 20% في يلا هايك باستخدام الرمز الترويجي ajb20 على موقع الالكتروني عند الدفع ببطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحكام هذا الع...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/yalla-hike.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61180",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69325",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "نباتاتي",
@@ -942,10 +1050,10 @@
     "expiry": "22 أكتوبر 2026",
     "description": "استمتع بخصم 15% عند الشراء من نباتاتي اونلاين باستخدام كود الخصم ajb15 عند الدفع ببطاقات بنك الجزيرة الائتمانية أو مدى. الشروط والأحكام يسري هذا العرض...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/nbtatty.png",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61186",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69331",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "بلوايج",
@@ -954,10 +1062,10 @@
     "expiry": "21 أكتوبر 2026",
     "description": "استمتع بخصم 20% لدى بلو ايج عبر الانترنت باستخدام كود الخصم ajb20 عند الدفع ببطاقات بنك الجزيرة الائتمانية أو مدى.    الائتمانية أو مدى. الشروط والأحك...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/blue-age.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61242",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69383",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "كلارا فاشنز",
@@ -966,10 +1074,10 @@
     "expiry": "18/10/2026",
     "description": "استمتع بخصم 15% لدى كلارا فاشونز عند استخدام رمز الخصم ajb15 على الموقع الإلكتروني، والدفع باستخدام بطاقات بنك الجزيرة الائتمانية أو بطاقات مدى. الشرو...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/logos/partners/clara.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/67893",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69406",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "مطعم سان كارلو شيكيتي",
@@ -981,7 +1089,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53798",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "مطعم كويا",
@@ -993,7 +1101,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53800",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "مطعم كريزي بيتزا",
@@ -1005,7 +1113,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53801",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "ايرث كافيه",
@@ -1017,7 +1125,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53803",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "مطعم روباتا",
@@ -1029,7 +1137,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53813",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "مطعم كايزو",
@@ -1041,7 +1149,19 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53802",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "نادي اورا",
+    "discount": "",
+    "category": "Shopping",
+    "expiry": "",
+    "description": "هذا العرض لعملاء الويلث و البريميوم فقط. خصم 47 % لعملاء الويلث خصم 47% لعملاء البريميوم للحصول على العرض يتوجب على عملاء الويلث البريميوم استخدام بطا...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/OpenContent/Files/10381/auracenters_logo.jpg",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53778",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "أثواب الصحراء للخياطة الرجالية",
@@ -1053,7 +1173,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53804",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "صالون ريما",
@@ -1065,7 +1185,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53806",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "مطعم سينيور ساسي",
@@ -1077,7 +1197,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53799",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "عيادة رفايفا",
@@ -1089,7 +1209,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/64942",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "مطعم نوى باتيو",
@@ -1101,7 +1221,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53810",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "لافينيو",
@@ -1113,7 +1233,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61244",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "ميزون أسولين الرياض",
@@ -1125,7 +1245,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/60973",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "صبحي كابر",
@@ -1137,7 +1257,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53791",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "ايل باريتو",
@@ -1149,7 +1269,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53784",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "بلاك تاب",
@@ -1161,7 +1281,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53796",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "رويا",
@@ -1173,7 +1293,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53789",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "روكا",
@@ -1185,7 +1305,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53783",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "جون اند فينيز",
@@ -1197,7 +1317,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53811",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "اي او كي كيتشن",
@@ -1209,7 +1329,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53788",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "لي فايا سبا",
@@ -1221,7 +1341,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/61262",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "فندق مارلو",
@@ -1233,7 +1353,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53807",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "عيادة ابتسامة النجوم",
@@ -1245,7 +1365,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53794",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "نادي فاست فيت",
@@ -1257,7 +1377,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53820",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "ليفو شوكولاتيير",
@@ -1269,7 +1389,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53821",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "توينا",
@@ -1281,7 +1401,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/60814",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "جوديفا",
@@ -1293,7 +1413,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53814",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "تطبيق مبيت",
@@ -1305,7 +1425,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53785",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "رانديز دونات",
@@ -1317,7 +1437,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53787",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "مفروشات الرقيب",
@@ -1329,7 +1449,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53779",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "مفروشات اشلي",
@@ -1341,7 +1461,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53780",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "زوز لاشيز",
@@ -1353,7 +1473,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/60812",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "قليمز",
@@ -1365,7 +1485,19 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/53819",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "قسّط مشترياتك مع برنامج لا تأجل",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "",
+    "description": "احتفل باليوم الوطني مع برنامج لا تأجل",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/Hero_Banners/campaigns/2026/lt-snd-ar.jpg",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69473",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "استمتع بأرقى عروض ماستركارد",
@@ -1377,7 +1509,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/64946",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "Styli",
@@ -1389,7 +1521,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/64949",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "Golden Scent",
@@ -1401,7 +1533,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66818",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "Amazon Prime",
@@ -1413,7 +1545,7 @@
     "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66747",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "عرض جلوبال بلو",
@@ -1422,10 +1554,10 @@
     "expiry": "",
     "description": "نظرة عامة أنت تحب السفر، ونحن نجعل سفرك أكثر مكافأة. هل تخطط لزيارة ميلان، روما، فينيسيا، ميونخ، مدريد، باريس أو لندن قريباً؟ باعتبارك حامل بطاقة بنك ...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/offers/visa/Global_Blue_NEW_Banner-02_AR-EN_1200x409px_AR-1.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66708",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69448",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "MUSÉE DU LOUVRE",
@@ -1434,10 +1566,10 @@
     "expiry": "",
     "description": "استمتع بتجربة استثنائية في متحف اللوفر مع أولوية الدخول الحصرية لحاملي بطاقة Visa  إنفينيت عبر ممر ريشليو من جهة شارع ريفولي، بالإضافة إلى إمكانية دخو...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/musee-du-louvre.webp",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66715",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69455",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "THE BICESTER COLLECTION",
@@ -1446,10 +1578,10 @@
     "expiry": "",
     "description": "استمتع بتجربة تسوق استثنائية مع خصم 10% على أسعار The Bicester Collection، وخدمة التسوق دون حمل المشتريات، بالإضافة إلى إمكانية الدخول الحصري إلى الأج...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/the-bicester-collection.webp",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66717",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69457",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "LEGOLAND",
@@ -1458,10 +1590,10 @@
     "expiry": "",
     "description": "وفّر حتى %15 على مغامرتك الممتعة في LEGOLAND® Windsor Resort تمنحك تذكرة التوفير عبر الإنترنت دخولا ليوم كامل إلى LEGOLAND® Windsor Resort استمتع بأكث...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/legoland.webp",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66718",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69458",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "GALERIES LAFAYETTE",
@@ -1470,10 +1602,10 @@
     "expiry": "",
     "description": "استمتع بالدخول إلى صالات كبار الشخصيات والمزايا الحصرية، بما في ذلك المرطبات المجانية، وخدمة الاسترداد السريع للضرائب، وخدمة التسوق دون حمل المشتريات....",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/galeries-lafayette.webp",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66719",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69459",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "Printemps",
@@ -1482,10 +1614,10 @@
     "expiry": "",
     "description": "استمتع بتجربة استثنائية مع باقة من المزايا الحصرية، بما في ذلك خدمة استقبال مخصصة، واسترداد الضرائب بكل سهولة وخدمة المساعد الشخصي، وغيرها من الامتياز...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/printemps.webp",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66720",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69460",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "LA VALLÉE VILLAGE",
@@ -1494,10 +1626,10 @@
     "expiry": "",
     "description": "استمتع بمزايا تسوق حصرية خصم 10% على الأسعار داخل القرية من خلال بطاقة VIP Pass. توفير إضافي يصل إلى 12% عند التسوق مع استرداد ضريبة القيمة المضافة عب...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/la-vallee-village.webp",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66721",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69461",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "BOOKING.COM",
@@ -1506,34 +1638,10 @@
     "expiry": "",
     "description": "احصل على رصيد محفظة يصل إلى 7% على حجوزات الإقامة. يسري العرض حتى 31 ديسمبر 2026. احجز الآن! تطبّق الشروط والأحكام. الشروط والأحكام حتى %7 رصيد محفظة ...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/booking-com.webp",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/66724",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69464",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
-  },
-  {
-    "store": "عروض طعام فاخرة لحاملي بطاقات أجواء سيجنتشر الائتمانية",
-    "discount": "",
-    "category": "عروض",
-    "expiry": "",
-    "description": "حّول تجربة الطعام الفاخر إلى تجربة مميزة مع عروض حصرية عند الحجز عبر تطبيق Visa Airport Companion الشروط والأحكام نبذة عن البرنامج إصدار مطاعم فاخرة و...",
-    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/visa-prem-dining-signature.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/67011",
-    "promo": "",
-    "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
-  },
-  {
-    "store": "عروض خاصة لدى نخبة من التجار لحاملي بطاقاتVisa  إنفينيت /أجواء إنفينيت /أجواء سيجنتشر/ أجواء البلاتينية الائتمانية",
-    "discount": "",
-    "category": "عروض",
-    "expiry": "",
-    "description": "اكتشف مزايا جديدة على المطاعم، اللياقة، السفر والمزيد عند الدفع باستخدام بطاقة بنك الجزيرة Visa الائتمانية من خلال الوصول إلى الموقع المصغر لعروض تجار...",
-    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/visa-merchant-offers.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/67013",
-    "promo": "",
-    "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
   },
   {
     "store": "عروض طعام فاخرة لحاملي بطاقات Visa إنفينيت وبطاقات أجواء إنفينيت الائتمانية",
@@ -1542,9 +1650,45 @@
     "expiry": "",
     "description": "حّول تجربة الطعام الفاخر إلى تجربة مميزة مع عروض حصرية عند الحجز عبر تطبيق Visa Airport Companion إصدارPremium Dining Edition  من SupperClub شروط وأحك...",
     "img": "https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/visa-prem-dining-infinite.jpg",
-    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/67009",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69465",
     "promo": "",
     "_bank": "jazira",
-    "_updated": "2026-10-04 08:03"
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "عروض طعام فاخرة لحاملي بطاقات أجواء سيجنتشر الائتمانية",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "",
+    "description": "حّول تجربة الطعام الفاخر إلى تجربة مميزة مع عروض حصرية عند الحجز عبر تطبيق Visa Airport Companion الشروط والأحكام نبذة عن البرنامج إصدار مطاعم فاخرة و...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/visa-prem-dining-signature.jpg",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69466",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "عروض خاصة لدى نخبة من التجار لحاملي بطاقاتVisa  إنفينيت /أجواء إنفينيت /أجواء سيجنتشر/ أجواء البلاتينية الائتمانية",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "",
+    "description": "اكتشف مزايا جديدة على المطاعم، اللياقة، السفر والمزيد عند الدفع باستخدام بطاقة بنك الجزيرة Visa الائتمانية من خلال الوصول إلى الموقع المصغر لعروض تجار...",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/Campaign/visa/26/visa-merchant-offers.jpg",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69467",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
+  },
+  {
+    "store": "فرصتك تبدأ مع أجواء",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "",
+    "description": "احصل على بطاقات أجواء الائتمانية مجاناً بدون رسوم إصدار وادخل السحب على راتب شهري لمدة سنة كاملة",
+    "img": "https://www.aljazirabank.com.sa/Portals/0/Images/Hero_Banners/campaigns/2026/ajwaa-no-issuance-fee.jpg",
+    "link": "https://www.aljazirabank.com.sa/ar-sa/personal/promotional-offers/id/69469",
+    "promo": "",
+    "_bank": "jazira",
+    "_updated": "2026-10-05 08:32"
   }
 ]
