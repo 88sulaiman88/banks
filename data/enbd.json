@@ -1,5 +1,17 @@
 [
   {
+    "store": "بيوتيفل كورنر",
+    "discount": "20%",
+    "category": "أثاث",
+    "expiry": "01/08/2027",
+    "description": "خصم 20٪ عند استخدام بطاقات بنك الإمارات دبي الوطني",
+    "img": "https://cdn.emiratesnbd.com/plugins/cardprivileges/images/inner_images/merchant_bc_logo_new.jpg",
+    "link": "https://www.emiratesnbd.com.sa/ar/deals/furniture/beautiful-corner",
+    "promo": "",
+    "_bank": "enbd",
+    "_updated": "2026-10-06 08:52"
+  },
+  {
     "store": "روفر",
     "discount": "10%",
     "category": "أثاث",
@@ -9,7 +21,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/furniture/rovere-offer",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "بيت الرياض",
@@ -21,7 +33,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/furniture/riyadh-house-offer",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "ريتزن",
@@ -33,7 +45,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/furniture/retzn-offer",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "لدى الخزائن",
@@ -45,7 +57,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/furniture/creative-closets",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "همّة تك",
@@ -57,7 +69,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/furniture/hemahteeh",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "كلين اند فاين",
@@ -69,7 +81,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/furniture/hemah",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "بيتونيا",
@@ -81,7 +93,31 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/furniture/baytonia",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
+  },
+  {
+    "store": "فيردي",
+    "discount": "20%",
+    "category": "مطاعم",
+    "expiry": "21/09/2027",
+    "description": "خصم 20% في اجيو في الفروع عند ستخدام اي من بطاقات بنك الامارات دبي الوطني الائتمانية",
+    "img": "https://cdn.emiratesnbd.com/plugins/cardprivileges/images/inner_images/vega-lounge.jpg",
+    "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/vega-lounge",
+    "promo": "",
+    "_bank": "enbd",
+    "_updated": "2026-10-06 08:52"
+  },
+  {
+    "store": "ماديو",
+    "discount": "10%",
+    "category": "مطاعم",
+    "expiry": "21/09/2027",
+    "description": "خصم حتى 10% في ماديو عند استخدام أي من بطاقات بنك الإمارات دبي الوطني.",
+    "img": "https://cdn.emiratesnbd.com/plugins/cardprivileges/images/inner_images/madeo.jpg",
+    "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/madeo",
+    "promo": "",
+    "_bank": "enbd",
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "سنيور ساسي",
@@ -93,7 +129,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/signor-sassi",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "سان كارلو شكيتي",
@@ -105,7 +141,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/san-carlo-cicchetti",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "ايرث كافيه",
@@ -117,7 +153,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/urth-caffe",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "روباتا",
@@ -129,7 +165,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/robata",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "ميازو",
@@ -141,7 +177,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/myazu",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "كريزي بيتزا",
@@ -153,7 +189,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/crazy-pizza",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "كويا",
@@ -165,31 +201,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/coya",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
-  },
-  {
-    "store": "بيف بار",
-    "discount": "20%",
-    "category": "مطاعم",
-    "expiry": "08/07/2027",
-    "description": "خصم 20% في بيف بار في الفروع عند ستخدام اي من بطاقات بنك الامارات دبي الوطني الائتمانية",
-    "img": "https://cdn.emiratesnbd.com/plugins/cardprivileges/images/inner_images/beefbar_logo_ksa.jpg",
-    "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/beefbar",
-    "promo": "",
-    "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
-  },
-  {
-    "store": "فيلا مامز إكسبريس",
-    "discount": "15%",
-    "category": "مطاعم",
-    "expiry": "06/05/2027",
-    "description": "خصم 15% في فيلا مامزإكسبريس في الفروع عند ستخدام اي من بطاقات بنك الامارات دبي الوطني الائتمانية.",
-    "img": "https://cdn.emiratesnbd.com/plugins/cardprivileges/images/inner_images/villa_mamas_logo_new2.jpg",
-    "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/villa-mamas-express",
-    "promo": "",
-    "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "كايزؤ",
@@ -201,7 +213,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/villa-mamas",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "بيت ناصر",
@@ -213,7 +225,31 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/bait-nasser",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
+  },
+  {
+    "store": "فيلا مامز إكسبريس",
+    "discount": "15%",
+    "category": "مطاعم",
+    "expiry": "06/05/2027",
+    "description": "خصم 15% في فيلا مامزإكسبريس في الفروع عند ستخدام اي من بطاقات بنك الامارات دبي الوطني الائتمانية.",
+    "img": "https://cdn.emiratesnbd.com/plugins/cardprivileges/images/inner_images/villa_mamas_logo_new2.jpg",
+    "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/villa-mamas-express",
+    "promo": "",
+    "_bank": "enbd",
+    "_updated": "2026-10-06 08:52"
+  },
+  {
+    "store": "بيف بار",
+    "discount": "20%",
+    "category": "مطاعم",
+    "expiry": "08/07/2027",
+    "description": "خصم 20% في بيف بار في الفروع عند ستخدام اي من بطاقات بنك الامارات دبي الوطني الائتمانية",
+    "img": "https://cdn.emiratesnbd.com/plugins/cardprivileges/images/inner_images/beefbar_logo_ksa.jpg",
+    "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/beefbar",
+    "promo": "",
+    "_bank": "enbd",
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "آجو",
@@ -225,7 +261,43 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/agio",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
+  },
+  {
+    "store": "أوڤر أندر",
+    "discount": "10%",
+    "category": "مطاعم",
+    "expiry": "21/09/2027",
+    "description": "خصم حتى 10% في أوڤر أندر عند استخدام أي من بطاقات بنك الإمارات دبي الوطني",
+    "img": "https://cdn.emiratesnbd.com/plugins/cardprivileges/images/inner_images/over-under.jpg",
+    "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/over-under",
+    "promo": "",
+    "_bank": "enbd",
+    "_updated": "2026-10-06 08:52"
+  },
+  {
+    "store": "بيرنجاك",
+    "discount": "10%",
+    "category": "مطاعم",
+    "expiry": "21/09/2027",
+    "description": "خصم حتى 10% في بيرنجاك عند استخدام أي من بطاقات بنك الإمارات دبي الوطني.",
+    "img": "https://cdn.emiratesnbd.com/plugins/cardprivileges/images/inner_images/berenjak.jpg",
+    "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/berenjak",
+    "promo": "",
+    "_bank": "enbd",
+    "_updated": "2026-10-06 08:52"
+  },
+  {
+    "store": "جيمخانا",
+    "discount": "10%",
+    "category": "مطاعم",
+    "expiry": "21/09/2027",
+    "description": "خصم حتى 10% في جيمخانا عند استخدام أي من بطاقات بنك الإمارات دبي الوطني.",
+    "img": "https://cdn.emiratesnbd.com/plugins/cardprivileges/images/inner_images/gym-khana.png",
+    "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/gym-khana",
+    "promo": "",
+    "_bank": "enbd",
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "حلانا غير",
@@ -237,7 +309,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/hlana-gher-offer",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "مونوز شوكولاتة",
@@ -249,7 +321,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/munus-chocolatier-offer",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "جاناش",
@@ -261,7 +333,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/ganache-offer",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "باشن شوكلت",
@@ -273,7 +345,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/passion-chocolate-offer",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "باحة الورد",
@@ -285,7 +357,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/flower-yard-offer",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "نو باي نوماد",
@@ -297,7 +369,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/nue-by-nomad",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "مطعم طنط",
@@ -309,7 +381,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/tante-offer",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "ديب لاب كافيه",
@@ -321,7 +393,19 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/diplab-cafe",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
+  },
+  {
+    "store": "محمصة ومقهى 1981",
+    "discount": "10%",
+    "category": "مطاعم",
+    "expiry": "30/08/2027",
+    "description": "احصل على خصم 10% عند استخدام أي من بطاقات الائتمانية ومدى من بنك الإمارات دبي الوطني",
+    "img": "https://cdn.emiratesnbd.com/plugins/cardprivileges/images/inner_images/1981_cafe_and_roastery_logo.png",
+    "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/1981-cafe-and-roastary",
+    "promo": "",
+    "_bank": "enbd",
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "إي أو كي",
@@ -333,7 +417,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/aok",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "جون & فينيز",
@@ -345,7 +429,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/jon-and-vinnys",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "صبحي كابر",
@@ -357,7 +441,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/sobhy-kaber",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "مستر تشاو",
@@ -369,7 +453,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/mr-chow",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "لنش إن أبوكس",
@@ -381,7 +465,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/lunch-in-a-box",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "مطعم كراون تاون",
@@ -393,7 +477,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/crown-town-offer",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "بلاك تاب",
@@ -405,7 +489,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/blacktap",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "الباريتو",
@@ -417,7 +501,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/il-baretto",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "فيلت",
@@ -429,7 +513,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/felt-offer",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "باب سمحان",
@@ -441,7 +525,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/bab-samhan-offer",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "بريت إيه مانجر",
@@ -453,7 +537,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/pret-a-manger-offer",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "جونايدن",
@@ -465,7 +549,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/gunaydin-offer",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "لإكلير دي جيني",
@@ -477,7 +561,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/leclair-de-genie-offer",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "فَرين بيكري",
@@ -489,19 +573,19 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/dining/fareen-bakery-offer",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "Farfetch",
     "discount": "",
     "category": "أزياء",
     "expiry": "31/12/2026",
-    "description": "احصل على خصم يصل إلى 500 ريال على طلبات فارفيتش باستخدام الرمز الترويجي 26VISAME مع بطاقة الإمارات دبي الوطني الائتمانية. يسري العرض",
+    "description": "احصل على خصم يصل إلى 500 ريال على طلبات فارفيتش باستخدام الرمز الترويجي 26VISAME4 مع بطاقة الإمارات دبي الوطني الائتمانية. يسري العرض",
     "img": "https://cdn.emiratesnbd.com/plugins/cardprivileges/images/inner_images/ksa_farfetch_deal_23_ar.jpg",
     "link": "https://www.emiratesnbd.com.sa/ar/deals/fashion/farfetch",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "فوغا كلوسيت",
@@ -513,7 +597,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/fashion/voga-closet",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "LG",
@@ -525,7 +609,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/fashion/lg",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "لوكا بيوتي",
@@ -537,7 +621,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/fashion/loca-beauty",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "هيدرالايت",
@@ -549,7 +633,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/fashion/hydralyte",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "مجوهرات دازل",
@@ -561,7 +645,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/fashion/dazl-jewelry",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "بيبي كراون",
@@ -573,7 +657,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/fashion/baby-crown",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "بكسلز",
@@ -585,7 +669,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/fashion/pixels",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "باندا جوس",
@@ -597,7 +681,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/fashion/panda-juice",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "ون شوت",
@@ -609,7 +693,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/fashion/one-shot",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "أسطورة العطور",
@@ -621,7 +705,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/fashion/legend-perfume",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:39"
+    "_updated": "2026-10-06 08:52"
   },
   {
     "store": "دبليو كار",
@@ -633,7 +717,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/cars-and-accessories/wcar",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:40"
+    "_updated": "2026-10-06 08:53"
   },
   {
     "store": "الفلاح لتأجير السيارات",
@@ -645,7 +729,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/cars-and-accessories/al-falah-car-rental",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:40"
+    "_updated": "2026-10-06 08:53"
   },
   {
     "store": "بادل وي",
@@ -657,7 +741,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/health-and-lifestyle/padel-way",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:40"
+    "_updated": "2026-10-06 08:53"
   },
   {
     "store": "رياض بادل",
@@ -669,7 +753,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/health-and-lifestyle/riyadh-padel",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:40"
+    "_updated": "2026-10-06 08:53"
   },
   {
     "store": "فندق شانغريلا",
@@ -681,7 +765,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/travel/shangri-la-offer",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:40"
+    "_updated": "2026-10-06 08:53"
   },
   {
     "store": "دار طنطورة",
@@ -693,7 +777,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/travel/dar-tantora",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:40"
+    "_updated": "2026-10-06 08:53"
   },
   {
     "store": "منتجع يوم العائلة",
@@ -705,7 +789,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/travel/family-day-resort",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:40"
+    "_updated": "2026-10-06 08:53"
   },
   {
     "store": "منتجع شاطئ الدانة",
@@ -717,7 +801,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/travel/dana-beach-resort",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:40"
+    "_updated": "2026-10-06 08:53"
   },
   {
     "store": "منتجع نوفا",
@@ -729,7 +813,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/travel/nofa-resort",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:40"
+    "_updated": "2026-10-06 08:53"
   },
   {
     "store": "فلاي دي",
@@ -741,7 +825,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/travel/flyday",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:40"
+    "_updated": "2026-10-06 08:53"
   },
   {
     "store": "سمارت هوليدايز",
@@ -753,7 +837,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/travel/smart-holidays",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:40"
+    "_updated": "2026-10-06 08:53"
   },
   {
     "store": "Enalah Resorts & Hotels",
@@ -765,7 +849,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/travel/enalah-resorts-and-hotels",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:40"
+    "_updated": "2026-10-06 08:53"
   },
   {
     "store": "يومك في ماجيك بلانيت صار أحلى",
@@ -777,7 +861,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/leisure-and-entertainment/magic-planet-offer",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:40"
+    "_updated": "2026-10-06 08:53"
   },
   {
     "store": "يلا نلعب في يلا بولينج",
@@ -789,7 +873,7 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/leisure-and-entertainment/yalla-bowling-offer",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:40"
+    "_updated": "2026-10-06 08:53"
   },
   {
     "store": "يلا هايك",
@@ -801,6 +885,6 @@
     "link": "https://www.emiratesnbd.com.sa/ar/deals/leisure-and-entertainment/yalla-hike",
     "promo": "",
     "_bank": "enbd",
-    "_updated": "2026-10-05 08:40"
+    "_updated": "2026-10-06 08:53"
   }
 ]
