@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "store": "كلارو",
+    "discount": "50%",
+    "category": "سيارات وخدمات",
+    "expiry": "23 يونيو 2027",
+    "description": "بنقطتين استمتع بخصم 50% على خدمات الغسيل لدى تطبيق كلارو",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Claro.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Cars-Accessories-and-Services/Claro",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-10-09 08:34"
+  },
+  {
+    "store": "مسمار",
+    "discount": "85%",
+    "category": "سيارات وخدمات",
+    "expiry": "20 مايو 2027",
+    "description": "استمتع بخصم يصل إلى 85% لدى مسمار عند الدفع باستخدام بطاقات الانماء الائتمانية ومسبقة الدفع ومدى",
+    "img": "https://www.alinma.com/-/media/ExtraImages/Mismar1.png",
+    "link": "https://www.alinma.com/ar/Media-Campaigns/Stores/Cars-Accessories-and-Services/Mismar",
+    "promo": "",
+    "_bank": "inma",
+    "_updated": "2026-10-09 08:34"
+  }
+]
