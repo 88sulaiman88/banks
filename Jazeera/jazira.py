@@ -10,17 +10,32 @@ import os
 from datetime import datetime
 
 BASE_URL = "https://www.aljazirabank.com.sa"
-URL = f"{BASE_URL}/ar-sa/personal/promotional-offers"
+URL = f"{BASE_URL}/ar-sa/personal/offers"
 OUTPUT_FILE = "../data/jazira.json"
 
 def scrape_offers():
     print("جاري فتح الصفحة...")
     with sync_playwright() as pw:
         browser = pw.chromium.launch(headless=True)
-        page = browser.new_page()
-        page.goto(URL, wait_until="domcontentloaded", timeout=30000)
+        page = browser.new_page(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+            locale="ar-SA",
+        )
+        resp = page.goto(URL, wait_until="domcontentloaded", timeout=30000)
         page.wait_for_timeout(5000)
         html = page.content()
+        # ─── تشخيص: وش رجّع الموقع فعلياً ───
+        print(f"[تشخيص] HTTP status: {resp.status if resp else 'None'}")
+        print(f"[تشخيص] الرابط النهائي: {page.url}")
+        print(f"[تشخيص] عنوان الصفحة: {page.title()}")
+        print(f"[تشخيص] حجم HTML: {len(html)} حرف")
+        print(f"[تشخيص] initModule: {html.count('initModule')} | items: {html.count('items:')} | \"Title\": {html.count(chr(34) + 'Title' + chr(34))}")
+        try:
+            body_text = page.inner_text("body")[:800]
+        except Exception as e:
+            body_text = f"(تعذر قراءة النص: {e})"
+        print("[تشخيص] أول نص في الصفحة:")
+        print(body_text)
         browser.close()
 
     soup = BeautifulSoup(html, "html.parser")
@@ -127,4 +142,8 @@ def save_json(offers):
 
 if __name__ == "__main__":
     offers = scrape_offers()
+    if not offers:
+        # لا تمسح البيانات القديمة بقائمة فاضية
+        print("❌ صفر عروض — لم يتم تعديل الملف. راجع سطور [تشخيص] فوق.")
+        sys.exit(1)
     save_json(offers)
