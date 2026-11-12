@@ -1,5 +1,17 @@
 [
   {
+    "store": "خصم 21% من أوكسجين",
+    "discount": "21%",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
+    "description": "استمتع بخصم 21% على باقتي السنة و6 أشهر في نادي أوكسجين عند الدفع باستخدام بطاقات STC Bank",
+    "img": "https://stcbank.com.sa/documents/d/guest/10112601-_-oxygen-offer_website-banner",
+    "link": "https://stcbank.com.sa/web/guest/w/oxygen-offer",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-11-12 13:58"
+  },
+  {
     "store": "خصومات إجمالية تصل إلى 640 ⃁ من AliExpress!",
     "discount": "",
     "category": "عروض",
@@ -9,7 +21,19 @@
     "link": "https://stcbank.com.sa/web/guest/w/aliexpress-winter",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
+  },
+  {
+    "store": "مشترياتك من فارفتش بخصم يصل إلى 500 ريال!",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
+    "description": "استمتع بالخصومات من موقع وتطبيق فارفتش باستخدام بطاقات الدفع Visa والبطاقات الائتمانية من STC Bank",
+    "img": "https://stcbank.com.sa/documents/d/guest/artboard-3-copy-2",
+    "link": "https://stcbank.com.sa/web/guest/w/farfetch-winter",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "عنايتك بسيارتك أوفر بخصم 35% من درايف 7",
@@ -21,7 +45,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/drive7-offer-1",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "خصومات تصل إلى 30% من القاضي للرحلات",
@@ -33,7 +57,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/alqadi-offer-1",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "أساس الفخامة من سيّار بخصم 25%",
@@ -45,7 +69,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/new_sayyar",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "سيارتك أنظف مع سويتر",
@@ -57,19 +81,19 @@
     "link": "https://stcbank.com.sa/web/guest/w/sweater-offer-2",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
   },
   {
-    "store": "مذاق أحلى مع خصم 51% من رشوف",
-    "discount": "51%",
+    "store": "احصل على 16% مبلغ إضافي مع كيمارت من تطبيق كيتا",
+    "discount": "16%",
     "category": "عروض",
-    "expiry": "يسري العرض إلى 5 نوفمبر 2026",
-    "description": "استمتع بخصم 51% على الخلطة الفرنسية والمكملات الغذائية من رشوف عبر الموقع الإلكتروني باستخدام بطاقات STC Bank.",
-    "img": "https://stcbank.com.sa/documents/d/guest/rash-1",
-    "link": "https://stcbank.com.sa/web/guest/w/rashof-offer-1",
+    "expiry": "يسري العرض إلى 12 نوفمبر 2026",
+    "description": "استمتع بقسائم كيمارت بقيمة إضافية 16% عند شراء قسائم بقيمة 50 ريال من السوق الإلكتروني في تطبيق STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/keemart",
+    "link": "https://stcbank.com.sa/web/guest/w/keemart-offer",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "خزائن أحلامك صارت أقرب مع عالم الخزائن!",
@@ -81,7 +105,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/closets-world",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "خزائن بيتك أجمل مع الخزائن المبتكرة!",
@@ -93,7 +117,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/creative-closets",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "الكشتة أوفر بخصم 20% مع الصقر للخيام",
@@ -105,7 +129,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/alsager-offer",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "خصم يصل إلى 30% من أجار",
@@ -117,7 +141,43 @@
     "link": "https://stcbank.com.sa/web/guest/w/ajar-offer-1",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
+  },
+  {
+    "store": "خصم 50% من قراس للعطور",
+    "discount": "50%",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 30 نوفمبر 2026",
+    "description": "استمتع بخصم 50% على جميع المنتجات من قراس للعطور في الفروع والموقع الإلكتروني والتطبيق باستخدام جميع بطاقات STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/grass-perfume_website-banner",
+    "link": "https://stcbank.com.sa/web/guest/w/grass-offer",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-11-12 13:58"
+  },
+  {
+    "store": "استعد للشتاء بخصم 10% من حدائق السلطان",
+    "discount": "10%",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 30 نوفمبر 2026",
+    "description": "استمتع بخصم 10% من حدائق السلطان عبر الفروع والموقع الإلكتروني باستخدام جميع بطاقات STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/sultan-garden",
+    "link": "https://stcbank.com.sa/web/guest/w/sultangarden-offer",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-11-12 13:58"
+  },
+  {
+    "store": "استعد للشتاء بخصم 10% من الرماية",
+    "discount": "10%",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 30 نوفمبر 2026",
+    "description": "استمتع بخصم 10% على جميع المنتجات والخدمات من الرماية عبر الفروع والموقع الإلكتروني باستخدام جميع بطاقات STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/03112602-_-alrimaya_website-banner-1-",
+    "link": "https://stcbank.com.sa/web/guest/w/alrimaya-offer",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "خصم 10% من مكعب",
@@ -129,19 +189,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/mokab-offer",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
-  },
-  {
-    "store": "مزاجك أحلى مع سلالات القهوة!",
-    "discount": "",
-    "category": "عروض",
-    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
-    "description": "استمتع بخصم 20% على قائمة الطعام في الفرع و 10% على محاصيل القهوة في الموقع الإلكتروني باستخدام جميع بطاقات STC Bank.",
-    "img": "https://stcbank.com.sa/documents/d/guest/sulalt",
-    "link": "https://stcbank.com.sa/web/guest/w/sulalat-coffee",
-    "promo": "",
-    "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "خصم حتى 10% من الصنات للحقائب!",
@@ -153,55 +201,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/alsannat-offer",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
-  },
-  {
-    "store": "خصومات حتى 25% من نظارات السلمان",
-    "discount": "25%",
-    "category": "عروض",
-    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
-    "description": "استمتع بخصم 25% على النظارات الشمسية وخصم 20% على النظارات والعدسات الطبية في فروع نظارات السلمان والموقع الإلكتروني باستخدام جميع بطاقات STC Bank.",
-    "img": "https://stcbank.com.sa/documents/d/guest/al-salman-optics",
-    "link": "https://stcbank.com.sa/web/guest/w/alsalman-optics",
-    "promo": "",
-    "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
-  },
-  {
-    "store": "أناقتك الشتوية من الشياكة!",
-    "discount": "",
-    "category": "عروض",
-    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
-    "description": "استمتع بخصم 15% على منتجات الشياكة باستخدام بطاقات STC Bank.",
-    "img": "https://stcbank.com.sa/documents/d/guest/shiaka",
-    "link": "https://stcbank.com.sa/web/guest/w/alshiaka-offer-1",
-    "promo": "",
-    "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
-  },
-  {
-    "store": "الكشتة أوفر مع خصم 11% من السنيدي",
-    "discount": "11%",
-    "category": "عروض",
-    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
-    "description": "استمتع بخصم 11% على المنتجات غير المخفضة من فروع السنيدي حول المملكة، والموقع الإلكتروني والتطبيق للسنيدي باستخدام جميع بطاقات STC Bank.",
-    "img": "https://stcbank.com.sa/documents/d/guest/al-sanaidi",
-    "link": "https://stcbank.com.sa/web/guest/w/al-sanidi-offer",
-    "promo": "",
-    "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
-  },
-  {
-    "store": "جهّز كشتة الشتاء مع خصم 10% من العقيلات",
-    "discount": "10%",
-    "category": "عروض",
-    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
-    "description": "استمتع بخصم 10% على المنتجات غير المخفضة في فروع العقيلات والموقع الإلكتروني باستخدام جميع بطاقات STC Bank.",
-    "img": "https://stcbank.com.sa/documents/d/guest/aloqiylat",
-    "link": "https://stcbank.com.sa/web/guest/w/al-aloqiylat-offer",
-    "promo": "",
-    "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "خصم 30% من لوليفو",
@@ -213,7 +213,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/lolivo-offer",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "خصم 20% من لدينة!",
@@ -225,7 +225,67 @@
     "link": "https://stcbank.com.sa/web/guest/w/ladeena-offer",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
+  },
+  {
+    "store": "مزاجك أحلى مع سلالات القهوة!",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
+    "description": "استمتع بخصم 20% على قائمة الطعام في الفرع و 10% على محاصيل القهوة في الموقع الإلكتروني باستخدام جميع بطاقات STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/sulalt",
+    "link": "https://stcbank.com.sa/web/guest/w/sulalat-coffee",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-11-12 13:58"
+  },
+  {
+    "store": "خصومات حتى 25% من نظارات السلمان",
+    "discount": "25%",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
+    "description": "استمتع بخصم 25% على النظارات الشمسية وخصم 20% على النظارات والعدسات الطبية في فروع نظارات السلمان والموقع الإلكتروني باستخدام جميع بطاقات STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/al-salman-optics",
+    "link": "https://stcbank.com.sa/web/guest/w/alsalman-optics",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-11-12 13:58"
+  },
+  {
+    "store": "الكشتة أوفر مع خصم 11% من السنيدي",
+    "discount": "11%",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
+    "description": "استمتع بخصم 11% على المنتجات غير المخفضة من فروع السنيدي حول المملكة، والموقع الإلكتروني والتطبيق للسنيدي باستخدام جميع بطاقات STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/al-sanaidi",
+    "link": "https://stcbank.com.sa/web/guest/w/al-sanidi-offer",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-11-12 13:58"
+  },
+  {
+    "store": "أناقتك الشتوية من الشياكة!",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
+    "description": "استمتع بخصم 15% على منتجات الشياكة باستخدام بطاقات STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/shiaka",
+    "link": "https://stcbank.com.sa/web/guest/w/alshiaka-offer-1",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-11-12 13:58"
+  },
+  {
+    "store": "جهّز كشتة الشتاء مع خصم 10% من العقيلات",
+    "discount": "10%",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
+    "description": "استمتع بخصم 10% على المنتجات غير المخفضة في فروع العقيلات والموقع الإلكتروني باستخدام جميع بطاقات STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/aloqiylat",
+    "link": "https://stcbank.com.sa/web/guest/w/al-aloqiylat-offer",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "طلبك الجاي من نايس ون",
@@ -237,7 +297,19 @@
     "link": "https://stcbank.com.sa/web/guest/w/nice-one-winter",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
+  },
+  {
+    "store": "تسوّق من حصيل",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
+    "description": "استمتع بخصم 30% على منتجات الفواكه والخضار من حصيل باستخدام بطاقات STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/haseel",
+    "link": "https://stcbank.com.sa/web/guest/w/haseel-offer",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "دفء أكثر مع الحطب الذهبي!",
@@ -249,19 +321,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/goldwenwood-offer",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
-  },
-  {
-    "store": "تسوّق من حصيل",
-    "discount": "",
-    "category": "عروض",
-    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
-    "description": "استمتع بخصم 30% على منتجات الفواكه والخضار من حصيل باستخدام بطاقات STC Bank.",
-    "img": "https://stcbank.com.sa/documents/d/guest/haseelaa",
-    "link": "https://stcbank.com.sa/web/guest/w/haseel-offer-1",
-    "promo": "",
-    "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "مشاويرك بخصم حتى 35% من تلقاني لتأجير السيارات",
@@ -273,7 +333,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/telgani-cars",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "قهوتك ألذ مع شفل!",
@@ -285,7 +345,19 @@
     "link": "https://stcbank.com.sa/web/guest/w/shovel-offer-1",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
+  },
+  {
+    "store": "خصم 15% من موقع بلاك نايت",
+    "discount": "15%",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
+    "description": "استمتع بخصم 15% على جميع المنتجات من بلاك نايت في الموقع الإلكتروني باستخدام جميع بطاقات STC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/black-night",
+    "link": "https://stcbank.com.sa/web/guest/w/blackknight-offer",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "25% خصم من منصة معلمي",
@@ -297,7 +369,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/moalimy-offer",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "خصم 20% من محمصة عبلة",
@@ -309,19 +381,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/%D8%AE%D8%B5%D9%85-20-%D9%85%D9%86-%D9%85%D8%AD%D9%85%D8%B5%D8%A9-%D8%B9%D8%A8%D9%84%D8%A9",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
-  },
-  {
-    "store": "شاي الأولين.. ومزاج الطيبين!",
-    "discount": "",
-    "category": "عروض",
-    "expiry": "يسري العرض إلى 31 ديسمبر 2028",
-    "description": "استمتع بخصم 15% في المتجر الإلكتروني لدى شاي الأولين عند الدفع بأي بطاقة من بطاقاتSTC Bank.",
-    "img": "https://stcbank.com.sa/documents/d/guest/alawleen",
-    "link": "https://stcbank.com.sa/web/guest/w/shai-alawleen",
-    "promo": "",
-    "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "خصومات تصل إلى 50% لدى السلمان للعود",
@@ -333,7 +393,19 @@
     "link": "https://stcbank.com.sa/web/guest/w/alsalman-offer-2",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
+  },
+  {
+    "store": "شاي الأولين.. ومزاج الطيبين!",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 31 ديسمبر 2028",
+    "description": "استمتع بخصم 15% في المتجر الإلكتروني لدى شاي الأولين عند الدفع بأي بطاقة من بطاقاتSTC Bank.",
+    "img": "https://stcbank.com.sa/documents/d/guest/alawleen",
+    "link": "https://stcbank.com.sa/web/guest/w/shai-alawleen",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "خصم يصل إلى 40% من دايركت",
@@ -345,7 +417,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/directoffer",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "0% رسوم على العمليات الدولية",
@@ -357,7 +429,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/international-purchases-with-0-fees",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "خصم 20% من أوشن سبا!",
@@ -369,7 +441,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/ocean-offer",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "خصم 10% من غرينتاهب",
@@ -381,67 +453,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/grintahub",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
-  },
-  {
-    "store": "خصم 15% في منتجع Legoland",
-    "discount": "15%",
-    "category": "عروض",
-    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
-    "description": "اصنع ذكريات ممتعة مع Legoland في بريطانيا باستخدام جميع بطاقات .STC Bank Visa",
-    "img": "https://stcbank.com.sa/documents/d/guest/legoland_artboard-3-copy-38",
-    "link": "https://stcbank.com.sa/web/guest/w/legoland",
-    "promo": "",
-    "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
-  },
-  {
-    "store": "خصم 10% من The Bicester Collection",
-    "discount": "10%",
-    "category": "عروض",
-    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
-    "description": "تجربة تسوّق فاخرة في متاجر The Bicester Collection في بريطانيا باستخدام بطاقاتSTC Bank Visa.",
-    "img": "https://stcbank.com.sa/documents/d/guest/the-bicester-collection_artboard-3-copy-38",
-    "link": "https://stcbank.com.sa/web/guest/w/the-bicester",
-    "promo": "",
-    "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
-  },
-  {
-    "store": "تجربة تسوّق فريدة في La Vallée Village!",
-    "discount": "",
-    "category": "عروض",
-    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
-    "description": "استمتع بخصم 12% على مشترياتك من خلال خدمات التسوّق المعفاة من الضريبة، وقسيمة مرطبات بقيمة 5 يورو وخدمة التسوق بدون حمل المشتريات، بالإضافة إلى خصم 10...",
-    "img": "https://stcbank.com.sa/documents/d/guest/la-vallee-village_artboard-3-copy-38",
-    "link": "https://stcbank.com.sa/web/guest/w/la-vallee",
-    "promo": "",
-    "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
-  },
-  {
-    "store": "تجربة فريدة في متحف !Du Louvre",
-    "discount": "",
-    "category": "عروض",
-    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
-    "description": "استمتع بالأولوية لدخول متحف Du Louvre بالإضافة إلى دخول 3 مرافقين مع بطاقة STC Bank الائتمانية من فئة إنفينيت.",
-    "img": "https://stcbank.com.sa/documents/d/guest/the-louvre-museum_artboard-3-copy-38",
-    "link": "https://stcbank.com.sa/web/guest/w/du-louvre",
-    "promo": "",
-    "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
-  },
-  {
-    "store": "تسوّق فاخر في Printemps Haussmann باريس",
-    "discount": "",
-    "category": "عروض",
-    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
-    "description": "استمتع برفاهية التسوّق مع خدمات مميزة باستخدام بطاقات .STC Bank Visa",
-    "img": "https://stcbank.com.sa/documents/d/guest/printemps-haussmann_artboard-3-copy-38",
-    "link": "https://stcbank.com.sa/web/guest/w/printemps-haussmann",
-    "promo": "",
-    "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "تجربة تسوّق فريدة في  !Galeries Lafayette",
@@ -453,7 +465,67 @@
     "link": "https://stcbank.com.sa/web/guest/w/galeries",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
+  },
+  {
+    "store": "تجربة تسوّق فريدة في La Vallée Village!",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
+    "description": "استمتع بخصم 12% على مشترياتك من خلال خدمات التسوّق المعفاة من الضريبة، وقسيمة مرطبات بقيمة 5 يورو وخدمة التسوق بدون حمل المشتريات، بالإضافة إلى خصم 10...",
+    "img": "https://stcbank.com.sa/documents/d/guest/la-vallee-village_artboard-3-copy-38",
+    "link": "https://stcbank.com.sa/web/guest/w/la-vallee",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-11-12 13:58"
+  },
+  {
+    "store": "تسوّق فاخر في Printemps Haussmann باريس",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
+    "description": "استمتع برفاهية التسوّق مع خدمات مميزة باستخدام بطاقات .STC Bank Visa",
+    "img": "https://stcbank.com.sa/documents/d/guest/printemps-haussmann_artboard-3-copy-38",
+    "link": "https://stcbank.com.sa/web/guest/w/printemps-haussmann",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-11-12 13:58"
+  },
+  {
+    "store": "خصم 10% من The Bicester Collection",
+    "discount": "10%",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
+    "description": "تجربة تسوّق فاخرة في متاجر The Bicester Collection في بريطانيا باستخدام بطاقاتSTC Bank Visa.",
+    "img": "https://stcbank.com.sa/documents/d/guest/the-bicester-collection_artboard-3-copy-38",
+    "link": "https://stcbank.com.sa/web/guest/w/the-bicester",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-11-12 13:58"
+  },
+  {
+    "store": "تجربة فريدة في متحف !Du Louvre",
+    "discount": "",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
+    "description": "استمتع بالأولوية لدخول متحف Du Louvre بالإضافة إلى دخول 3 مرافقين مع بطاقة STC Bank الائتمانية من فئة إنفينيت.",
+    "img": "https://stcbank.com.sa/documents/d/guest/the-louvre-museum_artboard-3-copy-38",
+    "link": "https://stcbank.com.sa/web/guest/w/du-louvre",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-11-12 13:58"
+  },
+  {
+    "store": "خصم 15% في منتجع Legoland",
+    "discount": "15%",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
+    "description": "اصنع ذكريات ممتعة مع Legoland في بريطانيا باستخدام جميع بطاقات .STC Bank Visa",
+    "img": "https://stcbank.com.sa/documents/d/guest/legoland_artboard-3-copy-38",
+    "link": "https://stcbank.com.sa/web/guest/w/legoland",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "خصم يكمّل رحلتك!",
@@ -465,7 +537,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/almatar-offer",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "خصم 10% صيدلية زهرة الروضة",
@@ -477,7 +549,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/zahret-al-rawdah",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "عروض شركة عبدالله العثيم للترفيه!",
@@ -489,31 +561,7 @@
     "link": "https://stcbank.com.sa/web/guest/w/alothaim-entertainment",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
-  },
-  {
-    "store": "خصم 10% من يلو",
-    "discount": "10%",
-    "category": "عروض",
-    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
-    "description": "استمتع بخصم حصري بنسبة 10% من موقع وتطبيق يلو للسيارات باستخدام بطاقات STC Bank مدى والائتمانية.",
-    "img": "https://stcbank.com.sa/documents/d/guest/yelo-jpg",
-    "link": "https://stcbank.com.sa/web/guest/w/yelo",
-    "promo": "",
-    "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
-  },
-  {
-    "store": "خصم 30% من عيادات الكسائي!",
-    "discount": "30%",
-    "category": "عروض",
-    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
-    "description": "استمتعي بخصم حصري على جميع خدمات عيادات الكسائي باستخدام جميع بطاقات STC Bank",
-    "img": "https://stcbank.com.sa/documents/d/guest/landing-page",
-    "link": "https://stcbank.com.sa/web/guest/w/kesay-offer",
-    "promo": "",
-    "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "خصم يصل إلى 20% مع الشايع للساعات",
@@ -525,7 +573,19 @@
     "link": "https://stcbank.com.sa/web/guest/w/alshaya-watech",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
+  },
+  {
+    "store": "خصم 30% من عيادات الكسائي!",
+    "discount": "30%",
+    "category": "عروض",
+    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
+    "description": "استمتعي بخصم حصري على جميع خدمات عيادات الكسائي باستخدام جميع بطاقات STC Bank",
+    "img": "https://stcbank.com.sa/documents/d/guest/landing-page",
+    "link": "https://stcbank.com.sa/web/guest/w/kesay-offer",
+    "promo": "",
+    "_bank": "stc",
+    "_updated": "2026-11-12 13:58"
   },
   {
     "store": "خصم يصل إلى 15% مع أروماتك",
@@ -537,66 +597,6 @@
     "link": "https://stcbank.com.sa/web/guest/w/aromatic-offer",
     "promo": "",
     "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
-  },
-  {
-    "store": "خصم 15% على منتجات بيت التحميص للقهوة",
-    "discount": "15%",
-    "category": "عروض",
-    "expiry": "يسري العرض إلى 21 ديسمبر 2026",
-    "description": "قهوتك تقطّرها بنفسك مع خصم 15% على كامل الفاتورة من بيت التحميص باستخدام جميع بطاقات STC Bank.",
-    "img": "https://stcbank.com.sa/documents/d/guest/roasting-house",
-    "link": "https://stcbank.com.sa/web/guest/w/roasting-house",
-    "promo": "",
-    "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
-  },
-  {
-    "store": "خصم 10% على عطورك من قولدن سنت",
-    "discount": "10%",
-    "category": "عروض",
-    "expiry": "يسري العرض إلى 30 ديسمبر 2027",
-    "description": "اطلب عطور العيد من قولدن سنت مع خصم 10% باستخدام جميع بطاقات STC Bank",
-    "img": "https://stcbank.com.sa/documents/d/guest/golden-scent-1",
-    "link": "https://stcbank.com.sa/web/guest/w/goldenscent",
-    "promo": "",
-    "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
-  },
-  {
-    "store": "خصم 20% على منتجات وييل ستيشن للسيارات",
-    "discount": "20%",
-    "category": "عروض",
-    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
-    "description": "استمتع بخصم يصل إلى 20% على منتجات فور وييل ستشين باستخدام بطاقات STC Bank.",
-    "img": "https://stcbank.com.sa/documents/d/guest/4-wheel-station",
-    "link": "https://stcbank.com.sa/web/guest/w/4-wheel",
-    "promo": "",
-    "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
-  },
-  {
-    "store": "خصم 50% على خدمات ألترا شيلد لحماية السيارات",
-    "discount": "50%",
-    "category": "عروض",
-    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
-    "description": "استمتع بخصم 50% على الخدمات المقدمة من ألترا شيلد لحماية سيارتك من الحرارة والخدوش.",
-    "img": "https://stcbank.com.sa/documents/d/guest/ultra-shield",
-    "link": "https://stcbank.com.sa/web/guest/w/scratches",
-    "promo": "",
-    "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
-  },
-  {
-    "store": "انعِش مكانك مع نباتات جديدة مع خصم 15% من نباتاتي!",
-    "discount": "15%",
-    "category": "عروض",
-    "expiry": "يسري العرض إلى 31 ديسمبر 2027",
-    "description": "استمتع بخصم 15% على أنواع النباتات من موقع وتطبيق نباتاتي باستخدام جميع بطاقات STC Bank.",
-    "img": "https://stcbank.com.sa/documents/d/guest/nabataty",
-    "link": "https://stcbank.com.sa/web/guest/w/nabataty",
-    "promo": "",
-    "_bank": "stc",
-    "_updated": "2026-11-07 08:46"
+    "_updated": "2026-11-12 13:58"
   }
 ]
